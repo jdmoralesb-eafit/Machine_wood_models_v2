@@ -1,0 +1,41 @@
+Predictoras usadas: 153 | columnas nuevas descartadas (no estaban en el original): 74
+  Descartadas: ['31MH - Vessel-ray pits with much reduced borders to apparently simple: pits rounded or angular', '32MH - Vessel-ray pits with much reduced borders to apparently simple: pits horizontal (scalariform, gash-like) to vertical (palisade)', '33MH - Vessel-ray pits of two distinct sizes or types in the same ray cell', '34MH - Vessel-ray pits unilaterally compound and coarse (over 10 \xac\xb5m)', '35MH - Vessel-ray pits restricted to marginal rows', '36 - Helical thickenings in vessel elements present', '169MH - India, Pakistan, Sri Lanka', '170MH - Burma', '172MH - Thailand, Laos, Vietnam, Cambodia (Indochina)', '173MH - Indomalesia: Indonesia, Philippines, Malaysia, Brunei, Papua, New Guinea, and Solomon Islands', '174MH - Pacific Islands (including New Caledonia, Samoa, Hawaii, and Fiji)', '175 - Australia and New Zealand (Brazier and Franklin region 77)', '176MH - Australia', '177MH - New Zealand', '179MH - Tropical Africa', '180MH - Madagascar & Mauritius, R\u221a\xa9union & Comores', '183 - Neotropics and temperate Brazil (Brazier and Franklin region 81)', '189MH - Tree', '190MH - Shrub', '191MH - Vine / liana', '192MH - Wood of commercial importance', '193MH - Basic specific gravity low, <= 0.40', '194MH - Basic specific gravity medium, 0.40-0.75', '195MH - Basic specific gravity high, >= 0.75', '196MH - Heartwood colour darker than sapwood colour', '197MH - Heartwood basically brown or shades of brown', '198MH - Heartwood basically red or shades of red', '199MH - Heartwood basically yellow or shades of yellow', '200MH - Heartwood basically white to grey', '201MH - Heartwood with streaks', '202MH - Heartwood not as above', '203MH - Distinct odour', '204MH - Heartwood flourescent', '205MH - Water extract fluorescent', '206MH - Water extract basically colourless to brown or shades of brown', '207MH - Water extract basically red or shades of red', '208MH - Water extract basically yellow or shades of yellow', '209MH - Water extract not as above', '210MH - Ethanol extract fluorescent', '211MH - Ethanol extract basically colourless to brown or shades of brown', '212MH - Ethanol extract basically red or shades of red', '214MH - Ethanol extract not as above', '215MH - Froth test positive', '216MH - Chrome Azurol-S test positive', '217MH - Splinter burns to charcoal', '218MH - Splinter burns to a full ash: Colour of ash bright white', '219MH - Splinter burns to a full ash: Colour of ash yellow-brown', '220MH - Splinter burns to a full ash: Colour of ash other than above', '221MH - Splinter burns to a partial ash', '309FH - Cretaceous', '310FH - Aptian - Albian', '311FH - Cenomanian - Turonian', '312FH - Campanian - Maastrichtian', '313FH - Paleocene', '314FH - Lower', '315FH - Middle', '316FH - Upper', '317FH - Eocene', '318FH - Lower', '319FH - Middle', '320FH - Upper', '321FH - Oligocene', '322FH - Lower', '323FH - Middle', '324FH - Upper', '325FH - Miocene', '326FH - Lower', '327FH - Middle', '328FH - Upper', '329FH - Pliocene', '330FH - Lower', '331FH - Middle', '332FH - Upper', '333FH - Small complete axis, twig, branch']
+[characteristics 80] filas=2588 especies=1303 clases={'T1.1': 670, 'T1.2': 1875, 'T1.3': 43}
+
+== KNN
+  pliegue 1/5: base=0.888 afinado=0.912  {'weights': 'uniform', 'p': 1, 'n_neighbors': 11}
+  pliegue 2/5: base=0.877 afinado=0.884  {'weights': 'uniform', 'p': 1, 'n_neighbors': 7}
+  pliegue 3/5: base=0.875 afinado=0.892  {'weights': 'uniform', 'p': 1, 'n_neighbors': 11}
+  pliegue 4/5: base=0.924 afinado=0.934  {'weights': 'distance', 'p': 1, 'n_neighbors': 11}
+  pliegue 5/5: base=0.886 afinado=0.906  {'weights': 'uniform', 'p': 1, 'n_neighbors': 7}
+  RESUMEN base:    {'acc_3clases': 0.8875579598145286, 'acc_T11_T12': 0.9013752455795678, 'bal_acc_T11_T12': 0.889902487562189, 'f1_macro_T11_T12': 0.8675495192825342, 'recall_T11': 0.8656716417910447, 'recall_T12': 0.9141333333333334, 'recall_T13': 0.06976744186046512}
+  RESUMEN afinado: {'acc_3clases': 0.8921947449768161, 'acc_T11_T12': 0.906876227897839, 'bal_acc_T11_T12': 0.9056258706467661, 'f1_macro_T11_T12': 0.875210971381539, 'recall_T11': 0.9029850746268657, 'recall_T12': 0.9082666666666667, 'recall_T13': 0.023255813953488372}
+
+== Random_Forest
+  pliegue 1/5: base=0.922 afinado=0.907  {'peso': 'dos_clases', 'n_estimators': 200, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': 30}
+  pliegue 2/5: base=0.922 afinado=0.925  {'peso': 'dos_clases', 'n_estimators': 200, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': 30}
+  pliegue 3/5: base=0.916 afinado=0.937  {'peso': 'dos_clases', 'n_estimators': 200, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': 30}
+  pliegue 4/5: base=0.928 afinado=0.931  {'peso': 'dos_clases', 'n_estimators': 200, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': 30}
+  pliegue 5/5: base=0.916 afinado=0.925  {'peso': 'dos_clases', 'n_estimators': 200, 'min_samples_leaf': 1, 'max_features': 'log2', 'max_depth': 30}
+  RESUMEN base:    {'acc_3clases': 0.9053323029366306, 'acc_T11_T12': 0.9202357563850687, 'bal_acc_T11_T12': 0.9209273631840795, 'f1_macro_T11_T12': 0.8908477248760911, 'recall_T11': 0.9223880597014925, 'recall_T12': 0.9194666666666667, 'recall_T13': 0.023255813953488372}
+  RESUMEN afinado: {'acc_3clases': 0.884853168469861, 'acc_T11_T12': 0.8994106090373281, 'bal_acc_T11_T12': 0.9250189054726368, 'f1_macro_T11_T12': 0.8714764748198264, 'recall_T11': 0.9791044776119403, 'recall_T12': 0.8709333333333333, 'recall_T13': 0.023255813953488372}
+
+== SVM
+  pliegue 1/5: base=0.905 afinado=0.927  {'peso': 'dos_clases', 'gamma': 0.01, 'C': 1}
+  pliegue 2/5: base=0.915 afinado=0.929  {'peso': 'dos_clases', 'gamma': 0.01, 'C': 1}
+  pliegue 3/5: base=0.913 afinado=0.932  {'peso': 'dos_clases', 'gamma': 0.01, 'C': 1}
+  pliegue 4/5: base=0.934 afinado=0.934  {'peso': 'dos_clases', 'gamma': 0.01, 'C': 1}
+  pliegue 5/5: base=0.928 afinado=0.926  {'peso': 'dos_clases', 'gamma': 0.01, 'C': 1}
+  RESUMEN base:    {'acc_3clases': 0.9049459041731066, 'acc_T11_T12': 0.9202357563850687, 'bal_acc_T11_T12': 0.9190089552238806, 'f1_macro_T11_T12': 0.8897431703536287, 'recall_T11': 0.9164179104477612, 'recall_T12': 0.9216, 'recall_T13': 0.0}
+  RESUMEN afinado: {'acc_3clases': 0.8906491499227203, 'acc_T11_T12': 0.9056974459724951, 'bal_acc_T11_T12': 0.9297651741293532, 'f1_macro_T11_T12': 0.8777121126471041, 'recall_T11': 0.9805970149253731, 'recall_T12': 0.8789333333333333, 'recall_T13': 0.0}
+
+== Gradient_Boosting
+  pliegue 1/5: base=0.909 afinado=0.919  {'subsample': 0.7, 'peso': 'dos_clases', 'n_estimators': 200, 'max_depth': 2, 'learning_rate': 0.05}
+  pliegue 2/5: base=0.878 afinado=0.910  {'subsample': 0.7, 'peso': 'dos_clases', 'n_estimators': 200, 'max_depth': 2, 'learning_rate': 0.05}
+  pliegue 3/5: base=0.883 afinado=0.940  {'subsample': 0.7, 'peso': 'dos_clases', 'n_estimators': 100, 'max_depth': 2, 'learning_rate': 0.05}
+  pliegue 4/5: base=0.909 afinado=0.925  {'subsample': 0.7, 'peso': 'dos_clases', 'n_estimators': 100, 'max_depth': 2, 'learning_rate': 0.05}
+  pliegue 5/5: base=0.896 afinado=0.930  {'subsample': 0.7, 'peso': 'dos_clases', 'n_estimators': 100, 'max_depth': 2, 'learning_rate': 0.05}
+  RESUMEN base:    {'acc_3clases': 0.8979907264296755, 'acc_T11_T12': 0.9115913555992141, 'bal_acc_T11_T12': 0.8949174129353235, 'f1_macro_T11_T12': 0.8803880803880804, 'recall_T11': 0.8597014925373134, 'recall_T12': 0.9301333333333334, 'recall_T13': 0.09302325581395349}
+  RESUMEN afinado: {'acc_3clases': 0.893353941267388, 'acc_T11_T12': 0.906876227897839, 'bal_acc_T11_T12': 0.9248099502487562, 'f1_macro_T11_T12': 0.880200319461977, 'recall_T11': 0.9626865671641791, 'recall_T12': 0.8869333333333334, 'recall_T13': 0.09302325581395349}
+
+Terminado: /mnt/c/Users/drago/OneDrive/Documents/Proyecto_maderas/Modelos_T1_V4/characteristics_80/Machine

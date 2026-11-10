@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn>=1.9
+joblib
+matplotlib
+openpyxl
+rasterio
+pyproj

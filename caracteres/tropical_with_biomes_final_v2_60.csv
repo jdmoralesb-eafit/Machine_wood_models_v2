@@ -1,0 +1,1585 @@
+sp,gen,fam,Growth_Rings,Vessel_porosity,Vessel_arangement,Perforation_plates,Intervessel_pits_arregement,Mean_tangential_diameter_of_vessel_lumina,Septa_in_fibers,Fibre_wall_thickness,Parenchyma_Paratracheal,Type_of_parenchyma_banding,Ray_width,Rays_cellular_composition,TropicalHumid,TropicalDry,TropicalGrasslands,Mangrove,Biome,predicted_biome,bioma_final
+Abuta grandifolia,Abuta,MENISPERMACEAE,1,2,3,0,2,2,1,2,1,5,2,0,0.877229801,0.026232949,0.094438615,0.001049318,TropicalHumid,TropicalHumid,Tropical humid forest
+Abuta rufescens,Abuta,MENISPERMACEAE,0,2,3,0,2,2,1,2,0,1,3,4,0.96875,0.01875,0.0125,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Acanthosyris falcata,Acanthosyris,SANTALACEAE,1,2,1,0,2,1,1,2,1,4,2,0,0.0,0.264705882,0.647058824,0.0,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Acanthosyris glabrata,Acanthosyris,SANTALACEAE,1,2,1,0,1,1,1,2,1,5,2,2,0.5,0.428571429,0.0,0.071428571,TropicalHumid,,Tropical dry forest
+Acioa guianensis,Acioa,CHRYSOBALANACEAE,1,2,3,0,2,3,1,2,0,2,0,2,0.909090909,0.0,0.0,0.090909091,TropicalHumid,TropicalHumid,Tropical humid forest
+Acmanthera latifolia,Acmanthera,MALPIGHIACEAE,1,2,3,0,2,0,0,2,1,5,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Actinostemon amazonicus,Actinostemon,EUPHORBIACEAE,0,2,1,0,2,1,1,2,0,1,1,1,0.96969697,0.0,0.03030303,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Actinostemon klotzschii,Actinostemon,EUPHORBIACEAE,0,2,3,0,2,0,1,1,0,5,0,5,0.827586207,0.013793103,0.144827586,0.0,TropicalHumid,TropicalHumid,Tropical dry forest
+Adelia triloba,Adelia,EUPHORBIACEAE,1,2,3,0,2,1,1,2,0,2,0,4,0.807471264,0.140804598,0.0,0.017241379,TropicalHumid,TropicalHumid,Tropical humid forest
+Adelobotrys macrantha,Adelobotrys,MELASTOMATACEAE,1,2,3,0,2,2,1,1,1,5,0,1,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Adenaria floribunda,Adenaria,LYTHRACEAE,0,2,3,0,2,1,0,0,0,5,0,1,0.61380597,0.166044776,0.123134328,0.001865672,TropicalHumid,TropicalHumid,
+Adenocalymma divaricatum,Adenocalymma,BIGNONIACEAE,0,1,3,0,2,1,1,1,1,5,2,5,0.338235294,0.323529412,0.029411765,0.0,TropicalHumid,,Tropical dry forest
+Adiscanthus fusciflorus,Adiscanthus,RUTACEAE,1,2,1,0,2,0,1,2,1,5,1,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Aegiphila verticillata,Aegiphila,LAMIACEAE,0,2,3,0,2,1,1,1,1,5,2,3,0.301412873,0.081632653,0.372056515,0.007849294,TropicalHumid,,Tropical dry forest
+Agarista revoluta,Agarista,ERICACEAE,0,2,3,1,1,1,1,1,1,5,2,4,0.763157895,0.006578947,0.0,0.026315789,TropicalHumid,TropicalHumid,Tropical dry forest
+Agonandra brasiliensis,Agonandra,OPILIACEAE,1,2,3,0,2,1,1,2,0,5,1,0,0.28,0.138666667,0.501333333,0.016,TropicalGrasslands,TropicalGrasslands,Tropical dry forest
+Aiouea impressa,Aiouea,LAURACEAE,1,2,3,0,2,2,1,1,1,5,1,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Alchornea discolor,Alchornea,EUPHORBIACEAE,1,2,3,0,2,2,1,1,0,5,0,1,0.667655786,0.050445104,0.160237389,0.008902077,TropicalHumid,TropicalHumid,Tropical humid forest
+Alchornea glandulosa,Alchornea,EUPHORBIACEAE,1,2,3,0,2,2,1,0,0,5,1,4,0.896204493,0.03718048,0.05577072,0.005422153,TropicalHumid,TropicalHumid,Tropical humid forest
+Alchornea latifolia,Alchornea,EUPHORBIACEAE,0,2,3,0,2,3,1,0,0,5,0,1,0.885527392,0.037612428,0.003270646,0.008176615,TropicalHumid,TropicalHumid,Tropical humid forest
+Alchornea sidifolia,Alchornea,EUPHORBIACEAE,0,2,3,0,2,2,1,0,1,5,1,1,0.974619289,0.0,0.015228426,0.010152284,TropicalHumid,TropicalHumid,Tropical humid forest
+Alchornea triplinervia,Alchornea,EUPHORBIACEAE,1,2,3,0,2,2,1,1,1,1,0,2,0.6507431,0.052016985,0.106687898,0.00955414,TropicalHumid,TropicalHumid,
+Alchorneopsis floribunda,Alchorneopsis,EUPHORBIACEAE,1,2,3,0,2,2,1,0,0,3,1,4,0.974056604,0.002358491,0.016509434,0.002358491,TropicalHumid,TropicalHumid,Tropical humid forest
+Alfaroa costaricensis,Alfaroa,JUGLANDACEAE,1,2,1,0,2,2,1,1,1,1,1,4,0.994475138,0.005524862,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Alibertia curviflora,Alibertia,RUBIACEAE,1,2,3,0,2,1,1,2,0,1,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Alibertia edulis,Alibertia,RUBIACEAE,1,2,3,0,2,2,1,2,0,1,1,4,0.477456647,0.122157996,0.267822736,0.01734104,TropicalHumid,TropicalHumid,
+Allantoma decandra,Allantoma,LECYTHIDACEAE,1,2,3,0,2,2,1,1,0,1,1,0,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Allantoma lineata,Allantoma,LECYTHIDACEAE,1,2,3,0,2,1,1,1,0,2,1,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Allophylus cominia,Allophylus,SAPINDACEAE,0,2,3,0,2,1,0,1,1,5,0,0,0.770731707,0.17398374,0.0,0.021138211,TropicalHumid,TropicalHumid,Tropical dry forest
+Allophylus floribundus,Allophylus,SAPINDACEAE,1,2,3,0,2,1,0,1,0,5,0,2,0.943521595,0.03986711,0.013289037,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Alseis peruviana,Alseis,RUBIACEAE,1,2,3,0,2,1,0,1,0,5,2,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Alseis pickelii,Alseis,RUBIACEAE,0,2,3,0,2,0,0,1,0,5,1,3,0.658385093,0.02484472,0.0,0.099378882,TropicalHumid,TropicalHumid,Tropical dry forest
+Alseis yucatanensis,Alseis,RUBIACEAE,1,2,3,0,2,1,1,1,0,5,2,2,0.940721649,0.046391753,0.0,0.005154639,TropicalHumid,TropicalHumid,Tropical dry forest
+Alvaradoa amorphoides,Alvaradoa,PICRAMNIACEAE,1,2,1,0,2,1,1,1,0,5,1,2,0.175937904,0.644243208,0.0,0.006468305,TropicalDry,TropicalHumid,Tropical dry forest
+Amaioua glomerulata,Amaioua,RUBIACEAE,1,2,3,0,2,1,1,2,0,1,2,4,0.9,0.0,0.1,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Amaioua guianensis,Amaioua,RUBIACEAE,1,2,1,0,2,1,1,2,0,1,2,4,0.607361963,0.201431493,0.13190184,0.005112474,TropicalHumid,TropicalHumid,Tropical humid forest
+Amanoa glaucophylla,Amanoa,PHYLLANTHACEAE,1,2,3,0,2,2,1,2,0,5,1,4,0.1,0.0,0.8,0.0,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Amanoa guianensis,Amanoa,PHYLLANTHACEAE,1,2,3,0,2,2,1,2,0,1,1,4,0.828442438,0.015801354,0.094808126,0.0248307,TropicalHumid,TropicalHumid,Tropical humid forest
+Ampelocera edentula,Ampelocera,ULMACEAE,1,2,3,0,2,2,1,2,1,3,1,2,0.947692308,0.033846154,0.006153846,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ampelocera hottlei,Ampelocera,ULMACEAE,1,2,3,0,2,1,1,1,1,1,2,0,0.900584795,0.081871345,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Amphilophium crucigerum,Amphilophium,BIGNONIACEAE,0,0,1,0,2,3,1,1,1,4,2,2,0.646962233,0.083743842,0.121510673,0.013136289,TropicalHumid,TropicalHumid,
+Amphipterygium adstringens,Amphipterygium,ANACARDIACEAE,1,2,3,2,2,1,0,1,1,5,2,2,0.013623978,0.896457766,0.0,0.016348774,TropicalDry,TropicalDry,Tropical dry forest
+Amphirrhox longifolia,Amphirrhox,VIOLACEAE,1,2,1,1,0,0,0,1,0,5,1,1,0.952622673,0.0,0.035532995,0.008460237,TropicalHumid,TropicalHumid,Tropical humid forest
+Amphitecna donnell-smithii,Amphitecna,BIGNONIACEAE,1,2,3,0,2,1,1,1,1,5,0,0,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Amphitecna regalis,Amphitecna,BIGNONIACEAE,1,2,3,0,2,1,1,1,1,0,0,0,0.939393939,0.0,0.0,0.03030303,TropicalHumid,TropicalHumid,Tropical humid forest
+Amphitecna tuxtlensis,Amphitecna,BIGNONIACEAE,1,2,3,0,2,2,1,1,1,5,1,0,0.947368421,0.0,0.0,0.013157895,TropicalHumid,TropicalHumid,
+Anacardium excelsum,Anacardium,ANACARDIACEAE,1,2,3,0,2,2,1,1,1,5,1,3,0.773987207,0.123667377,0.02771855,0.019189765,TropicalHumid,TropicalHumid,Tropical humid forest
+Anacardium giganteum,Anacardium,ANACARDIACEAE,1,2,3,0,2,2,1,1,1,5,1,2,0.936170213,0.0,0.056737589,0.007092199,TropicalHumid,TropicalHumid,Tropical humid forest
+Anacardium occidentale,Anacardium,ANACARDIACEAE,1,2,3,0,2,3,1,1,1,5,1,5,0.466539197,0.013384321,0.292543021,0.070745698,TropicalHumid,TropicalHumid,Tropical dry forest
+Anacardium parvifolium,Anacardium,ANACARDIACEAE,1,2,3,0,2,3,0,0,1,5,0,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Anacardium spruceanum,Anacardium,ANACARDIACEAE,1,2,3,0,2,2,1,0,1,5,0,2,0.967741935,0.0,0.032258065,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Anaxagorea acuminata,Anaxagorea,ANNONACEAE,1,2,3,0,2,1,1,1,0,3,2,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Anaxagorea dolichocarpa,Anaxagorea,ANNONACEAE,1,2,3,0,2,1,1,2,0,3,2,2,0.934557979,0.002296211,0.006888634,0.025258324,TropicalHumid,TropicalHumid,Tropical humid forest
+Anemopaegma chamberlaynii,Anemopaegma,BIGNONIACEAE,1,2,3,0,2,2,0,1,1,5,1,5,0.725663717,0.026548673,0.191740413,0.017699115,TropicalHumid,TropicalHumid,Tropical dry forest
+Anemopaegma prostratum,Anemopaegma,BIGNONIACEAE,0,2,3,0,2,2,0,1,1,5,2,5,0.796116505,0.019417476,0.145631068,0.009708738,TropicalHumid,TropicalHumid,Tropical humid forest
+Aniba affinis,Aniba,LAURACEAE,1,2,3,0,2,2,0,2,1,5,1,2,0.98,0.0,0.02,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Aniba hypoglauca,Aniba,LAURACEAE,1,2,3,0,2,2,0,1,1,5,1,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Anisophyllea manausensis,Anisophyllea,ANISOPHYLLEACEAE,1,2,3,0,2,3,1,2,1,1,3,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Annona cacans,Annona,ANNONACEAE,0,2,3,0,2,1,1,1,1,1,2,3,0.802631579,0.021929825,0.166666667,0.0,TropicalHumid,TropicalHumid,Tropical dry forest
+Annona cherimola,Annona,ANNONACEAE,0,2,3,0,2,1,1,1,1,4,2,0,0.804511278,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Annona coriacea,Annona,ANNONACEAE,1,2,3,0,2,1,1,1,0,3,2,2,0.20773639,0.035816619,0.56017192,0.0,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Annona crassiflora,Annona,ANNONACEAE,1,2,3,0,2,1,1,1,0,1,2,5,0.13220339,0.023728814,0.786440678,0.0,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Annona emarginata,Annona,ANNONACEAE,1,2,3,0,2,1,1,1,0,1,2,0,0.603448276,0.022988506,0.32183908,0.0,TropicalHumid,,
+Annona glabra,Annona,ANNONACEAE,1,2,3,0,2,2,1,1,1,1,2,2,0.471111111,0.137777778,0.005925926,0.195555556,TropicalHumid,TropicalHumid,
+Annona hypoglauca,Annona,ANNONACEAE,1,2,3,0,2,2,1,1,1,1,2,2,0.978835979,0.002645503,0.018518519,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Annona jahnii,Annona,ANNONACEAE,0,2,3,0,2,2,1,1,1,1,2,0,0.257142857,0.1,0.642857143,0.0,TropicalGrasslands,TropicalHumid,Tropical humid forest
+Annona montana,Annona,ANNONACEAE,0,2,3,0,2,2,1,1,1,3,2,0,0.64785553,0.081264108,0.148984199,0.036117381,TropicalHumid,TropicalHumid,
+Annona muricata,Annona,ANNONACEAE,1,2,3,0,2,2,1,1,1,2,2,2,0.77173913,0.076086957,0.016304348,0.016304348,TropicalHumid,TropicalHumid,Tropical humid forest
+Annona neosericea,Annona,ANNONACEAE,0,2,3,0,2,2,1,1,0,1,2,2,0.97037037,0.0,0.007407407,0.022222222,TropicalHumid,TropicalHumid,Tropical humid forest
+Annona purpurea,Annona,ANNONACEAE,1,2,3,0,2,2,1,1,1,1,2,0,0.384615385,0.429864253,0.013574661,0.018099548,TropicalHumid,,
+Annona squamosa,Annona,ANNONACEAE,1,2,3,0,2,2,1,1,0,3,2,2,0.187969925,0.721804511,0.003759398,0.030075188,TropicalDry,TropicalHumid,Tropical dry forest
+Annona sylvatica,Annona,ANNONACEAE,0,2,3,0,2,1,1,0,1,3,2,0,0.787709497,0.027932961,0.148044693,0.0,TropicalHumid,TropicalHumid,
+Anthodiscus amazonicus,Anthodiscus,CARYOCARACEAE,1,2,3,0,2,2,1,2,1,5,1,4,0.970149254,0.014925373,0.0,0.014925373,TropicalHumid,TropicalHumid,Tropical humid forest
+Anthodon decussatum,Anthodon,CELASTRACEAE,1,2,1,0,2,2,1,1,1,4,3,3,0.522058824,0.382352941,0.058823529,0.0,TropicalHumid,,Tropical humid forest
+Antonia ovata,Antonia,LOGANIACEAE,1,2,3,0,2,1,1,0,0,5,0,5,0.29973822,0.062827225,0.528795812,0.001308901,TropicalGrasslands,TropicalGrasslands,Tropical dry forest
+Antrocaryon amazonicum,Antrocaryon,ANACARDIACEAE,1,2,3,0,2,2,0,1,1,5,1,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Aparisthmium cordatum,Aparisthmium,EUPHORBIACEAE,1,2,1,0,2,2,1,1,0,1,0,4,0.902985075,0.025101764,0.028493894,0.006105834,TropicalHumid,TropicalHumid,Tropical humid forest
+Aphananthe monoica,Aphananthe,CANNABACEAE,0,1,3,0,2,1,1,1,1,1,1,2,0.469273743,0.290502793,0.0,0.002793296,TropicalHumid,TropicalHumid,Tropical dry forest
+Aptandra liriosmoides,Aptandra,OLACACEAE,1,2,3,0,2,2,1,2,1,1,1,1,0.956521739,0.0,0.043478261,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Aptandra tubicina,Aptandra,OLACACEAE,1,2,1,0,2,2,1,2,1,1,1,2,0.963414634,0.008130081,0.012195122,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Aspidosperma album,Aspidosperma,APOCYNACEAE,1,2,3,0,2,2,1,1,1,5,1,2,0.966101695,0.0,0.033898305,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Aspidosperma araracanga,Aspidosperma,APOCYNACEAE,0,2,3,0,2,2,1,2,1,5,1,2,0.947368421,0.0,0.052631579,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Aspidosperma australe,Aspidosperma,APOCYNACEAE,1,2,3,0,2,0,1,1,0,4,0,0,0.678030303,0.018939394,0.223484848,0.0,TropicalHumid,TropicalHumid,Tropical dry forest
+Aspidosperma cuspa,Aspidosperma,APOCYNACEAE,1,2,3,1,2,0,1,2,0,5,1,2,0.128654971,0.052631579,0.456140351,0.0,TropicalGrasslands,TropicalGrasslands,Tropical dry forest
+Aspidosperma cylindrocarpon,Aspidosperma,APOCYNACEAE,1,2,3,0,2,0,1,2,0,5,1,2,0.388286334,0.377440347,0.219088937,0.0,TropicalHumid,,Tropical dry forest
+Aspidosperma eburneum,Aspidosperma,APOCYNACEAE,1,2,3,0,2,1,1,1,0,5,1,0,0.0,0.0,1.0,0.0,TropicalGrasslands,TropicalGrasslands,
+Aspidosperma excelsum,Aspidosperma,APOCYNACEAE,1,2,3,0,2,1,1,1,1,5,1,2,0.940092166,0.01843318,0.034562212,0.004608295,TropicalHumid,TropicalHumid,Tropical humid forest
+Aspidosperma macrocarpon,Aspidosperma,APOCYNACEAE,1,2,3,0,2,1,1,1,0,5,0,0,0.296536797,0.220779221,0.437229437,0.0,TropicalGrasslands,TropicalGrasslands,Tropical dry forest
+Aspidosperma megalocarpon,Aspidosperma,APOCYNACEAE,1,2,3,0,2,2,1,1,1,5,1,0,0.736842105,0.197368421,0.004385965,0.00877193,TropicalHumid,TropicalHumid,
+Aspidosperma olivaceum,Aspidosperma,APOCYNACEAE,0,2,3,0,2,1,1,1,1,5,0,1,0.908602151,0.0,0.080645161,0.010752688,TropicalHumid,TropicalHumid,Tropical humid forest
+Aspidosperma parvifolium,Aspidosperma,APOCYNACEAE,1,2,3,0,2,0,1,2,0,4,0,0,0.745283019,0.041509434,0.132075472,0.003773585,TropicalHumid,TropicalHumid,
+Aspidosperma pyricollum,Aspidosperma,APOCYNACEAE,0,2,3,0,2,1,1,1,1,5,0,2,0.721153846,0.009615385,0.076923077,0.086538462,TropicalHumid,TropicalHumid,Tropical dry forest
+Aspidosperma quebracho-blanco,Aspidosperma,APOCYNACEAE,1,2,3,0,2,2,1,2,1,1,1,2,0.047008547,0.11965812,0.585470085,0.0,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Aspidosperma ramiflorum,Aspidosperma,APOCYNACEAE,0,2,3,0,2,1,1,1,0,5,1,0,0.872340426,0.042553191,0.085106383,0.0,TropicalHumid,TropicalHumid,Tropical dry forest
+Aspidosperma spruceanum,Aspidosperma,APOCYNACEAE,1,2,3,0,2,2,1,1,1,5,1,2,0.764705882,0.047058824,0.090196078,0.0,TropicalHumid,TropicalHumid,
+Aspidosperma tomentosum,Aspidosperma,APOCYNACEAE,1,2,3,0,2,1,1,1,0,4,1,0,0.202680067,0.087102178,0.656616415,0.0,TropicalGrasslands,TropicalGrasslands,Tropical dry forest
+Astronium fraxinifolium,Astronium,ANACARDIACEAE,1,2,3,0,2,2,0,1,1,5,2,3,0.144761905,0.272380952,0.428571429,0.005714286,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Astronium graveolens,Astronium,ANACARDIACEAE,1,2,3,0,2,2,0,2,1,1,2,2,0.538297872,0.258510638,0.081914894,0.021276596,TropicalHumid,TropicalHumid,Tropical dry forest
+Astronium lecointei,Astronium,ANACARDIACEAE,1,2,3,0,2,2,0,2,1,5,1,3,0.782352941,0.176470588,0.035294118,0.005882353,TropicalHumid,TropicalHumid,Tropical humid forest
+Astronium ulei,Astronium,ANACARDIACEAE,1,2,3,0,2,1,1,1,1,5,1,3,0.916666667,0.0,0.083333333,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Avicennia germinans,Avicennia,ACANTHACEAE,1,2,1,0,2,1,1,1,1,1,1,1,0.132459016,0.161311475,0.003934426,0.420327869,Mangrove,TropicalHumid,Mangrove
+Axinaea nitida,Axinaea,MELASTOMATACEAE,1,2,3,0,2,0,1,0,1,5,1,0,0.964285714,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Baccharis crispa,Baccharis,ASTERACEAE,1,2,1,0,2,0,1,1,1,5,1,4,0.657559199,0.001821494,0.27140255,0.005464481,TropicalHumid,TropicalHumid,Tropical humid forest
+Baccharis dracunculifolia,Baccharis,ASTERACEAE,0,2,2,0,2,0,1,1,1,5,1,0,0.651843818,0.071583514,0.182212581,0.004338395,TropicalHumid,TropicalHumid,
+Bagassa guianensis,Bagassa,MORACEAE,1,2,3,0,2,3,1,1,1,5,2,2,0.958333333,0.0,0.0,0.041666667,TropicalHumid,TropicalHumid,
+Banara guianensis,Banara,SALICACEAE,1,2,3,0,2,1,0,1,0,5,2,4,0.924028269,0.019434629,0.030035336,0.01590106,TropicalHumid,TropicalHumid,Tropical humid forest
+Banara nitida,Banara,SALICACEAE,1,2,3,0,2,1,0,1,0,5,2,4,0.968503937,0.0,0.023622047,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Batocarpus amazonicus,Batocarpus,MORACEAE,1,2,3,0,2,2,1,1,1,1,2,3,0.878504673,0.102803738,0.018691589,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Bauhinia forficata,Bauhinia,LEGUMINOSAE,1,2,3,0,2,1,1,1,1,5,2,2,0.790821772,0.021344717,0.093916756,0.007470651,TropicalHumid,TropicalHumid,
+Bauhinia rufa,Bauhinia,LEGUMINOSAE,0,2,3,0,2,1,1,2,1,4,1,0,0.311355311,0.236263736,0.448717949,0.0,TropicalHumid,,
+Begonia parviflora,Begonia,BEGONIACEAE,1,2,3,0,0,1,1,1,1,5,3,1,0.950738916,0.019704433,0.0,0.0,TropicalHumid,TropicalHumid,
+Beilschmiedia rigida,Beilschmiedia,LAURACEAE,0,2,3,0,2,2,1,1,1,4,3,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical dry forest
+Beilschmiedia sulcata,Beilschmiedia,LAURACEAE,0,2,3,0,2,2,1,1,1,4,2,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,
+Bellucia grossularioides,Bellucia,MELASTOMATACEAE,1,2,3,0,2,2,0,1,1,5,0,5,0.842873176,0.038159371,0.076318743,0.024691358,TropicalHumid,TropicalHumid,Tropical humid forest
+Berberis cuatrecasasii,Berberis,BERBERIDACEAE,1,2,3,0,2,0,0,1,0,5,3,3,0.0,0.0,1.0,0.0,TropicalGrasslands,TropicalGrasslands,Tropical humid forest
+Berberis vallensis,Berberis,BERBERIDACEAE,1,2,1,0,2,1,0,1,0,5,2,2,0.571428571,0.0,0.285714286,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Bernardia mexicana,Bernardia,EUPHORBIACEAE,0,2,3,0,2,1,1,2,1,5,1,4,0.198156682,0.322580645,0.0,0.0,TropicalDry,TropicalHumid,Tropical dry forest
+Bertholletia excelsa,Bertholletia,LECYTHIDACEAE,1,2,3,0,2,2,1,1,0,2,1,3,0.980099502,0.0,0.014925373,0.004975124,TropicalHumid,TropicalHumid,Tropical humid forest
+Bertiera guianensis,Bertiera,RUBIACEAE,1,2,3,0,2,0,1,1,0,5,1,4,0.892571429,0.028571429,0.053714286,0.012571429,TropicalHumid,TropicalHumid,Tropical humid forest
+Bignonia aequinoctialis,Bignonia,BIGNONIACEAE,0,2,1,0,2,2,0,1,1,4,2,0,0.682119205,0.117880795,0.103311258,0.034437086,TropicalHumid,TropicalHumid,Tropical humid forest
+Bignonia corymbosa,Bignonia,BIGNONIACEAE,1,2,3,0,2,2,0,1,1,5,2,0,0.540816327,0.12585034,0.034013605,0.040816327,TropicalHumid,TropicalHumid,Tropical dry forest
+Bignonia magnifica,Bignonia,BIGNONIACEAE,1,2,3,0,2,2,0,1,1,5,1,5,0.428571429,0.095238095,0.333333333,0.0,TropicalHumid,,
+Billia rosea,Billia,SAPINDACEAE,1,2,3,2,2,1,1,1,1,3,0,0,0.950732357,0.005326232,0.03861518,0.002663116,TropicalHumid,TropicalHumid,
+Bixa arborea,Bixa,BIXACEAE,1,2,3,0,2,2,1,0,0,5,1,3,0.937984496,0.007751938,0.054263566,0.0,TropicalHumid,TropicalHumid,
+Bixa orellana,Bixa,BIXACEAE,1,2,3,0,2,1,1,1,0,5,1,2,0.647058824,0.182773109,0.066526611,0.025210084,TropicalHumid,TropicalHumid,
+Blakea subconnata,Blakea,MELASTOMATACEAE,1,2,3,0,2,1,0,2,1,1,0,1,0.888888889,0.101010101,0.0,0.01010101,TropicalHumid,TropicalHumid,Tropical humid forest
+Blastemanthus grandiflorus,Blastemanthus,OCHNACEAE,1,2,1,0,2,1,1,2,1,1,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Bocageopsis multiflora,Bocageopsis,ANNONACEAE,1,2,3,0,2,2,1,2,0,1,2,2,0.971810089,0.0,0.028189911,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Bocconia frutescens,Bocconia,PAPAVERACEAE,1,2,3,0,2,2,1,1,1,5,3,4,0.706140351,0.070175439,0.0,0.0,TropicalHumid,TropicalHumid,
+Boehmeria caudata,Boehmeria,URTICACEAE,1,2,3,0,2,1,0,1,1,5,2,3,0.872888889,0.021333333,0.031111111,0.004444444,TropicalHumid,TropicalHumid,
+Bonnetia celiae,Bonnetia,BONNETIACEAE,1,2,3,1,2,1,1,2,1,5,1,1,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Bonnetia crassa,Bonnetia,BONNETIACEAE,1,2,3,0,2,2,1,2,1,5,1,3,0.769230769,0.0,0.230769231,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Bothriospora corymbosa,Bothriospora,RUBIACEAE,1,2,3,0,2,1,0,1,1,5,2,3,0.95480226,0.0,0.04519774,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Bougainvillea spectabilis,Bougainvillea,NYCTAGINACEAE,1,2,3,0,2,2,1,2,1,0,1,1,0.70754717,0.047169811,0.103773585,0.004716981,TropicalHumid,TropicalHumid,Tropical dry forest
+Bourreria ovata,Bourreria,BORAGINACEAE,1,2,3,0,2,1,1,1,1,5,1,2,0.411764706,0.0,0.0,0.588235294,TropicalHumid,,Tropical dry forest
+Bourreria purpusii,Bourreria,BORAGINACEAE,1,2,3,0,2,0,1,2,0,1,1,3,0.008130081,0.951219512,0.0,0.008130081,TropicalDry,TropicalHumid,Tropical dry forest
+Bravaisia integerrima,Bravaisia,ACANTHACEAE,1,2,3,0,2,2,0,1,1,5,2,1,0.513742072,0.34038055,0.050739958,0.025369979,TropicalHumid,,
+Brosimum alicastrum,Brosimum,MORACEAE,1,2,3,0,2,2,1,1,1,5,1,2,0.698100851,0.212180747,0.009823183,0.026850033,TropicalHumid,TropicalHumid,
+Brosimum costaricanum,Brosimum,MORACEAE,1,2,3,0,2,2,0,2,1,5,2,3,0.969924812,0.022556391,0.0,0.007518797,TropicalHumid,TropicalHumid,Tropical humid forest
+Brosimum guianense,Brosimum,MORACEAE,1,2,3,0,2,1,1,2,1,5,1,3,0.893353941,0.045852653,0.028335909,0.014940752,TropicalHumid,TropicalHumid,Tropical humid forest
+Brosimum lactescens,Brosimum,MORACEAE,1,2,3,0,2,2,1,1,1,4,1,4,0.867850099,0.082182774,0.037475345,0.002629849,TropicalHumid,TropicalHumid,Tropical humid forest
+Brosimum potabile,Brosimum,MORACEAE,1,2,3,0,2,2,1,1,1,5,2,2,0.987447699,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Brosimum rubescens,Brosimum,MORACEAE,1,2,3,0,2,2,1,1,1,1,1,3,0.977559607,0.001402525,0.014025245,0.005610098,TropicalHumid,TropicalHumid,Tropical humid forest
+Brosimum utile,Brosimum,MORACEAE,1,2,3,0,2,2,1,1,1,5,2,3,0.935953421,0.014556041,0.040756914,0.001455604,TropicalHumid,TropicalHumid,Tropical humid forest
+Buchenavia fanshawei,Buchenavia,COMBRETACEAE,1,2,3,0,2,3,1,2,1,4,0,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Buchenavia grandis,Buchenavia,COMBRETACEAE,1,2,3,0,2,2,1,2,1,4,0,2,0.906832298,0.068322981,0.02484472,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Buchenavia kleinii,Buchenavia,COMBRETACEAE,1,2,3,0,2,1,1,0,1,4,0,2,0.911764706,0.0,0.014705882,0.073529412,TropicalHumid,TropicalHumid,Tropical humid forest
+Buchenavia oxycarpa,Buchenavia,COMBRETACEAE,1,2,3,0,2,1,1,1,1,4,0,2,0.881118881,0.083916084,0.027972028,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Buchenavia tetraphylla,Buchenavia,COMBRETACEAE,1,2,3,0,2,2,1,1,1,4,0,2,0.501779359,0.096085409,0.085409253,0.049822064,TropicalHumid,TropicalHumid,Tropical dry forest
+Buchenavia tomentosa,Buchenavia,COMBRETACEAE,1,2,3,0,2,1,1,2,1,0,1,0,0.28,0.077142857,0.588571429,0.0,TropicalGrasslands,TropicalHumid,
+Bucquetia glutinosa,Bucquetia,MELASTOMATACEAE,0,2,3,0,2,1,1,1,1,5,1,5,0.641638225,0.0,0.081911263,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Buddleja americana,Buddleja,SCROPHULARIACEAE,1,2,0,0,2,1,1,1,1,5,1,3,0.604218362,0.096774194,0.017369727,0.004962779,TropicalHumid,TropicalHumid,
+Buddleja thyrsoides,Buddleja,SCROPHULARIACEAE,1,2,3,0,2,0,1,1,1,5,1,3,0.388429752,0.0,0.388429752,0.0,TropicalHumid,,Tropical humid forest
+Bunchosia argentea,Bunchosia,MALPIGHIACEAE,1,2,3,0,2,2,1,2,1,0,1,3,0.825806452,0.058064516,0.103225806,0.012903226,TropicalHumid,TropicalHumid,Tropical humid forest
+Bunchosia nitida,Bunchosia,MALPIGHIACEAE,1,2,3,0,2,1,1,1,1,1,1,2,0.824884793,0.096774194,0.004608295,0.036866359,TropicalHumid,TropicalHumid,Tropical humid forest
+Burdachia prismatocarpa,Burdachia,MALPIGHIACEAE,1,2,0,0,2,1,1,2,1,4,1,4,0.881818182,0.0,0.118181818,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Bursera copallifera,Bursera,BURSERACEAE,1,2,3,0,2,2,0,1,1,5,1,2,0.004081633,0.775510204,0.0,0.0,TropicalDry,TropicalHumid,Tropical dry forest
+Bursera graveolens,Bursera,BURSERACEAE,1,2,3,0,2,2,0,1,1,5,2,2,0.211538462,0.512019231,0.012019231,0.024038462,TropicalDry,TropicalHumid,Tropical dry forest
+Bursera morelensis,Bursera,BURSERACEAE,1,2,3,0,2,2,0,0,1,5,1,3,0.02559415,0.665447898,0.0,0.0,TropicalDry,TropicalHumid,Tropical dry forest
+Bursera simaruba,Bursera,BURSERACEAE,1,2,3,0,2,2,0,0,1,5,2,2,0.535094963,0.280759703,0.0,0.069777044,TropicalHumid,TropicalHumid,Tropical dry forest
+Buxus glomerata,Buxus,BUXACEAE,1,2,3,1,1,0,1,2,1,5,2,2,0.368421053,0.263157895,0.0,0.0,TropicalHumid,TropicalHumid,Tropical dry forest
+Byrsonima aerugo,Byrsonima,MALPIGHIACEAE,1,2,3,0,2,2,1,1,1,5,1,4,0.9,0.0,0.075,0.025,TropicalHumid,TropicalHumid,Tropical humid forest
+Byrsonima basiloba,Byrsonima,MALPIGHIACEAE,1,2,3,2,2,1,1,1,1,5,1,5,0.139240506,0.029535865,0.82278481,0.0,TropicalGrasslands,TropicalGrasslands,Tropical dry forest
+Byrsonima coccolobifolia,Byrsonima,MALPIGHIACEAE,1,2,1,2,2,1,0,1,1,5,2,5,0.241563055,0.043516874,0.604795737,0.020426288,TropicalGrasslands,TropicalGrasslands,Tropical dry forest
+Byrsonima crassifolia,Byrsonima,MALPIGHIACEAE,1,2,3,0,2,1,0,1,1,4,2,4,0.458379578,0.17563818,0.183962264,0.036071032,TropicalHumid,TropicalHumid,
+Byrsonima densa,Byrsonima,MALPIGHIACEAE,1,2,3,0,2,2,0,1,1,5,2,2,0.956521739,0.0,0.0,0.043478261,TropicalHumid,TropicalHumid,Tropical humid forest
+Byrsonima japurensis,Byrsonima,MALPIGHIACEAE,1,2,3,0,2,1,0,1,0,5,2,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Byrsonima obversa,Byrsonima,MALPIGHIACEAE,1,2,3,2,2,2,0,1,1,5,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Byrsonima verbascifolia,Byrsonima,MALPIGHIACEAE,0,2,1,0,2,1,0,1,1,5,2,5,0.216990788,0.009211873,0.628454452,0.01432958,TropicalGrasslands,TropicalGrasslands,Tropical dry forest
+Cabralea canjerana,Cabralea,MELIACEAE,1,2,3,2,2,2,0,1,1,0,1,2,0.804379562,0.003649635,0.162773723,0.008759124,TropicalHumid,TropicalHumid,Tropical humid forest
+Calatola costaricensis,Calatola,ICACINACEAE,1,2,3,1,2,1,1,1,1,1,2,5,0.961360124,0.01236476,0.001545595,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Calophyllum brasiliense,Calophyllum,CALOPHYLLACEAE,1,2,1,0,2,2,1,1,0,1,0,3,0.668938103,0.072685974,0.133446905,0.023282226,TropicalHumid,TropicalHumid,Tropical humid forest
+Calycophyllum candidissimum,Calycophyllum,RUBIACEAE,1,2,3,0,2,1,0,1,1,5,2,4,0.317738791,0.493177388,0.031189084,0.015594542,TropicalHumid,,
+Calycophyllum multiflorum,Calycophyllum,RUBIACEAE,1,2,1,0,2,0,0,2,0,5,1,3,0.137168142,0.150442478,0.579646018,0.0,TropicalGrasslands,TropicalGrasslands,Tropical dry forest
+Calycophyllum spruceanum,Calycophyllum,RUBIACEAE,1,2,1,0,2,1,0,1,0,5,2,2,0.910638298,0.042553191,0.042553191,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Calyptranthes speciosa,Calyptranthes,MYRTACEAE,1,2,3,0,2,2,1,2,1,1,1,4,0.98,0.0,0.02,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Campnosperma panamense,Campnosperma,ANACARDIACEAE,1,2,3,0,2,1,0,1,0,5,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Campomanesia grandiflora,Campomanesia,MYRTACEAE,1,2,3,0,2,1,1,2,0,5,1,4,0.69047619,0.0,0.214285714,0.071428571,TropicalHumid,TropicalHumid,Tropical humid forest
+Campomanesia pubescens,Campomanesia,MYRTACEAE,0,2,3,0,2,1,1,2,0,5,1,3,0.306057386,0.001062699,0.68544102,0.0,TropicalGrasslands,,
+Canella winterana,Canella,CANELLACEAE,1,2,3,1,0,1,1,2,1,5,1,2,0.68,0.153333333,0.0,0.066666667,TropicalHumid,TropicalHumid,Tropical dry forest
+Capparis flexuosa,Capparis,CAPPARACEAE,1,2,1,0,2,1,1,1,1,5,1,3,0.289719626,0.205607477,0.308411215,0.08411215,TropicalGrasslands,TropicalHumid,
+Caraipa densifolia,Caraipa,CALOPHYLLACEAE,1,2,1,0,2,2,1,2,1,5,0,3,0.796529968,0.093059937,0.110410095,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Carapa guianensis,Carapa,MELIACEAE,1,2,3,0,2,2,0,1,1,4,2,2,0.882249561,0.014059754,0.054481547,0.033391916,TropicalHumid,TropicalHumid,Tropical humid forest
+Carpotroche grandiflora,Carpotroche,ACHARIACEAE,1,2,3,0,2,0,0,1,0,5,2,1,0.948717949,0.0,0.051282051,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Carpotroche longifolia,Carpotroche,ACHARIACEAE,1,2,3,1,2,1,0,0,0,5,2,1,0.995024876,0.0,0.0,0.002487562,TropicalHumid,TropicalHumid,Tropical humid forest
+Carpotroche platyptera,Carpotroche,ACHARIACEAE,1,2,3,1,1,0,0,1,0,5,2,4,0.956521739,0.0,0.0,0.015345269,TropicalHumid,TropicalHumid,Tropical humid forest
+Caryocar glabrum,Caryocar,CARYOCARACEAE,0,2,3,1,2,3,0,2,0,5,1,4,0.987975952,0.0,0.008016032,0.002004008,TropicalHumid,TropicalHumid,Tropical humid forest
+Caryocar nuciferum,Caryocar,CARYOCARACEAE,1,2,3,1,2,2,1,1,1,5,1,4,0.941176471,0.0,0.0,0.058823529,TropicalHumid,TropicalHumid,Tropical humid forest
+Caryocar villosum,Caryocar,CARYOCARACEAE,1,2,3,0,2,3,1,2,1,5,1,4,0.975806452,0.0,0.016129032,0.008064516,TropicalHumid,TropicalHumid,Tropical humid forest
+Casearia arborea,Casearia,SALICACEAE,1,2,3,0,2,1,1,1,0,5,2,4,0.788536019,0.046088304,0.084430674,0.01045701,TropicalHumid,TropicalHumid,Tropical humid forest
+Casearia corymbosa,Casearia,SALICACEAE,0,2,3,0,2,1,0,1,0,5,1,5,0.38619403,0.432835821,0.013992537,0.016791045,TropicalHumid,,
+Casearia javitensis,Casearia,SALICACEAE,1,2,3,0,2,1,1,2,0,5,2,4,0.805782061,0.060044477,0.043736101,0.012601927,TropicalHumid,TropicalHumid,Tropical humid forest
+Casearia praecox,Casearia,SALICACEAE,1,2,3,0,2,0,0,2,0,5,1,4,0.126984127,0.650793651,0.023809524,0.0,TropicalDry,TropicalHumid,
+Casearia sylvestris,Casearia,SALICACEAE,1,2,3,0,2,1,0,1,0,5,1,4,0.620489691,0.055895619,0.237757732,0.015302835,TropicalHumid,TropicalHumid,
+Casimirella ampla,Casimirella,ICACINACEAE,1,2,3,0,2,3,1,1,1,1,3,5,0.869565217,0.043478261,0.086956522,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Cassipourea guianensis,Cassipourea,RHIZOPHORACEAE,1,2,3,2,1,1,1,2,1,5,2,4,0.906493506,0.020779221,0.012987013,0.028571429,TropicalHumid,TropicalHumid,Tropical humid forest
+Castela galapageia,Castela,SIMAROUBACEAE,1,2,1,0,2,0,1,2,1,4,2,0,0.5,0.0,0.0,0.0,TropicalHumid,TropicalHumid,
+Castilla elastica,Castilla,MORACEAE,1,2,3,0,2,2,0,0,1,4,2,3,0.72479564,0.138964578,0.04359673,0.008174387,TropicalHumid,TropicalHumid,Tropical humid forest
+Castilla ulei,Castilla,MORACEAE,1,2,3,0,2,3,0,0,1,5,1,3,0.957446809,0.026595745,0.015957447,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Catalpa longissima,Catalpa,BIGNONIACEAE,1,2,3,0,2,2,0,1,1,5,1,2,0.2,0.4,0.0,0.0,TropicalDry,TropicalHumid,
+Catalpa macrocarpa,Catalpa,BIGNONIACEAE,1,2,3,0,2,1,0,1,1,3,0,0,0.0,0.6,0.0,0.0,TropicalDry,TropicalHumid,Tropical dry forest
+Cavendishia bracteata,Cavendishia,ERICACEAE,1,2,3,1,2,0,1,1,1,5,2,1,0.875,0.015789474,0.0,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Cecropia obtusifolia,Cecropia,URTICACEAE,1,2,3,0,2,3,1,0,1,5,2,2,0.739255014,0.071633238,0.071633238,0.015759312,TropicalHumid,TropicalHumid,Tropical humid forest
+Cecropia peltata,Cecropia,URTICACEAE,1,2,3,0,2,2,1,0,0,5,1,4,0.870307167,0.078498294,0.003412969,0.013651877,TropicalHumid,TropicalHumid,Tropical dry forest
+Cecropia sciadophylla,Cecropia,URTICACEAE,1,2,3,0,2,3,1,1,1,5,2,4,0.931372549,0.003921569,0.058823529,0.001960784,TropicalHumid,TropicalHumid,Tropical humid forest
+Cedrela montana,Cedrela,MELIACEAE,0,2,3,0,2,2,1,1,1,4,2,3,0.722891566,0.012048193,0.228915663,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Cedrela salvadorensis,Cedrela,MELIACEAE,0,1,3,0,2,3,1,1,1,4,1,2,0.26519337,0.55801105,0.0,0.0,TropicalDry,TropicalDry,
+Celtis iguanaea,Celtis,CANNABACEAE,0,2,3,0,2,2,1,1,1,4,2,3,0.467374214,0.224056604,0.15172956,0.011792453,TropicalHumid,TropicalHumid,Tropical dry forest
+Celtis schippii,Celtis,CANNABACEAE,1,2,3,0,2,2,1,1,1,1,2,3,0.914285714,0.051428571,0.034285714,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Centronia neblinae,Centronia,MELASTOMATACEAE,1,2,3,0,1,2,1,1,1,1,0,1,0.8,0.0,0.2,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ceratostema reginaldii,Ceratostema,ERICACEAE,1,2,3,1,2,0,1,2,0,5,2,5,0.80952381,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Cestrum macrophyllum,Cestrum,SOLANACEAE,0,2,3,0,2,1,1,1,1,5,1,5,0.9375,0.0625,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Chaetocarpus schomburgkianus,Chaetocarpus,PERACEAE,1,2,3,0,2,2,1,2,0,2,1,3,0.843575419,0.0,0.12849162,0.027932961,TropicalHumid,TropicalHumid,Tropical humid forest
+Chaunochiton kappleri,Chaunochiton,OLACACEAE,1,2,1,0,2,2,1,2,0,1,2,3,0.901554404,0.020725389,0.077720207,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Cheiloclinium cognatum,Cheiloclinium,CELASTRACEAE,1,2,3,0,2,1,1,0,1,5,1,1,0.657375145,0.18931475,0.138211382,0.004065041,TropicalHumid,TropicalHumid,Tropical humid forest
+Chimarrhis hookeri,Chimarrhis,RUBIACEAE,1,2,3,0,2,2,0,1,0,5,2,2,0.992957746,0.0,0.007042254,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Chimarrhis microcarpa,Chimarrhis,RUBIACEAE,1,2,3,0,2,2,0,1,1,5,2,3,0.764705882,0.019607843,0.215686275,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Chimarrhis turbinata,Chimarrhis,RUBIACEAE,1,2,1,0,2,2,0,2,1,5,2,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Chomelia paniculata,Chomelia,RUBIACEAE,1,2,3,0,2,1,1,2,1,5,1,4,0.6,0.246153846,0.123076923,0.0,TropicalHumid,TropicalHumid,
+Chomelia venezuelensis,Chomelia,RUBIACEAE,1,2,3,0,2,1,1,1,0,5,1,1,0.333333333,0.416666667,0.0,0.0,TropicalHumid,,Tropical dry forest
+Chromolucuma rubriflora,Chromolucuma,SAPOTACEAE,1,2,1,0,2,1,1,2,0,1,1,4,0.978723404,0.0,0.021276596,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Chrysobalanus icaco,Chrysobalanus,CHRYSOBALANACEAE,1,2,3,0,2,2,1,2,0,1,0,5,0.618081181,0.04797048,0.014760148,0.151291513,TropicalHumid,TropicalHumid,
+Chrysochlamys colombiana,Chrysochlamys,CLUSIACEAE,1,2,3,0,0,1,1,1,0,5,1,1,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Chrysochlamys dependens,Chrysochlamys,CLUSIACEAE,1,2,3,0,0,1,1,1,0,5,1,1,0.967611336,0.0,0.032388664,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Chrysochlamys weberbaueri,Chrysochlamys,CLUSIACEAE,1,2,3,0,0,1,1,1,1,5,1,2,0.992481203,0.007518797,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Chrysophyllum argenteum,Chrysophyllum,SAPOTACEAE,1,2,3,0,2,1,1,2,0,1,0,3,0.868198307,0.039903265,0.049576784,0.014510278,TropicalHumid,TropicalHumid,Tropical humid forest
+Chrysophyllum cainito,Chrysophyllum,SAPOTACEAE,1,2,1,0,2,1,1,2,0,1,1,4,0.910714286,0.053571429,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Chrysophyllum gonocarpum,Chrysophyllum,SAPOTACEAE,0,2,3,0,2,1,1,2,0,1,1,4,0.736895161,0.047379032,0.171370968,0.005040323,TropicalHumid,TropicalHumid,Tropical dry forest
+Chrysophyllum oliviforme,Chrysophyllum,SAPOTACEAE,1,2,1,0,2,1,1,1,0,1,1,3,0.393442623,0.163934426,0.0,0.032786885,TropicalHumid,TropicalHumid,Tropical humid forest
+Chrysophyllum pomiferum,Chrysophyllum,SAPOTACEAE,1,2,3,0,2,1,1,1,0,0,1,0,0.966887417,0.0,0.01986755,0.013245033,TropicalHumid,TropicalHumid,Tropical humid forest
+Chrysophyllum prieurii,Chrysophyllum,SAPOTACEAE,1,2,1,0,2,1,1,2,0,1,1,4,0.982832618,0.008583691,0.0,0.008583691,TropicalHumid,TropicalHumid,Tropical humid forest
+Chrysophyllum sanguinolentum,Chrysophyllum,SAPOTACEAE,1,2,1,0,2,2,1,2,0,1,0,4,0.979545455,0.002272727,0.018181818,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Cinchona calisaya,Cinchona,RUBIACEAE,1,2,1,0,2,2,1,2,0,1,2,2,0.928571429,0.061904762,0.004761905,0.0,TropicalHumid,TropicalHumid,
+Cinchona pubescens,Cinchona,RUBIACEAE,1,2,3,0,2,0,1,2,0,5,2,4,0.814300961,0.007470651,0.164354322,0.0,TropicalHumid,TropicalHumid,
+Cinnamodendron axillare,Cinnamodendron,CANELLACEAE,1,2,3,0,2,2,1,1,1,5,2,4,0.909090909,0.0,0.090909091,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Citharexylum spinosum,Citharexylum,VERBENACEAE,1,1,3,1,2,2,0,1,1,4,1,2,0.357142857,0.171428571,0.014285714,0.242857143,TropicalHumid,TropicalHumid,
+Citronella silvatica,Citronella,CARDIOPTERIDACEAE,0,2,1,0,2,1,1,1,1,5,1,3,0.833333333,0.0,0.166666667,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Clavija lancifolia,Clavija,PRIMULACEAE,1,2,3,0,2,2,1,1,1,5,2,3,0.876404494,0.02247191,0.073033708,0.016853933,TropicalHumid,TropicalHumid,Tropical humid forest
+Clavija umbrosa,Clavija,PRIMULACEAE,1,2,3,0,2,0,0,2,1,5,2,5,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Clerodendrum molle,Clerodendrum,LAMIACEAE,1,2,3,0,2,0,0,1,1,5,3,2,0.4,0.6,0.0,0.0,TropicalDry,,Tropical dry forest
+Clethra mexicana,Clethra,CLETHRACEAE,1,2,3,0,2,1,1,1,1,5,1,5,0.563400576,0.085014409,0.0,0.0,TropicalHumid,TropicalHumid,
+Clethra ovalifolia,Clethra,CLETHRACEAE,1,2,3,1,1,1,1,1,0,5,2,4,0.857142857,0.007936508,0.007936508,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Clethra scabra,Clethra,CLETHRACEAE,0,2,3,2,1,0,1,1,1,5,2,3,0.803886926,0.032685512,0.109540636,0.010600707,TropicalHumid,TropicalHumid,
+Clusia alata,Clusia,CLUSIACEAE,1,2,3,0,2,1,1,1,1,5,0,1,0.909090909,0.0,0.051136364,0.0,TropicalHumid,TropicalHumid,
+Cnestidium guianense,Cnestidium,CONNARACEAE,1,2,3,0,0,1,1,1,1,5,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Coccoloba acuminata,Coccoloba,POLYGONACEAE,0,2,1,0,2,2,1,1,0,5,0,5,0.87195122,0.091463415,0.012195122,0.00304878,TropicalHumid,TropicalHumid,Tropical humid forest
+Coccoloba barbadensis,Coccoloba,POLYGONACEAE,1,2,3,0,2,1,0,2,0,5,0,0,0.423556059,0.396375991,0.0,0.088335221,TropicalHumid,,Tropical dry forest
+Coccoloba hondurensis,Coccoloba,POLYGONACEAE,0,2,1,0,2,1,0,1,1,5,0,2,0.794642857,0.089285714,0.0,0.044642857,TropicalHumid,TropicalHumid,Tropical humid forest
+Coccoloba microstachya,Coccoloba,POLYGONACEAE,1,2,3,0,2,2,0,1,1,5,2,2,0.777777778,0.222222222,0.0,0.0,TropicalHumid,TropicalHumid,
+Coccoloba pyrifolia,Coccoloba,POLYGONACEAE,0,2,3,0,2,1,0,1,1,5,0,0,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Coccoloba sintenisii,Coccoloba,POLYGONACEAE,1,2,3,0,2,1,0,1,0,5,0,5,0.5,0.5,0.0,0.0,TropicalHumid,,Tropical humid forest
+Cochlospermum vitifolium,Cochlospermum,BIXACEAE,1,2,3,0,2,1,1,0,1,0,2,3,0.315947844,0.273821464,0.077231695,0.017051153,TropicalHumid,TropicalHumid,Tropical dry forest
+Colignonia scandens,Colignonia,NYCTAGINACEAE,1,2,3,0,2,3,1,0,1,0,2,2,0.956521739,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Colubrina arborescens,Colubrina,RHAMNACEAE,1,2,3,0,2,1,1,1,1,5,1,3,0.501457726,0.282798834,0.0,0.093294461,TropicalHumid,TropicalHumid,Tropical dry forest
+Colubrina elliptica,Colubrina,RHAMNACEAE,0,2,3,0,2,2,1,1,1,4,1,2,0.143884892,0.395683453,0.0,0.007194245,TropicalDry,TropicalHumid,Tropical dry forest
+Colubrina glandulosa,Colubrina,RHAMNACEAE,0,2,1,0,2,1,1,2,1,4,1,4,0.75974026,0.051948052,0.155844156,0.006493506,TropicalHumid,TropicalHumid,
+Combretum fruticosum,Combretum,COMBRETACEAE,1,2,3,1,2,1,1,1,0,5,0,1,0.524721879,0.271940667,0.092707046,0.012360939,TropicalHumid,TropicalHumid,
+Combretum leprosum,Combretum,COMBRETACEAE,0,2,3,0,2,2,0,1,1,4,1,5,0.116525424,0.326271186,0.175847458,0.0,TropicalDry,TropicalHumid,Tropical dry forest
+Combretum pyramidatum,Combretum,COMBRETACEAE,1,1,3,0,2,2,0,1,1,4,0,2,0.895833333,0.010416667,0.09375,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Comocladia dentata,Comocladia,ANACARDIACEAE,0,2,3,0,2,2,1,1,1,5,0,1,0.375,0.25,0.0,0.0,TropicalHumid,TropicalHumid,
+Comocladia dodonaea,Comocladia,ANACARDIACEAE,0,2,3,0,2,1,1,1,1,5,1,2,0.375,0.125,0.0,0.125,TropicalHumid,TropicalHumid,Tropical humid forest
+Comocladia glabra,Comocladia,ANACARDIACEAE,0,2,3,0,2,2,1,1,1,5,1,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Comocladia pinnatifolia,Comocladia,ANACARDIACEAE,1,2,3,0,2,1,1,1,1,5,1,5,0.777777778,0.222222222,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Compsoneura sprucei,Compsoneura,MYRISTICACEAE,1,2,3,0,2,2,1,2,1,4,1,3,0.967213115,0.00273224,0.008196721,0.013661202,TropicalHumid,TropicalHumid,Tropical humid forest
+Conceveiba martiana,Conceveiba,EUPHORBIACEAE,1,2,3,0,2,2,1,0,0,1,0,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Conceveiba prealta,Conceveiba,EUPHORBIACEAE,1,2,3,1,2,2,1,1,0,1,0,5,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Connarus patrisii,Connarus,CONNARACEAE,0,1,1,0,2,1,1,1,1,4,2,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Connarus suberosus,Connarus,CONNARACEAE,1,2,3,0,2,2,1,0,0,5,0,5,0.151315789,0.059210526,0.768421053,0.001315789,TropicalGrasslands,TropicalGrasslands,Tropical dry forest
+Conocarpus erectus,Conocarpus,COMBRETACEAE,0,2,3,0,2,1,1,1,1,5,1,4,0.233866193,0.231497928,0.003552398,0.348134991,Mangrove,TropicalHumid,Mangrove
+Conostegia rufescens,Conostegia,MELASTOMATACEAE,1,2,3,0,2,1,1,1,1,1,0,5,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Cordia alliodora,Cordia,BORAGINACEAE,1,2,3,0,2,2,1,2,1,4,1,3,0.522893165,0.324485733,0.059721301,0.00597213,TropicalHumid,,
+Cordia bicolor,Cordia,BORAGINACEAE,1,2,0,0,2,1,1,2,1,4,2,2,0.836552749,0.060921248,0.08320951,0.001485884,TropicalHumid,TropicalHumid,Tropical humid forest
+Cordia cicatricosa,Cordia,BORAGINACEAE,0,2,3,0,2,1,1,1,1,5,1,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Cordia collococca,Cordia,BORAGINACEAE,1,2,3,0,2,3,1,1,1,5,2,2,0.808988764,0.112359551,0.011235955,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Cordia dodecandra,Cordia,BORAGINACEAE,1,2,3,0,2,2,1,1,1,5,2,2,0.429508197,0.481967213,0.0,0.049180328,TropicalHumid,,Tropical dry forest
+Cordia elaeagnoides,Cordia,BORAGINACEAE,1,2,3,0,2,1,1,1,1,5,2,3,0.013461538,0.934615385,0.0,0.009615385,TropicalDry,TropicalHumid,Tropical dry forest
+Cordia gerascanthus,Cordia,BORAGINACEAE,0,1,0,0,2,3,1,2,1,4,2,2,0.163934426,0.672131148,0.0,0.016393443,TropicalDry,TropicalDry,Tropical dry forest
+Cordia glabrata,Cordia,BORAGINACEAE,0,2,3,0,2,2,1,1,1,5,2,2,0.116216216,0.110810811,0.494594595,0.0,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Cordia goeldiana,Cordia,BORAGINACEAE,0,2,3,0,2,2,1,1,1,4,2,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Cordia lutea,Cordia,BORAGINACEAE,1,2,3,0,2,3,1,1,1,4,2,3,0.471590909,0.346590909,0.005681818,0.085227273,TropicalHumid,,Tropical dry forest
+Cordia sebestena,Cordia,BORAGINACEAE,0,1,3,0,2,1,1,2,1,5,1,5,0.277945619,0.172205438,0.009063444,0.32326284,Mangrove,Mangrove,Tropical dry forest
+Cordia sellowiana,Cordia,BORAGINACEAE,0,2,3,0,2,2,1,2,1,1,2,3,0.591355599,0.031434185,0.275049116,0.025540275,TropicalHumid,TropicalHumid,
+Cordia sonorae,Cordia,BORAGINACEAE,0,1,3,0,2,1,1,1,1,5,2,5,0.0,0.828767123,0.0,0.0,TropicalDry,TropicalDry,Tropical dry forest
+Cordia sulcata,Cordia,BORAGINACEAE,1,2,3,0,2,1,1,2,1,4,2,2,0.8,0.0,0.0,0.133333333,TropicalHumid,TropicalHumid,Tropical humid forest
+Cordia toqueve,Cordia,BORAGINACEAE,1,2,3,0,2,1,1,1,1,0,2,3,0.725274725,0.005494505,0.054945055,0.043956044,TropicalHumid,TropicalHumid,Tropical dry forest
+Cordiera concolor,Cordiera,RUBIACEAE,1,1,0,0,2,3,1,0,1,0,2,3,0.421383648,0.052830189,0.387421384,0.008805031,TropicalHumid,,Tropical dry forest
+Cornus disciflora,Cornus,CORNACEAE,0,2,0,0,2,1,1,1,1,5,3,5,0.496825397,0.058730159,0.0,0.0,TropicalHumid,TropicalHumid,
+Cornus peruviana,Cornus,CORNACEAE,1,2,3,1,1,1,1,1,1,5,2,4,0.878787879,0.012121212,0.006060606,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Corythophora alta,Corythophora,LECYTHIDACEAE,1,2,3,0,2,2,0,1,1,5,2,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Cosmibuena grandiflora,Cosmibuena,RUBIACEAE,1,2,3,0,2,2,1,1,0,1,1,2,0.851851852,0.02962963,0.1,0.011111111,TropicalHumid,TropicalHumid,Tropical humid forest
+Couepia caryophylloides,Couepia,CHRYSOBALANACEAE,1,2,3,0,2,1,1,1,1,5,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Couma guianensis,Couma,APOCYNACEAE,1,2,3,0,2,3,1,2,0,2,0,5,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Couma macrocarpa,Couma,APOCYNACEAE,1,2,3,0,2,2,1,1,1,2,1,4,0.914209115,0.00536193,0.075067024,0.00536193,TropicalHumid,TropicalHumid,Tropical humid forest
+Couratari gloriosa,Couratari,LECYTHIDACEAE,1,2,3,0,2,2,1,1,0,2,0,0,0.954545455,0.0,0.0,0.045454545,TropicalHumid,TropicalHumid,Tropical humid forest
+Couratari guianensis,Couratari,LECYTHIDACEAE,1,2,3,0,2,2,1,1,0,2,1,0,0.965095986,0.022687609,0.008726003,0.003490401,TropicalHumid,TropicalHumid,Tropical humid forest
+Couratari macrosperma,Couratari,LECYTHIDACEAE,1,2,3,0,2,2,1,1,0,1,1,2,0.92481203,0.0,0.045112782,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Couratari oblongifolia,Couratari,LECYTHIDACEAE,1,2,3,0,2,3,1,1,0,1,1,2,0.935483871,0.0,0.064516129,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Couroupita guianensis,Couroupita,LECYTHIDACEAE,1,2,3,0,2,3,1,1,0,4,1,2,0.689189189,0.087837838,0.141891892,0.060810811,TropicalHumid,TropicalHumid,Tropical humid forest
+Coussapoa angustifolia,Coussapoa,URTICACEAE,1,2,3,0,2,2,1,1,0,1,1,2,0.984848485,0.0,0.0,0.015151515,TropicalHumid,TropicalHumid,Tropical humid forest
+Coussarea albescens,Coussarea,RUBIACEAE,1,2,3,0,2,3,1,1,1,0,2,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Coussarea contracta,Coussarea,RUBIACEAE,1,2,3,0,2,1,0,1,1,5,2,5,0.788213628,0.0,0.132596685,0.042357274,TropicalHumid,TropicalHumid,
+Coussarea surinamensis,Coussarea,RUBIACEAE,1,2,3,0,2,1,0,1,1,5,2,5,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Coutarea hexandra,Coutarea,RUBIACEAE,0,2,3,0,2,0,1,1,1,5,1,4,0.472027972,0.141358641,0.128371628,0.012987013,TropicalHumid,TropicalHumid,Tropical dry forest
+Crateva tapia,Crateva,CAPPARACEAE,0,2,3,0,2,1,1,1,0,5,1,2,0.404538341,0.333333333,0.049295775,0.051643192,TropicalHumid,,Tropical dry forest
+Crepidospermum rhoifolium,Crepidospermum,BURSERACEAE,0,2,3,0,2,1,1,1,1,4,2,0,0.988023952,0.0,0.011976048,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Crescentia alata,Crescentia,BIGNONIACEAE,1,2,3,0,2,1,0,1,0,5,0,2,0.090666667,0.746666667,0.0,0.032,TropicalDry,TropicalHumid,Tropical dry forest
+Crescentia amazonica,Crescentia,BIGNONIACEAE,0,2,3,0,2,1,1,2,1,5,0,0,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Crescentia cujete,Crescentia,BIGNONIACEAE,0,2,3,2,2,2,1,1,1,4,1,0,0.466804979,0.352697095,0.012448133,0.056016598,TropicalHumid,,
+Croton draco,Croton,EUPHORBIACEAE,1,2,3,0,2,1,1,2,1,0,1,0,0.633059789,0.13130129,0.0,0.003516999,TropicalHumid,TropicalHumid,Tropical humid forest
+Croton floribundus,Croton,EUPHORBIACEAE,1,2,3,0,2,2,1,1,1,5,1,3,0.739916551,0.011126565,0.207232267,0.002781641,TropicalHumid,TropicalHumid,Tropical dry forest
+Croton glabellus,Croton,EUPHORBIACEAE,1,2,3,0,2,2,1,1,0,5,1,2,0.809859155,0.150234742,0.0,0.009389671,TropicalHumid,TropicalHumid,Tropical dry forest
+Croton matourensis,Croton,EUPHORBIACEAE,1,2,3,0,2,2,1,1,1,4,1,4,0.914927769,0.017656501,0.028892456,0.033707865,TropicalHumid,TropicalHumid,Tropical humid forest
+Croton nitens,Croton,EUPHORBIACEAE,1,2,3,0,2,3,1,1,0,2,1,3,0.602272727,0.375,0.0,0.011363636,TropicalHumid,,Tropical dry forest
+Cryptocarya mannii,Cryptocarya,LAURACEAE,1,2,3,0,2,1,1,1,1,5,0,1,0.75,0.25,0.0,0.0,TropicalHumid,TropicalHumid,
+Cuervea kappleriana,Cuervea,CELASTRACEAE,1,2,3,0,2,2,0,1,1,4,1,3,0.898550725,0.02173913,0.007246377,0.014492754,TropicalHumid,TropicalHumid,Tropical humid forest
+Cupania dentata,Cupania,SAPINDACEAE,0,2,3,0,2,2,0,1,1,1,3,0,0.727002967,0.151335312,0.0,0.038575668,TropicalHumid,TropicalHumid,
+Curarea candicans,Curarea,MENISPERMACEAE,1,2,3,0,2,1,1,1,1,5,0,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Curatella americana,Curatella,DILLENIACEAE,1,2,3,0,2,2,1,1,1,5,3,0,0.36664763,0.154768704,0.304397487,0.02055968,TropicalHumid,,
+Cuspidaria convoluta,Cuspidaria,BIGNONIACEAE,1,2,3,0,2,2,1,2,1,5,1,2,0.668122271,0.017467249,0.222707424,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Cuspidaria lateriflora,Cuspidaria,BIGNONIACEAE,0,1,3,0,2,2,0,1,1,0,2,5,0.411167513,0.111675127,0.233502538,0.0,TropicalHumid,TropicalHumid,Tropical dry forest
+Cuspidaria pulchra,Cuspidaria,BIGNONIACEAE,1,2,3,0,2,1,1,1,1,1,1,0,0.309090909,0.090909091,0.536363636,0.0,TropicalHumid,,Tropical dry forest
+Cymbopetalum baillonii,Cymbopetalum,ANNONACEAE,1,2,3,0,2,1,1,2,0,5,1,4,0.927007299,0.01459854,0.0,0.02189781,TropicalHumid,TropicalHumid,Tropical humid forest
+Cymbopetalum brasiliense,Cymbopetalum,ANNONACEAE,0,0,3,0,2,2,1,1,0,1,1,2,0.950704225,0.0,0.0,0.007042254,TropicalHumid,TropicalHumid,Tropical humid forest
+Cyrtocarpa procera,Cyrtocarpa,ANACARDIACEAE,1,2,3,0,2,1,0,1,1,5,1,2,0.004,0.868,0.0,0.0,TropicalDry,TropicalHumid,Tropical dry forest
+Cyrtocarpa velutinifolia,Cyrtocarpa,ANACARDIACEAE,0,2,3,0,2,1,0,1,1,5,2,2,0.533333333,0.0,0.466666667,0.0,TropicalHumid,,Tropical humid forest
+Dacryodes kukachkana,Dacryodes,BURSERACEAE,1,2,3,0,2,2,1,1,1,5,1,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Dacryodes occidentalis,Dacryodes,BURSERACEAE,1,2,3,0,2,2,0,1,0,5,1,2,0.918032787,0.0,0.049180328,0.032786885,TropicalHumid,TropicalHumid,Tropical humid forest
+Daphnopsis macrophylla,Daphnopsis,THYMELAEACEAE,1,2,3,0,2,2,0,1,1,5,1,2,0.940298507,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Daphnopsis philippiana,Daphnopsis,THYMELAEACEAE,1,2,3,0,2,1,1,0,1,4,1,3,0.818181818,0.181818182,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Delostoma integrifolium,Delostoma,BIGNONIACEAE,1,2,3,0,2,0,1,1,0,5,1,4,0.923076923,0.028846154,0.019230769,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Dendrobangia boliviana,Dendrobangia,CARDIOPTERIDACEAE,0,2,1,0,2,1,0,1,1,4,2,2,0.982673267,0.0,0.007425743,0.004950495,TropicalHumid,TropicalHumid,Tropical humid forest
+Dendropanax arboreus,Dendropanax,ARALIACEAE,1,2,3,1,1,2,1,1,1,1,2,3,0.81920904,0.050847458,0.012106538,0.007667474,TropicalHumid,TropicalHumid,Tropical humid forest
+Dendropanax cuneatus,Dendropanax,ARALIACEAE,1,2,3,0,2,2,0,0,1,5,2,2,0.539948454,0.018041237,0.430412371,0.0,TropicalHumid,,
+Dendropanax gonatopodus,Dendropanax,ARALIACEAE,1,2,3,1,2,1,0,0,1,5,2,2,0.984962406,0.0,0.0,0.007518797,TropicalHumid,TropicalHumid,Tropical humid forest
+Diclinanona calycina,Diclinanona,ANNONACEAE,1,2,3,0,2,1,1,1,1,4,0,0,0.976377953,0.0,0.023622047,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Dicranostyles guianensis,Dicranostyles,CONVOLVULACEAE,1,2,3,0,2,2,1,1,0,2,1,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Dicranostyles mildbraediana,Dicranostyles,CONVOLVULACEAE,1,2,3,0,2,3,1,1,1,1,1,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Dicranostyles villosus,Dicranostyles,CONVOLVULACEAE,1,2,3,0,2,3,1,1,1,1,2,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Dictyoloma vandellianum,Dictyoloma,RUTACEAE,1,2,3,0,2,3,1,1,1,1,2,4,0.53470437,0.131105398,0.161953728,0.0,TropicalHumid,TropicalHumid,Tropical dry forest
+Dilkea johannesii,Dilkea,PASSIFLORACEAE,1,2,3,0,2,2,1,1,1,5,1,0,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Dilodendron bipinnatum,Dilodendron,SAPINDACEAE,1,2,0,0,2,2,1,1,1,1,2,2,0.148026316,0.25,0.546052632,0.0,TropicalGrasslands,TropicalGrasslands,Tropical dry forest
+Diploon cuspidatum,Diploon,SAPOTACEAE,0,1,3,0,2,2,1,1,1,1,1,2,0.974358974,0.0,0.006410256,0.019230769,TropicalHumid,TropicalHumid,Tropical humid forest
+Dolichandra unguis-cati,Dolichandra,BIGNONIACEAE,1,2,3,0,2,1,1,1,1,1,1,2,0.576011158,0.048814505,0.230125523,0.008368201,TropicalHumid,TropicalHumid,
+Drypetes alba,Drypetes,PUTRANJAVACEAE,1,2,3,0,2,2,0,1,0,5,3,5,0.75,0.159090909,0.0,0.0,TropicalHumid,TropicalHumid,
+Drypetes variabilis,Drypetes,PUTRANJAVACEAE,1,2,3,1,1,1,1,1,0,5,1,2,0.975206612,0.0,0.024793388,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Duckeodendron cestroides,Duckeodendron,SOLANACEAE,1,2,3,0,2,2,1,2,0,5,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Duguetia lanceolata,Duguetia,ANNONACEAE,1,2,3,1,2,2,1,2,1,5,1,3,0.634285714,0.0,0.365714286,0.0,TropicalHumid,,Tropical dry forest
+Duguetia quitarensis,Duguetia,ANNONACEAE,1,2,3,0,2,1,1,1,1,1,2,0,0.987951807,0.004016064,0.008032129,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Duguetia uniflora,Duguetia,ANNONACEAE,0,2,3,0,2,1,1,1,1,4,2,0,0.983333333,0.0,0.016666667,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Dulacia candida,Dulacia,OLACACEAE,1,2,3,0,2,2,1,0,0,1,2,0,0.945578231,0.034013605,0.020408163,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Dulacia guianensis,Dulacia,OLACACEAE,1,2,3,0,2,0,1,1,1,5,2,2,0.904255319,0.0,0.053191489,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Duroia aquatica,Duroia,RUBIACEAE,1,2,3,0,2,1,1,1,0,5,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Duroia fusifera,Duroia,RUBIACEAE,1,2,3,0,2,2,1,2,0,1,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Duroia hirsuta,Duroia,RUBIACEAE,1,2,3,0,2,1,1,1,0,5,2,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ecclinusa guianensis,Ecclinusa,SAPOTACEAE,1,2,3,0,2,2,1,2,1,1,1,4,0.996207332,0.0,0.002528445,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ecclinusa lanceolata,Ecclinusa,SAPOTACEAE,1,2,1,0,2,1,1,1,0,1,1,4,0.760456274,0.231939163,0.007604563,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ekmanianthe actinophylla,Ekmanianthe,BIGNONIACEAE,1,2,3,0,2,2,1,1,1,1,2,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Elaeodendron xylocarpum,Elaeodendron,CELASTRACEAE,1,2,3,0,2,1,0,1,0,5,2,4,0.470149254,0.231343284,0.0,0.119402985,TropicalHumid,TropicalHumid,
+Elaeoluma glabrescens,Elaeoluma,SAPOTACEAE,1,2,3,1,2,0,0,1,0,5,1,3,0.919732441,0.010033445,0.070234114,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Emmotum fagifolium,Emmotum,ICACINACEAE,1,2,3,0,2,0,1,2,0,5,1,4,0.666666667,0.0,0.0,0.333333333,TropicalHumid,,Tropical humid forest
+Endlicheria lhotzkyi,Endlicheria,LAURACEAE,1,2,3,1,1,2,1,2,1,5,3,3,0.3,0.033333333,0.666666667,0.0,TropicalGrasslands,,Tropical humid forest
+Endlicheria multiflora,Endlicheria,LAURACEAE,1,2,3,0,2,2,1,1,1,5,1,3,0.894736842,0.0,0.052631579,0.031578947,TropicalHumid,TropicalHumid,Tropical humid forest
+Eremanthus goyazensis,Eremanthus,ASTERACEAE,1,2,3,1,2,2,1,2,1,5,1,4,0.12,0.0,0.88,0.0,TropicalGrasslands,TropicalHumid,
+Erythroxylum amazonicum,Erythroxylum,ERYTHROXYLACEAE,1,2,3,0,2,0,0,2,1,4,1,3,0.865248227,0.04964539,0.056737589,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Erythroxylum areolatum,Erythroxylum,ERYTHROXYLACEAE,1,2,3,0,2,2,1,2,1,5,1,3,0.649006623,0.165562914,0.0,0.092715232,TropicalHumid,TropicalHumid,
+Erythroxylum citrifolium,Erythroxylum,ERYTHROXYLACEAE,1,2,3,0,2,1,1,2,1,5,1,4,0.844315713,0.036205648,0.081824765,0.017378711,TropicalHumid,TropicalHumid,Tropical humid forest
+Erythroxylum deciduum,Erythroxylum,ERYTHROXYLACEAE,1,2,3,0,2,1,1,2,1,5,1,4,0.494875549,0.021961933,0.459736457,0.001464129,TropicalHumid,,
+Erythroxylum passerinum,Erythroxylum,ERYTHROXYLACEAE,0,2,3,0,2,0,1,1,0,1,1,4,0.713333333,0.013333333,0.0,0.14,TropicalHumid,TropicalHumid,Tropical dry forest
+Erythroxylum pelleterianum,Erythroxylum,ERYTHROXYLACEAE,1,2,3,0,2,1,1,2,0,1,1,3,0.271341463,0.073170732,0.631097561,0.0,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Erythroxylum suberosum,Erythroxylum,ERYTHROXYLACEAE,0,2,1,0,2,1,1,2,1,5,1,2,0.171171171,0.081831832,0.593843844,0.000750751,TropicalGrasslands,TropicalGrasslands,Tropical dry forest
+Erythroxylum substriatum,Erythroxylum,ERYTHROXYLACEAE,1,2,3,0,2,0,1,1,1,1,1,2,0.0,0.0,1.0,0.0,TropicalGrasslands,TropicalHumid,
+Escallonia myrtilloides,Escallonia,ESCALLONIACEAE,0,0,3,0,1,1,1,1,0,5,2,4,0.799498747,0.005847953,0.0267335,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Eschweilera alata,Eschweilera,LECYTHIDACEAE,1,2,3,1,1,0,1,2,0,5,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Eschweilera coriacea,Eschweilera,LECYTHIDACEAE,1,2,3,0,2,2,1,2,1,1,1,2,0.993026941,0.000633914,0.003486529,0.001901743,TropicalHumid,TropicalHumid,Tropical humid forest
+Eschweilera pedicellata,Eschweilera,LECYTHIDACEAE,1,2,3,0,2,3,1,2,0,1,1,0,0.958500669,0.0,0.040160643,0.001338688,TropicalHumid,TropicalHumid,Tropical humid forest
+Eschweilera tenax,Eschweilera,LECYTHIDACEAE,1,2,3,0,2,3,1,2,1,1,1,2,0.464285714,0.0,0.535714286,0.0,TropicalHumid,,
+Esenbeckia berlandieri,Esenbeckia,RUTACEAE,0,2,3,0,2,1,1,2,1,4,1,3,0.23015873,0.55952381,0.0,0.043650794,TropicalDry,TropicalHumid,Tropical dry forest
+Esenbeckia pilocarpoides,Esenbeckia,RUTACEAE,1,2,3,0,2,0,1,1,0,4,1,4,0.828947368,0.059210526,0.078947368,0.006578947,TropicalHumid,TropicalHumid,
+Euplassa cantareirae,Euplassa,PROTEACEAE,1,2,3,0,2,2,1,2,1,5,1,3,0.966666667,0.0,0.033333333,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Euplassa pinnata,Euplassa,PROTEACEAE,1,2,0,0,2,2,1,1,0,0,3,0,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Exellodendron coriaceum,Exellodendron,CHRYSOBALANACEAE,1,2,3,0,2,2,1,2,1,5,2,2,0.976470588,0.0,0.011764706,0.011764706,TropicalHumid,TropicalHumid,Tropical humid forest
+Exostema caribaeum,Exostema,RUBIACEAE,1,2,3,0,2,2,1,2,0,1,0,3,0.166030534,0.604961832,0.0,0.059160305,TropicalDry,TropicalHumid,Tropical dry forest
+Exothea diphylla,Exothea,SAPINDACEAE,1,2,3,0,2,0,1,2,0,5,1,3,0.806451613,0.112903226,0.0,0.064516129,TropicalHumid,TropicalHumid,Tropical dry forest
+Faramea occidentalis,Faramea,RUBIACEAE,1,2,3,0,2,1,1,1,1,5,1,2,0.82674772,0.082066869,0.036474164,0.009118541,TropicalHumid,TropicalHumid,Tropical humid forest
+Ficus aurea,Ficus,MORACEAE,1,2,3,0,2,2,0,2,1,5,2,3,0.522458629,0.186761229,0.0,0.023640662,TropicalHumid,TropicalHumid,
+Ficus caballina,Ficus,MORACEAE,1,2,3,0,2,2,1,1,1,0,2,2,0.965034965,0.013986014,0.020979021,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ficus citrifolia,Ficus,MORACEAE,1,2,3,0,2,2,1,1,0,0,2,2,0.741516966,0.097804391,0.069860279,0.013972056,TropicalHumid,TropicalHumid,Tropical humid forest
+Ficus guaranitica,Ficus,MORACEAE,1,2,3,0,2,2,1,1,0,0,2,2,0.648148148,0.0,0.32962963,0.0,TropicalHumid,,Tropical dry forest
+Ficus insipida,Ficus,MORACEAE,1,2,3,0,2,2,1,0,0,0,1,2,0.583277592,0.27090301,0.023411371,0.017391304,TropicalHumid,TropicalHumid,
+Forchhammeria longifolia,Forchhammeria,CAPPARACEAE,1,2,3,0,2,1,0,2,0,5,2,4,0.0,0.0,0.0,0.666666667,Mangrove,TropicalHumid,
+Fridericia candicans,Fridericia,BIGNONIACEAE,1,2,3,1,0,1,1,1,1,5,2,4,0.555555556,0.1,0.111111111,0.0,TropicalHumid,TropicalHumid,
+Fridericia platyphylla,Fridericia,BIGNONIACEAE,0,1,0,0,2,3,0,1,1,4,3,1,0.326574173,0.055496265,0.52828175,0.0,TropicalHumid,,Tropical dry forest
+Fridericia speciosa,Fridericia,BIGNONIACEAE,1,2,3,0,2,1,1,1,1,5,0,5,0.649595687,0.043126685,0.218328841,0.002695418,TropicalHumid,TropicalHumid,Tropical dry forest
+Fusaea longifolia,Fusaea,ANNONACEAE,1,2,3,0,2,2,0,1,1,5,1,5,0.993630573,0.0,0.003184713,0.003184713,TropicalHumid,TropicalHumid,Tropical humid forest
+Gallesia integrifolia,Gallesia,PHYTOLACCACEAE,1,2,3,0,2,2,1,2,0,3,2,2,0.684491979,0.082887701,0.181818182,0.024064171,TropicalHumid,TropicalHumid,Tropical dry forest
+Garcinia intermedia,Garcinia,CLUSIACEAE,1,2,1,0,2,2,1,2,1,5,2,2,0.905263158,0.063157895,0.0,0.015789474,TropicalHumid,TropicalHumid,Tropical humid forest
+Garcinia madruno,Garcinia,CLUSIACEAE,1,2,3,0,2,2,1,2,1,5,2,2,0.913746631,0.018867925,0.037735849,0.029649596,TropicalHumid,TropicalHumid,Tropical humid forest
+Gaultheria buxifolia,Gaultheria,ERICACEAE,1,2,3,1,1,1,1,1,0,5,2,4,0.785185185,0.025925926,0.077777778,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Geissospermum sericeum,Geissospermum,APOCYNACEAE,1,2,3,0,2,2,1,2,0,1,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Genipa americana,Genipa,RUBIACEAE,1,2,3,0,2,1,1,2,1,5,1,3,0.574018127,0.143504532,0.157603223,0.013595166,TropicalHumid,TropicalHumid,
+Gochnatia polymorpha,Gochnatia,ASTERACEAE,0,1,1,0,2,1,1,2,1,4,1,2,0.601941748,0.0,0.291262136,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Godmania aesculifolia,Godmania,BIGNONIACEAE,1,2,2,0,2,1,1,2,1,5,1,3,0.310782241,0.467230444,0.069767442,0.00845666,TropicalHumid,,
+Gonzalagunia cornifolia,Gonzalagunia,RUBIACEAE,1,2,3,0,2,1,1,0,0,1,0,0,0.806338028,0.091549296,0.070422535,0.017605634,TropicalHumid,TropicalHumid,Tropical humid forest
+Gordonia fruticosa,Gordonia,THEACEAE,1,2,3,0,2,1,1,0,0,5,1,4,0.903559127,0.019517796,0.061997704,0.001148106,TropicalHumid,TropicalHumid,
+Grias cauliflora,Grias,LECYTHIDACEAE,0,2,3,0,2,1,1,1,1,1,1,5,0.910179641,0.0,0.0,0.047904192,TropicalHumid,TropicalHumid,Tropical humid forest
+Grias neuberthii,Grias,LECYTHIDACEAE,1,2,3,0,1,1,1,1,0,5,3,0,0.994897959,0.005102041,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Guapira cuspidata,Guapira,NYCTAGINACEAE,1,2,3,0,2,1,1,2,1,1,0,0,0.522727273,0.022727273,0.431818182,0.022727273,TropicalHumid,,Tropical humid forest
+Guapira discolor,Guapira,NYCTAGINACEAE,1,2,1,0,2,2,1,1,1,4,0,0,0.542857143,0.114285714,0.0,0.085714286,TropicalHumid,TropicalHumid,Tropical dry forest
+Guapira noxia,Guapira,NYCTAGINACEAE,1,2,1,0,2,1,1,2,1,5,0,0,0.090909091,0.0,0.909090909,0.0,TropicalGrasslands,TropicalGrasslands,
+Guarea glabra,Guarea,MELIACEAE,0,2,3,0,2,2,0,1,1,0,1,2,0.794829024,0.087572977,0.012510425,0.01000834,TropicalHumid,TropicalHumid,Tropical humid forest
+Guarea gomma,Guarea,MELIACEAE,1,2,3,0,2,2,1,1,1,1,1,0,0.986979167,0.002604167,0.010416667,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Guarea guidonia,Guarea,MELIACEAE,1,2,3,0,2,2,1,2,1,1,1,2,0.749912311,0.068747808,0.13188355,0.016836198,TropicalHumid,TropicalHumid,Tropical humid forest
+Guarea kunthiana,Guarea,MELIACEAE,1,2,3,0,2,2,1,1,1,0,0,0,0.910952805,0.016473731,0.067675868,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Guarea megantha,Guarea,MELIACEAE,1,2,3,0,2,2,0,1,1,1,0,0,0.571428571,0.0,0.428571429,0.0,TropicalHumid,,Tropical humid forest
+Guatteria schomburgkiana,Guatteria,ANNONACEAE,1,2,3,0,2,3,1,1,1,3,2,3,0.862448418,0.006877579,0.097661623,0.022008253,TropicalHumid,TropicalHumid,Tropical humid forest
+Guettarda elliptica,Guettarda,RUBIACEAE,0,2,3,0,2,0,0,1,1,5,1,2,0.438297872,0.479432624,0.0,0.031205674,TropicalHumid,,Tropical dry forest
+Guettarda ovalifolia,Guettarda,RUBIACEAE,1,2,3,0,2,1,0,1,0,5,1,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Guettarda viburnoides,Guettarda,RUBIACEAE,1,2,3,0,2,1,0,1,0,5,1,4,0.373253493,0.056886228,0.491017964,0.001996008,TropicalHumid,,Tropical dry forest
+Gustavia augusta,Gustavia,LECYTHIDACEAE,0,2,1,0,2,1,0,1,1,5,1,5,0.841004184,0.0041841,0.080892608,0.055788006,TropicalHumid,TropicalHumid,Tropical humid forest
+Gustavia gigantophylla,Gustavia,LECYTHIDACEAE,1,2,3,0,2,1,1,1,1,1,2,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Gustavia hexapetala,Gustavia,LECYTHIDACEAE,0,2,3,0,2,1,1,1,0,1,2,2,0.964640884,0.013259669,0.014364641,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Gustavia nana,Gustavia,LECYTHIDACEAE,1,2,3,0,2,1,1,2,0,5,1,3,0.836065574,0.049180328,0.016393443,0.06557377,TropicalHumid,TropicalHumid,Tropical humid forest
+Gymnanthes lucida,Gymnanthes,EUPHORBIACEAE,0,2,3,0,2,1,1,2,0,1,3,3,0.669966997,0.125412541,0.0,0.115511551,TropicalHumid,TropicalHumid,Tropical dry forest
+Haenianthus salicifolius,Haenianthus,OLEACEAE,1,2,3,0,2,0,1,2,0,1,0,4,0.8,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Hamelia longipes,Hamelia,RUBIACEAE,1,2,3,0,2,2,1,1,1,5,1,0,0.950617284,0.024691358,0.0,0.018518519,TropicalHumid,TropicalHumid,Tropical humid forest
+Hancornia speciosa,Hancornia,APOCYNACEAE,1,2,3,0,2,1,0,1,1,5,2,4,0.293814433,0.059793814,0.471134021,0.048453608,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Handroanthus capitatus,Handroanthus,BIGNONIACEAE,1,2,3,0,2,1,1,2,1,4,1,0,0.846153846,0.0,0.153846154,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Handroanthus chrysanthus,Handroanthus,BIGNONIACEAE,1,2,3,0,2,2,1,2,1,4,1,0,0.558139535,0.162790698,0.174418605,0.023255814,TropicalHumid,TropicalHumid,
+Handroanthus chrysotrichus,Handroanthus,BIGNONIACEAE,1,2,3,0,2,1,1,2,1,4,1,0,0.777777778,0.012820513,0.145299145,0.008547009,TropicalHumid,TropicalHumid,
+Handroanthus heptaphyllus,Handroanthus,BIGNONIACEAE,0,2,3,0,2,2,1,2,1,5,1,0,0.436507937,0.023809524,0.37037037,0.0,TropicalHumid,,Tropical dry forest
+Handroanthus ochraceus,Handroanthus,BIGNONIACEAE,0,2,3,0,2,1,1,1,1,4,1,0,0.360623782,0.066276803,0.473684211,0.0,TropicalHumid,,Tropical dry forest
+Handroanthus serratifolius,Handroanthus,BIGNONIACEAE,1,2,3,0,2,1,1,2,1,4,2,2,0.615176152,0.048780488,0.25203252,0.002710027,TropicalHumid,TropicalHumid,Tropical dry forest
+Haploclathra paniculata,Haploclathra,CALOPHYLLACEAE,1,2,3,2,2,2,1,2,1,4,1,0,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Hasseltia floribunda,Hasseltia,SALICACEAE,1,2,1,0,2,1,1,2,1,5,2,0,0.943493151,0.011986301,0.04109589,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Hebepetalum humiriifolium,Hebepetalum,LINACEAE,1,2,3,0,1,1,0,1,1,5,1,4,0.888268156,0.0,0.111731844,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Hedyosmum goudotianum,Hedyosmum,CHLORANTHACEAE,1,2,3,0,2,1,0,1,0,5,2,4,0.95026178,0.0,0.034031414,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Heisteria insculpta,Heisteria,OLACACEAE,1,2,3,1,0,1,0,0,0,5,3,1,0.978947368,0.0,0.021052632,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Heisteria macrophylla,Heisteria,OLACACEAE,1,2,3,1,1,1,1,2,0,5,1,4,0.936416185,0.0,0.0,0.011560694,TropicalHumid,TropicalHumid,Tropical humid forest
+Helicostylis pedunculata,Helicostylis,MORACEAE,1,2,3,0,2,1,1,1,1,5,1,2,0.967741935,0.0,0.0,0.032258065,TropicalHumid,TropicalHumid,Tropical humid forest
+Helicostylis scabra,Helicostylis,MORACEAE,1,2,3,0,2,2,1,2,1,5,1,2,0.985815603,0.003546099,0.010638298,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Helicostylis tomentosa,Helicostylis,MORACEAE,1,2,1,0,2,2,1,1,1,4,2,2,0.881476224,0.060326473,0.034776437,0.011355571,TropicalHumid,TropicalHumid,Tropical humid forest
+Helicostylis turbinata,Helicostylis,MORACEAE,1,2,3,0,2,2,1,2,1,0,2,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Henriettea multiflora,Henriettea,MELASTOMATACEAE,0,2,3,0,2,1,1,2,1,4,1,2,0.947368421,0.0,0.052631579,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Hernandia guianensis,Hernandia,HERNANDIACEAE,1,2,3,0,2,2,1,2,1,5,0,4,0.782608696,0.0,0.043478261,0.130434783,TropicalHumid,TropicalHumid,Tropical humid forest
+Hernandia sonora,Hernandia,HERNANDIACEAE,1,2,3,0,2,2,1,0,1,5,1,0,0.888888889,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Heteropterys nitida,Heteropterys,MALPIGHIACEAE,1,2,3,0,2,1,1,0,1,3,1,0,0.959183673,0.0,0.030612245,0.005102041,TropicalHumid,TropicalHumid,
+Hevea brasiliensis,Hevea,EUPHORBIACEAE,1,2,3,0,2,1,1,1,1,5,0,1,0.763546798,0.18226601,0.054187192,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Hevea guianensis,Hevea,EUPHORBIACEAE,1,2,3,0,2,2,1,0,0,1,1,3,0.983558994,0.001934236,0.00967118,0.00483559,TropicalHumid,TropicalHumid,Tropical humid forest
+Hieronyma alchorneoides,Hieronyma,PHYLLANTHACEAE,1,2,3,0,2,2,1,1,0,1,1,3,0.931304348,0.029565217,0.016521739,0.006956522,TropicalHumid,TropicalHumid,Tropical humid forest
+Hieronyma oblonga,Hieronyma,PHYLLANTHACEAE,1,2,3,0,2,3,1,1,0,5,2,4,0.918316832,0.04290429,0.017326733,0.001650165,TropicalHumid,TropicalHumid,Tropical humid forest
+Hillia illustris,Hillia,RUBIACEAE,1,2,3,1,2,1,1,1,0,5,2,4,0.871428571,0.007142857,0.035714286,0.078571429,TropicalHumid,TropicalHumid,Tropical humid forest
+Himatanthus articulatus,Himatanthus,APOCYNACEAE,1,2,3,0,2,3,1,1,0,0,2,2,0.676470588,0.040441176,0.224264706,0.049632353,TropicalHumid,TropicalHumid,Tropical humid forest
+Himatanthus obovatus,Himatanthus,APOCYNACEAE,1,2,3,0,2,2,1,2,1,5,0,1,0.213768116,0.070652174,0.664855072,0.003623188,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Himatanthus sucuuba,Himatanthus,APOCYNACEAE,1,2,3,0,2,2,1,1,0,5,1,5,0.992,0.0,0.008,0.0,TropicalHumid,TropicalHumid,
+Hippocratea volubilis,Hippocratea,CELASTRACEAE,1,2,3,0,2,2,1,2,0,5,0,1,0.639915523,0.13938754,0.090813094,0.03062302,TropicalHumid,TropicalHumid,
+Hippomane mancinella,Hippomane,EUPHORBIACEAE,1,2,3,0,2,3,0,1,1,5,2,2,0.216949153,0.454237288,0.006779661,0.101694915,TropicalDry,TropicalHumid,
+Hirtella americana,Hirtella,CHRYSOBALANACEAE,1,2,3,0,2,1,0,1,0,5,2,4,0.785714286,0.073809524,0.088095238,0.004761905,TropicalHumid,TropicalHumid,
+Hortia longifolia,Hortia,RUTACEAE,1,2,3,0,2,2,0,2,1,5,2,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,
+Huberia consimilis,Huberia,MELASTOMATACEAE,1,2,3,0,2,2,1,2,1,5,2,0,0.691358025,0.049382716,0.037037037,0.0,TropicalHumid,TropicalHumid,
+Huberia glazioviana,Huberia,MELASTOMATACEAE,1,2,3,0,2,2,0,0,0,5,1,1,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,
+Huberia semiserrata,Huberia,MELASTOMATACEAE,0,2,3,0,2,1,0,1,0,5,0,1,0.966666667,0.0,0.0,0.033333333,TropicalHumid,TropicalHumid,
+Huertea glandulosa,Huertea,TAPISCIACEAE,1,2,3,0,2,2,1,0,1,5,0,1,0.99537037,0.00462963,0.0,0.0,TropicalHumid,TropicalHumid,
+Humiria balsamifera,Humiria,HUMIRIACEAE,1,2,3,0,2,2,1,2,1,5,0,1,0.664050235,0.028649922,0.141287284,0.036499215,TropicalHumid,TropicalHumid,
+Humiriastrum excelsum,Humiriastrum,HUMIRIACEAE,1,2,3,1,2,2,1,2,1,5,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,
+Humiriastrum procerum,Humiriastrum,HUMIRIACEAE,1,2,3,1,2,2,1,2,1,5,1,4,0.896551724,0.0,0.068965517,0.034482759,TropicalHumid,TropicalHumid,
+Hura crepitans,Hura,EUPHORBIACEAE,1,2,1,1,1,2,1,2,1,5,1,4,0.738709677,0.117741935,0.027419355,0.040322581,TropicalHumid,TropicalHumid,
+Hyperbaena domingensis,Hyperbaena,MENISPERMACEAE,1,2,3,0,2,1,1,2,1,4,1,2,0.887850467,0.018691589,0.056074766,0.018691589,TropicalHumid,TropicalHumid,
+Ilex amplifolia,Ilex,AQUIFOLIACEAE,1,2,3,0,2,1,1,1,0,5,3,5,0.944444444,0.055555556,0.0,0.0,TropicalHumid,TropicalHumid,
+Ilex casiquiarensis,Ilex,AQUIFOLIACEAE,1,2,3,1,1,1,1,1,0,5,2,3,0.818181818,0.0,0.181818182,0.0,TropicalHumid,TropicalHumid,
+Ilex dumosa,Ilex,AQUIFOLIACEAE,1,2,3,1,1,1,1,1,1,5,2,4,0.774358974,0.003418803,0.153846154,0.008547009,TropicalHumid,TropicalHumid,
+Ilex guianensis,Ilex,AQUIFOLIACEAE,1,2,3,1,1,1,1,1,0,5,2,3,0.766990291,0.012944984,0.025889968,0.116504854,TropicalHumid,TropicalHumid,
+Ilex jenmanii,Ilex,AQUIFOLIACEAE,1,2,3,1,0,1,1,1,0,5,2,3,0.786885246,0.0,0.213114754,0.0,TropicalHumid,TropicalHumid,
+Ilex myricoides,Ilex,AQUIFOLIACEAE,1,2,3,1,2,1,1,1,0,5,2,2,0.651515152,0.03030303,0.227272727,0.0,TropicalHumid,TropicalHumid,
+Ilex sideroxyloides,Ilex,AQUIFOLIACEAE,0,2,3,1,2,1,1,1,0,5,2,2,0.730769231,0.115384615,0.0,0.038461538,TropicalHumid,TropicalHumid,
+Ilex theezans,Ilex,AQUIFOLIACEAE,1,2,3,1,1,1,1,1,0,5,3,2,0.768965517,0.010344828,0.086206897,0.020689655,TropicalHumid,TropicalHumid,Tropical humid forest
+Iochroma gesnerioides,Iochroma,SOLANACEAE,1,2,3,0,2,1,1,2,1,5,2,0,0.941176471,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Iryanthera grandis,Iryanthera,MYRISTICACEAE,1,2,3,0,2,2,1,1,1,0,2,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Iryanthera juruensis,Iryanthera,MYRISTICACEAE,1,2,3,1,1,2,1,1,1,1,1,3,0.983302412,0.007884972,0.007884972,0.000463822,TropicalHumid,TropicalHumid,Tropical humid forest
+Iryanthera laevis,Iryanthera,MYRISTICACEAE,0,2,3,1,2,2,1,1,1,4,1,4,0.980306346,0.012399708,0.007293946,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Iryanthera sagotiana,Iryanthera,MYRISTICACEAE,1,2,3,2,2,2,1,1,1,4,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Isertia parviflora,Isertia,RUBIACEAE,1,2,3,0,2,1,1,1,1,5,1,4,0.800569801,0.0,0.193732194,0.002849003,TropicalHumid,TropicalHumid,Tropical humid forest
+Jacaranda brasiliana,Jacaranda,BIGNONIACEAE,1,2,3,0,2,1,1,2,0,5,1,4,0.180645161,0.025806452,0.561290323,0.003225806,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Jacaranda caroba,Jacaranda,BIGNONIACEAE,1,2,3,0,2,1,1,1,1,1,0,0,0.403846154,0.0,0.534615385,0.0,TropicalHumid,,
+Jacaranda copaia,Jacaranda,BIGNONIACEAE,0,2,3,0,2,1,1,0,1,5,1,2,0.873076923,0.062307692,0.053076923,0.007692308,TropicalHumid,TropicalHumid,Tropical humid forest
+Jacaranda mimosifolia,Jacaranda,BIGNONIACEAE,1,2,3,0,2,3,1,1,1,4,1,2,0.377358491,0.113207547,0.150943396,0.0,TropicalHumid,TropicalHumid,Tropical dry forest
+Jacaranda obtusifolia,Jacaranda,BIGNONIACEAE,0,2,3,0,2,1,1,1,1,1,0,0,0.779935275,0.0,0.210355987,0.009708738,TropicalHumid,TropicalHumid,Tropical humid forest
+Jacquinia armillaris,Jacquinia,PRIMULACEAE,1,2,0,0,2,1,1,1,1,4,1,2,0.64084507,0.021126761,0.007042254,0.091549296,TropicalHumid,TropicalHumid,Tropical dry forest
+Jatropha curcas,Jatropha,EUPHORBIACEAE,1,2,3,0,2,1,1,1,1,5,1,3,0.330601093,0.457650273,0.017759563,0.021857923,TropicalHumid,,Tropical dry forest
+Joannesia heveoides,Joannesia,EUPHORBIACEAE,1,2,3,0,2,3,1,2,1,2,1,5,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Jodina rhombifolia,Jodina,SANTALACEAE,1,2,3,0,2,3,1,1,0,5,0,5,0.18,0.36,0.34,0.0,TropicalDry,,Tropical dry forest
+Kielmeyera argentea,Kielmeyera,CALOPHYLLACEAE,1,2,3,0,2,1,1,1,1,4,2,3,0.8,0.0,0.04,0.0,TropicalHumid,TropicalHumid,Tropical dry forest
+Kielmeyera excelsa,Kielmeyera,CALOPHYLLACEAE,0,2,3,0,2,2,1,1,0,1,0,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical dry forest
+Krugiodendron ferreum,Krugiodendron,RHAMNACEAE,1,2,3,0,2,0,1,2,0,4,0,1,0.615183246,0.206806283,0.0,0.020942408,TropicalHumid,TropicalHumid,Tropical dry forest
+Lacistema aggregatum,Lacistema,LACISTEMETACEAE,1,2,3,2,2,1,0,1,0,5,2,4,0.8598351,0.040832352,0.065174715,0.012171182,TropicalHumid,TropicalHumid,Tropical humid forest
+Lacistema hasslerianum,Lacistema,LACISTEMETACEAE,1,2,1,1,2,0,1,1,0,5,1,4,0.443373494,0.0,0.556626506,0.0,TropicalHumid,,Tropical dry forest
+Lacistema pubescens,Lacistema,LACISTEMETACEAE,1,2,3,1,1,1,0,2,0,5,1,4,0.883959044,0.0,0.061433447,0.051194539,TropicalHumid,TropicalHumid,Tropical humid forest
+Lacmellea lactescens,Lacmellea,APOCYNACEAE,1,2,3,2,1,1,0,1,0,5,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Lacunaria macrostachya,Lacunaria,OCHNACEAE,1,2,3,0,2,1,1,1,0,1,1,4,0.957264957,0.017094017,0.017094017,0.008547009,TropicalHumid,TropicalHumid,Tropical humid forest
+Ladenbergia lambertiana,Ladenbergia,RUBIACEAE,1,2,3,0,2,1,1,2,0,5,1,4,0.8,0.0,0.2,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ladenbergia pavonii,Ladenbergia,RUBIACEAE,1,2,3,0,2,1,1,1,1,5,1,4,0.925,0.075,0.0,0.0,TropicalHumid,TropicalHumid,
+Laetia corymbulosa,Laetia,SALICACEAE,1,2,3,0,2,2,1,1,0,5,2,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Laetia cupulata,Laetia,SALICACEAE,1,2,3,0,2,1,1,2,0,5,2,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Laetia procera,Laetia,SALICACEAE,0,2,3,0,2,1,0,2,0,5,2,3,0.987046632,0.007772021,0.005181347,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Lafoensia pacari,Lafoensia,LYTHRACEAE,1,2,3,0,2,1,0,2,0,5,2,4,0.288814691,0.016694491,0.631051753,0.0,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Lafoensia punicifolia,Lafoensia,LYTHRACEAE,0,2,3,0,2,1,0,1,1,5,0,2,0.6,0.205882353,0.011764706,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Laguncularia racemosa,Laguncularia,COMBRETACEAE,1,2,3,0,2,1,0,1,1,5,1,3,0.245533669,0.122308749,0.008245534,0.357306459,Mangrove,TropicalHumid,Mangrove
+Lamanonia ternata,Lamanonia,CUNONIACEAE,0,2,3,0,1,1,1,1,0,5,1,4,0.70015949,0.012759171,0.229665072,0.0,TropicalHumid,TropicalHumid,
+Lantana camara,Lantana,VERBENACEAE,0,2,1,1,2,1,1,1,0,1,1,4,0.371814672,0.313127413,0.026254826,0.035521236,TropicalHumid,,
+Leandra dichotoma,Leandra,MELASTOMATACEAE,1,2,3,0,2,0,1,1,1,5,1,1,0.966604824,0.014842301,0.003710575,0.005565863,TropicalHumid,TropicalHumid,Tropical humid forest
+Lecythis chartacea,Lecythis,LECYTHIDACEAE,1,2,3,0,2,0,1,1,1,5,0,1,0.90212766,0.0,0.038297872,0.059574468,TropicalHumid,TropicalHumid,Tropical humid forest
+Lecythis confertiflora,Lecythis,LECYTHIDACEAE,1,2,3,0,2,3,1,2,0,0,2,2,0.995859213,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Lecythis corrugata,Lecythis,LECYTHIDACEAE,1,2,3,0,2,2,1,1,1,1,1,0,0.894736842,0.012531328,0.085213033,0.007518797,TropicalHumid,TropicalHumid,Tropical humid forest
+Lecythis lurida,Lecythis,LECYTHIDACEAE,1,2,3,0,2,2,1,2,1,1,1,0,0.907949791,0.008368201,0.016736402,0.050209205,TropicalHumid,TropicalHumid,
+Lecythis pisonis,Lecythis,LECYTHIDACEAE,1,2,3,0,2,2,1,2,0,0,2,3,0.902272727,0.0,0.034090909,0.05,TropicalHumid,TropicalHumid,
+Lecythis zabucajo,Lecythis,LECYTHIDACEAE,1,2,3,0,2,2,1,2,0,0,1,4,0.975945017,0.0,0.020618557,0.003436426,TropicalHumid,TropicalHumid,Tropical humid forest
+Leonia cymosa,Leonia,VIOLACEAE,1,2,3,0,2,3,1,2,1,1,1,0,0.97519084,0.0,0.02480916,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Leonia glycycarpa,Leonia,VIOLACEAE,1,2,3,1,1,1,1,2,0,5,2,4,0.980918728,0.002120141,0.015547703,0.001413428,TropicalHumid,TropicalHumid,Tropical humid forest
+Licania alba,Licania,CHRYSOBALANACEAE,1,2,0,0,2,2,1,1,1,0,2,5,0.962264151,0.0,0.037735849,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Licania arborea,Licania,CHRYSOBALANACEAE,1,2,1,0,2,2,1,2,0,2,0,2,0.215789474,0.594736842,0.010526316,0.007894737,TropicalDry,TropicalDry,Tropical dry forest
+Licania emarginata,Licania,CHRYSOBALANACEAE,0,2,1,0,2,3,1,2,0,1,1,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Licaria cannella,Licaria,LAURACEAE,1,2,3,0,2,1,0,2,1,5,1,3,0.98,0.006666667,0.0,0.013333333,TropicalHumid,TropicalHumid,Tropical humid forest
+Licaria chrysophylla,Licaria,LAURACEAE,1,2,3,0,2,2,1,2,1,5,1,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Licaria subbullata,Licaria,LAURACEAE,1,2,3,0,2,2,0,2,1,5,1,0,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Licaria triandra,Licaria,LAURACEAE,1,2,1,0,2,1,0,1,1,5,1,2,0.85625,0.1,0.03125,0.0,TropicalHumid,TropicalHumid,
+Lissocarpa guianensis,Lissocarpa,LISSOCARPACEAE,0,2,3,1,0,1,1,1,0,5,1,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Lithraea molleoides,Lithraea,ANACARDIACEAE,0,2,3,2,2,1,0,2,1,5,1,3,0.4375,0.071428571,0.294642857,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Lophanthera pendula,Lophanthera,MALPIGHIACEAE,1,2,3,0,2,1,1,0,1,5,0,5,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Loreya arborescens,Loreya,MELASTOMATACEAE,1,2,1,0,2,1,1,2,1,5,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Loxopterygium grisebachii,Loxopterygium,ANACARDIACEAE,1,2,3,0,2,2,1,2,0,1,0,3,0.057971014,0.507246377,0.362318841,0.0,TropicalDry,,Tropical dry forest
+Loxopterygium huasango,Loxopterygium,ANACARDIACEAE,0,2,3,0,2,2,0,1,1,5,1,3,0.393939394,0.545454545,0.0,0.0,TropicalHumid,,Tropical dry forest
+Loxopterygium sagotii,Loxopterygium,ANACARDIACEAE,1,2,3,0,2,2,0,2,1,5,1,3,0.714285714,0.0,0.285714286,0.0,TropicalHumid,TropicalHumid,
+Lozania pittieri,Lozania,LACISTEMETACEAE,1,2,3,0,2,2,0,1,1,5,1,2,0.943060498,0.003558719,0.0,0.024911032,TropicalHumid,TropicalHumid,Tropical humid forest
+Lyonia jamaicensis,Lyonia,ERICACEAE,0,2,1,0,2,0,1,1,1,4,0,1,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Mabea piriri,Mabea,EUPHORBIACEAE,1,2,3,0,2,2,1,1,0,1,0,5,0.898245614,0.007017544,0.061403509,0.026315789,TropicalHumid,TropicalHumid,Tropical humid forest
+Mabea taquari,Mabea,EUPHORBIACEAE,1,2,3,0,2,2,1,2,1,2,0,3,0.80104712,0.0,0.12565445,0.073298429,TropicalHumid,TropicalHumid,Tropical humid forest
+Maburea trinervis,Maburea,OLACACEAE,1,2,3,0,2,2,1,1,1,5,1,4,0.833333333,0.0,0.166666667,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Macbrideina peruviana,Macbrideina,RUBIACEAE,1,2,1,0,2,0,1,1,1,5,0,1,0.961538462,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Machaonia brasiliensis,Machaonia,RUBIACEAE,1,2,3,0,2,1,0,1,0,5,2,4,0.333333333,0.09929078,0.432624113,0.0,TropicalHumid,,
+Macleania stricta,Macleania,ERICACEAE,1,2,3,0,2,0,1,2,1,5,1,4,0.984848485,0.0,0.015151515,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Maclura tinctoria,Maclura,MORACEAE,1,2,3,0,2,3,1,1,1,0,1,4,0.463273872,0.299055614,0.123819517,0.021511018,TropicalHumid,TropicalHumid,Tropical dry forest
+Macoubea guianensis,Macoubea,APOCYNACEAE,1,2,3,0,2,3,1,1,1,4,2,0,0.831683168,0.00990099,0.02970297,0.069306931,TropicalHumid,TropicalHumid,Tropical humid forest
+Macrocnemum roseum,Macrocnemum,RUBIACEAE,1,2,3,0,2,2,1,1,0,1,1,4,0.946551724,0.013793103,0.031034483,0.003448276,TropicalHumid,TropicalHumid,Tropical humid forest
+Mahurea exstipulata,Mahurea,CALOPHYLLACEAE,1,2,3,0,2,2,1,2,1,4,1,0,0.58677686,0.0,0.41322314,0.0,TropicalHumid,,Tropical humid forest
+Maieta guianensis,Maieta,MELASTOMATACEAE,1,2,3,2,2,1,0,1,0,5,1,4,0.987628866,0.001030928,0.007216495,0.004123711,TropicalHumid,TropicalHumid,Tropical humid forest
+Malouetia tamaquarina,Malouetia,APOCYNACEAE,1,2,3,0,2,0,1,2,0,1,2,2,0.952662722,0.0,0.044378698,0.00295858,TropicalHumid,TropicalHumid,Tropical humid forest
+Malpighia glabra,Malpighia,MALPIGHIACEAE,1,2,3,0,2,1,1,1,0,5,1,4,0.57337884,0.253924915,0.012969283,0.032764505,TropicalHumid,TropicalHumid,
+Manilkara bidentata,Manilkara,SAPOTACEAE,1,2,3,0,2,2,1,0,1,1,1,4,0.913321168,0.001824818,0.042883212,0.033759124,TropicalHumid,TropicalHumid,Tropical humid forest
+Manilkara chicle,Manilkara,SAPOTACEAE,1,2,1,0,2,2,1,2,0,1,1,4,0.576086957,0.278985507,0.018115942,0.007246377,TropicalHumid,TropicalHumid,
+Manilkara huberi,Manilkara,SAPOTACEAE,1,2,1,0,2,1,1,2,0,1,1,4,0.993902439,0.0,0.006097561,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Manilkara jaimiqui,Manilkara,SAPOTACEAE,1,2,1,0,2,2,1,2,0,2,1,4,0.413793103,0.034482759,0.0,0.103448276,TropicalHumid,TropicalHumid,
+Mansoa alliacea,Mansoa,BIGNONIACEAE,1,2,3,0,2,2,1,2,0,5,1,4,0.931034483,0.025862069,0.017241379,0.025862069,TropicalHumid,TropicalHumid,Tropical humid forest
+Mansoa difficilis,Mansoa,BIGNONIACEAE,0,2,1,0,2,3,0,1,1,5,2,3,0.717712177,0.046125461,0.169741697,0.0,TropicalHumid,TropicalHumid,
+Maquira coriacea,Maquira,MORACEAE,1,2,3,0,2,2,1,1,0,1,1,4,0.686346863,0.191881919,0.103321033,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Maquira sclerophylla,Maquira,MORACEAE,1,2,3,0,2,2,1,1,1,5,2,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Marcetia taxifolia,Marcetia,MELASTOMATACEAE,1,2,3,0,2,2,0,1,1,5,2,2,0.368485592,0.07786634,0.302268547,0.014101778,TropicalHumid,,
+Marcgravia rectiflora,Marcgravia,MARCGRAVIACEAE,1,2,3,0,1,0,1,1,1,5,0,1,0.9375,0.020833333,0.020833333,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Marcgraviastrum mixtum,Marcgraviastrum,MARCGRAVIACEAE,1,2,3,0,2,2,0,1,1,5,3,1,0.98540146,0.00729927,0.0,0.00729927,TropicalHumid,TropicalHumid,Tropical humid forest
+Margaritaria nobilis,Margaritaria,PHYLLANTHACEAE,1,2,3,0,2,2,0,1,1,5,2,1,0.704615385,0.152087912,0.047912088,0.020659341,TropicalHumid,TropicalHumid,
+Marila grandiflora,Marila,CALOPHYLLACEAE,1,2,3,0,2,2,1,1,0,5,1,3,0.5,0.0,0.5,0.0,TropicalHumid,,
+Marlierea montana,Marlierea,MYRTACEAE,1,2,3,1,2,1,1,1,0,5,2,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,
+Martinella obovata,Martinella,BIGNONIACEAE,1,2,3,0,2,2,1,2,0,1,1,4,0.881834215,0.035273369,0.042328042,0.014109347,TropicalHumid,TropicalHumid,Tropical humid forest
+Matayba guianensis,Matayba,SAPINDACEAE,0,2,3,0,2,3,0,1,1,4,2,5,0.402749141,0.105841924,0.393814433,0.032989691,TropicalHumid,,
+Matayba opaca,Matayba,SAPINDACEAE,1,2,3,0,2,1,0,1,1,5,1,2,0.96097561,0.0,0.019512195,0.014634146,TropicalHumid,TropicalHumid,Tropical humid forest
+Matayba scrobiculata,Matayba,SAPINDACEAE,1,2,3,0,2,2,1,1,1,5,0,0,0.515151515,0.121212121,0.292929293,0.01010101,TropicalHumid,TropicalHumid,Tropical humid forest
+Mauria heterophylla,Mauria,ANACARDIACEAE,0,2,3,0,2,1,1,1,1,5,0,4,0.907869482,0.034548944,0.044145873,0.0,TropicalHumid,TropicalHumid,
+Maytenus obtusifolia,Maytenus,CELASTRACEAE,1,2,3,0,2,1,1,2,0,1,1,3,0.814917127,0.002762431,0.0,0.044198895,TropicalHumid,TropicalHumid,Tropical dry forest
+Maytenus octogona,Maytenus,CELASTRACEAE,1,2,3,0,2,1,1,2,0,5,2,4,0.606060606,0.121212121,0.0,0.060606061,TropicalHumid,TropicalHumid,Tropical dry forest
+Meliosma allenii,Meliosma,SABIACEAE,1,2,3,0,2,2,0,1,1,0,1,0,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Meliosma glabrata,Meliosma,SABIACEAE,0,2,3,1,2,2,1,1,1,5,1,4,0.945736434,0.020671835,0.002583979,0.005167959,TropicalHumid,TropicalHumid,Tropical humid forest
+Meliosma herbertii,Meliosma,SABIACEAE,1,2,3,2,2,1,1,0,1,5,2,1,0.963414634,0.032520325,0.0,0.004065041,TropicalHumid,TropicalHumid,Tropical humid forest
+Meriania robusta,Meriania,MELASTOMATACEAE,0,2,3,0,2,0,1,2,1,4,1,1,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Meriania urceolata,Meriania,MELASTOMATACEAE,1,2,3,0,1,2,1,1,1,5,0,0,0.867132867,0.006993007,0.125874126,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Metopium brownei,Metopium,ANACARDIACEAE,1,2,3,0,2,2,1,1,1,0,0,0,0.660280971,0.116219668,0.0,0.164750958,TropicalHumid,TropicalHumid,Tropical dry forest
+Metopium toxiferum,Metopium,ANACARDIACEAE,1,2,1,0,2,1,1,1,1,4,1,2,0.763157895,0.0,0.0,0.026315789,TropicalHumid,TropicalHumid,Tropical dry forest
+Miconia albicans,Miconia,MELASTOMATACEAE,1,2,3,0,2,2,1,2,1,5,1,3,0.425648415,0.053602305,0.382420749,0.021902017,TropicalHumid,,
+Miconia amazonica,Miconia,MELASTOMATACEAE,1,2,3,0,2,1,0,1,1,5,0,1,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Miconia calvescens,Miconia,MELASTOMATACEAE,1,2,3,0,2,1,0,1,1,5,1,1,0.868014269,0.024970273,0.086801427,0.003567182,TropicalHumid,TropicalHumid,
+Miconia cinnamomifolia,Miconia,MELASTOMATACEAE,1,2,3,0,2,1,0,1,1,5,0,1,0.909266409,0.0,0.048262548,0.025096525,TropicalHumid,TropicalHumid,
+Miconia glaberrima,Miconia,MELASTOMATACEAE,1,2,3,0,2,2,0,1,1,5,1,2,0.613107822,0.038054968,0.0,0.0,TropicalHumid,TropicalHumid,
+Miconia lepidota,Miconia,MELASTOMATACEAE,1,2,3,0,2,1,0,0,1,5,0,5,0.839756592,0.006085193,0.14198783,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Miconia ligustroides,Miconia,MELASTOMATACEAE,1,2,3,0,2,2,0,2,0,1,0,1,0.405429864,0.027149321,0.39638009,0.001809955,TropicalHumid,,
+Miconia longifolia,Miconia,MELASTOMATACEAE,0,2,3,0,2,1,0,0,1,5,1,1,0.877461707,0.021881838,0.035010941,0.030634573,TropicalHumid,TropicalHumid,Tropical humid forest
+Miconia minutiflora,Miconia,MELASTOMATACEAE,1,2,3,0,2,1,0,2,1,5,0,3,0.764567393,0.041200706,0.082401413,0.040612125,TropicalHumid,TropicalHumid,Tropical humid forest
+Miconia mirabilis,Miconia,MELASTOMATACEAE,1,2,3,0,2,2,0,2,1,5,0,2,0.861598441,0.027290448,0.031189084,0.022417154,TropicalHumid,TropicalHumid,Tropical humid forest
+Miconia poeppigii,Miconia,MELASTOMATACEAE,0,2,3,0,2,2,1,1,1,5,1,1,0.685661765,0.283088235,0.022058824,0.003676471,TropicalHumid,TropicalHumid,Tropical humid forest
+Miconia rubiginosa,Miconia,MELASTOMATACEAE,1,2,3,0,2,2,0,1,1,5,1,5,0.353403141,0.030104712,0.586387435,0.0,TropicalHumid,,Tropical humid forest
+Miconia sellowiana,Miconia,MELASTOMATACEAE,1,2,3,0,2,1,0,1,1,5,1,5,0.778877888,0.0,0.217821782,0.001650165,TropicalHumid,TropicalHumid,Tropical humid forest
+Miconia theizans,Miconia,MELASTOMATACEAE,0,2,3,0,2,0,0,1,1,5,1,1,0.506369427,0.003184713,0.353503185,0.0,TropicalHumid,,Tropical humid forest
+Micrandra rossiana,Micrandra,EUPHORBIACEAE,0,2,3,0,2,2,1,0,0,1,1,1,0.942028986,0.0,0.057971014,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Micrandra spruceana,Micrandra,EUPHORBIACEAE,1,2,3,0,2,3,1,1,0,2,1,4,0.973293769,0.0,0.026706231,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Microlepis oleifolia,Microlepis,MELASTOMATACEAE,1,2,3,0,2,3,1,2,0,1,1,4,0.944444444,0.0,0.055555556,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Micropholis egensis,Micropholis,SAPOTACEAE,0,2,3,0,2,1,0,1,1,5,2,5,0.952380952,0.014005602,0.033613445,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Micropholis melinoniana,Micropholis,SAPOTACEAE,1,2,1,0,2,2,1,2,0,2,1,4,0.955445545,0.004950495,0.00990099,0.004950495,TropicalHumid,TropicalHumid,Tropical humid forest
+Minquartia guianensis,Minquartia,OLACACEAE,1,2,3,0,2,2,1,2,1,5,2,0,0.985994398,0.00140056,0.010504202,0.00210084,TropicalHumid,TropicalHumid,Tropical humid forest
+Mollinedia glabra,Mollinedia,MONIMIACEAE,1,2,3,1,0,0,1,1,1,5,1,3,0.975,0.0,0.0,0.025,TropicalHumid,TropicalHumid,Tropical dry forest
+Mollinedia marliae,Mollinedia,MONIMIACEAE,1,2,3,1,0,0,0,1,0,5,2,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical dry forest
+Mollinedia viridiflora,Mollinedia,MONIMIACEAE,1,2,3,1,1,1,0,1,0,5,3,2,0.937015504,0.004844961,0.0,0.007751938,TropicalHumid,TropicalHumid,Tropical humid forest
+Morella pubescens,Morella,MYRICACEAE,1,2,3,1,1,1,1,1,0,5,1,2,0.647058824,0.205882353,0.0,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Morinda panamensis,Morinda,RUBIACEAE,1,2,3,1,2,1,1,1,0,5,1,3,0.842696629,0.029962547,0.0,0.04494382,TropicalHumid,TropicalHumid,Tropical humid forest
+Mosquitoxylum jamaicense,Mosquitoxylum,ANACARDIACEAE,1,2,3,0,2,3,1,2,0,0,1,0,0.88559322,0.021186441,0.0,0.012711864,TropicalHumid,TropicalHumid,Tropical humid forest
+Mouriri acutiflora,Mouriri,MELASTOMATACEAE,0,0,3,0,2,0,1,2,1,5,1,2,0.771875,0.0625,0.15625,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Mouriri barinensis,Mouriri,MELASTOMATACEAE,1,2,3,0,2,2,1,1,1,5,1,4,0.0,0.8125,0.1875,0.0,TropicalDry,TropicalHumid,Tropical dry forest
+Mouriri chamissoana,Mouriri,MELASTOMATACEAE,1,2,3,0,2,1,1,2,1,0,0,5,0.952380952,0.0,0.0,0.047619048,TropicalHumid,TropicalHumid,Tropical humid forest
+Mouriri huberi,Mouriri,MELASTOMATACEAE,1,2,3,0,2,2,1,2,1,5,1,1,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Myrcia amazonica,Myrcia,MYRTACEAE,1,2,3,0,2,2,0,2,1,5,1,3,0.589098532,0.060796646,0.19706499,0.008385744,TropicalHumid,TropicalHumid,
+Myrcia guianensis,Myrcia,MYRTACEAE,1,2,3,0,2,2,1,2,1,1,1,3,0.438189845,0.053532009,0.308498896,0.01214128,TropicalHumid,,
+Myrcia minutiflora,Myrcia,MYRTACEAE,1,2,3,0,2,1,1,1,0,5,1,2,0.991869919,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Myrcia pubipetala,Myrcia,MYRTACEAE,0,2,1,0,2,1,1,1,0,5,2,4,0.969849246,0.0,0.010050251,0.01758794,TropicalHumid,TropicalHumid,Tropical humid forest
+Myrciaria floribunda,Myrciaria,MYRTACEAE,0,2,3,0,2,0,1,1,1,5,1,2,0.674622504,0.073550901,0.14661471,0.018022406,TropicalHumid,TropicalHumid,Tropical humid forest
+Myriocarpa obovata,Myriocarpa,URTICACEAE,1,2,1,0,2,1,1,1,1,5,1,4,0.714285714,0.217391304,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Naucleopsis concinna,Naucleopsis,MORACEAE,1,2,3,0,2,1,0,1,1,5,2,3,0.977777778,0.0,0.022222222,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Nealchornea yapurensis,Nealchornea,EUPHORBIACEAE,1,2,1,0,2,1,0,1,1,4,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Nectandra ambigens,Nectandra,LAURACEAE,1,2,3,0,2,0,0,1,1,5,0,1,0.927835052,0.0,0.0,0.051546392,TropicalHumid,TropicalHumid,Tropical humid forest
+Nectandra coriacea,Nectandra,LAURACEAE,1,2,3,0,2,2,0,1,1,5,2,3,0.763466042,0.107728337,0.0,0.06323185,TropicalHumid,TropicalHumid,Tropical dry forest
+Nectandra globosa,Nectandra,LAURACEAE,0,2,3,0,2,1,0,1,1,5,1,2,0.871428571,0.00952381,0.080952381,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Nectandra leucantha,Nectandra,LAURACEAE,0,2,3,0,2,3,0,1,1,5,2,2,0.918032787,0.0,0.024590164,0.049180328,TropicalHumid,TropicalHumid,Tropical humid forest
+Nectandra puberula,Nectandra,LAURACEAE,0,2,3,0,2,1,0,1,1,5,1,2,0.991803279,0.0,0.008196721,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Nectandra reticulata,Nectandra,LAURACEAE,1,2,3,0,2,2,0,1,1,5,1,2,0.947145877,0.014799154,0.012684989,0.0,TropicalHumid,TropicalHumid,
+Nectandra salicifolia,Nectandra,LAURACEAE,1,2,3,0,2,2,0,1,1,5,1,2,0.625988701,0.153672316,0.0,0.06440678,TropicalHumid,TropicalHumid,
+Nectandra sanguinea,Nectandra,LAURACEAE,1,2,3,0,2,2,0,1,1,5,1,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Neea amplifolia,Neea,NYCTAGINACEAE,0,2,3,1,2,2,0,1,1,5,1,2,0.946808511,0.021276596,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Neea divaricata,Neea,NYCTAGINACEAE,1,2,3,0,2,1,1,1,1,5,0,3,0.982817869,0.013745704,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Neea floribunda,Neea,NYCTAGINACEAE,1,2,1,0,2,1,1,1,1,5,0,2,0.979452055,0.0,0.01369863,0.006849315,TropicalHumid,TropicalHumid,Tropical humid forest
+Neea madeirana,Neea,NYCTAGINACEAE,1,2,1,0,2,1,1,2,1,4,0,2,0.96969697,0.0,0.03030303,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Nepsera aquatica,Nepsera,MELASTOMATACEAE,1,2,3,0,2,0,1,2,1,5,0,1,0.79020979,0.003496503,0.045454545,0.073426573,TropicalHumid,TropicalHumid,Tropical humid forest
+Nicotiana raimondii,Nicotiana,SOLANACEAE,1,2,3,0,2,0,1,1,1,5,1,5,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Ochthocosmus barrae,Ochthocosmus,IXONANTHACEAE,1,2,3,0,2,2,1,1,1,5,1,2,0.775510204,0.142857143,0.081632653,0.0,TropicalHumid,TropicalHumid,
+Ocotea aciphylla,Ocotea,LAURACEAE,1,2,3,0,2,2,1,2,1,2,1,3,0.906556142,0.021853806,0.039939714,0.003014318,TropicalHumid,TropicalHumid,Tropical humid forest
+Ocotea canaliculata,Ocotea,LAURACEAE,0,2,3,0,2,1,0,1,1,5,1,2,0.756476684,0.010362694,0.119170984,0.051813472,TropicalHumid,TropicalHumid,
+Ocotea catharinensis,Ocotea,LAURACEAE,1,2,3,0,2,2,0,1,1,5,1,2,0.937728938,0.0,0.058608059,0.003663004,TropicalHumid,TropicalHumid,Tropical humid forest
+Ocotea corymbosa,Ocotea,LAURACEAE,0,2,3,1,2,1,0,1,1,5,1,3,0.567656766,0.018151815,0.391089109,0.0,TropicalHumid,,Tropical dry forest
+Ocotea curucutuensis,Ocotea,LAURACEAE,1,2,3,0,2,1,0,1,1,5,1,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ocotea dendrodaphne,Ocotea,LAURACEAE,0,2,3,0,2,2,0,1,1,5,1,2,0.890710383,0.027322404,0.0,0.027322404,TropicalHumid,TropicalHumid,Tropical humid forest
+Ocotea diospyrifolia,Ocotea,LAURACEAE,1,2,3,0,2,2,0,1,1,5,2,3,0.575301205,0.015060241,0.305722892,0.0,TropicalHumid,,
+Ocotea guianensis,Ocotea,LAURACEAE,1,2,3,0,2,2,0,1,1,5,1,2,0.790654206,0.099065421,0.093457944,0.007476636,TropicalHumid,TropicalHumid,Tropical humid forest
+Ocotea indecora,Ocotea,LAURACEAE,1,2,3,0,2,2,0,1,1,5,1,2,0.96763754,0.0,0.03236246,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ocotea odorifera,Ocotea,LAURACEAE,0,2,3,0,2,1,0,1,1,5,1,2,0.864229765,0.0,0.130548303,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ocotea porosa,Ocotea,LAURACEAE,0,2,3,0,2,1,1,1,1,5,1,3,0.894117647,0.0,0.105882353,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ocotea puberula,Ocotea,LAURACEAE,0,2,3,0,2,1,0,0,1,5,1,2,0.82080486,0.018982536,0.120728929,0.003796507,TropicalHumid,TropicalHumid,Tropical humid forest
+Ocotea pulchella,Ocotea,LAURACEAE,1,2,3,0,2,2,1,1,1,5,1,2,0.655104063,0.0,0.266600595,0.060455897,TropicalHumid,TropicalHumid,Tropical humid forest
+Ocotea schomburgkiana,Ocotea,LAURACEAE,0,2,3,0,2,1,0,1,1,5,1,2,0.882352941,0.0,0.117647059,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ocotea splendens,Ocotea,LAURACEAE,1,2,3,0,2,2,0,0,1,5,1,3,0.981884058,0.0,0.018115942,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ocotea tomentella,Ocotea,LAURACEAE,1,2,3,0,2,2,0,1,1,5,1,3,0.777777778,0.0,0.222222222,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Odontadenia macrantha,Odontadenia,APOCYNACEAE,1,2,3,0,2,2,0,1,1,5,1,2,0.9,0.011111111,0.033333333,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Oecopetalum mexicanum,Oecopetalum,ICACINACEAE,1,2,3,0,2,1,0,1,0,5,1,4,0.894736842,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Omphalea oleifera,Omphalea,EUPHORBIACEAE,1,2,3,0,2,2,1,1,0,5,2,4,0.157894737,0.684210526,0.0,0.0,TropicalDry,TropicalHumid,Tropical humid forest
+Ophiocaryon manausense,Ophiocaryon,SABIACEAE,1,2,3,0,2,2,1,2,0,3,2,2,0.984848485,0.015151515,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Oreocallis grandiflora,Oreocallis,PROTEACEAE,1,1,3,0,2,0,0,1,1,5,2,5,0.900763359,0.007633588,0.0,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Oreopanax peltatus,Oreopanax,ARALIACEAE,1,2,1,0,2,2,1,1,0,1,1,2,0.229813665,0.304347826,0.0,0.0,TropicalDry,TropicalHumid,
+Orthion oblanceolatum,Orthion,VIOLACEAE,1,2,1,1,2,1,1,0,1,5,2,5,0.976744186,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ossaea laxivenula,Ossaea,MELASTOMATACEAE,0,2,2,0,2,0,1,1,1,4,1,2,0.985074627,0.014925373,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ossaea micrantha,Ossaea,MELASTOMATACEAE,1,2,3,0,2,0,0,1,1,5,0,1,0.937106918,0.056603774,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ottoschulzia pallida,Ottoschulzia,ICACINACEAE,1,2,0,1,2,1,1,1,0,1,3,4,0.829787234,0.0,0.0,0.127659574,TropicalHumid,TropicalHumid,Tropical dry forest
+Ouratea spectabilis,Ouratea,OCHNACEAE,1,2,3,0,2,2,1,2,1,5,1,4,0.123778502,0.120521173,0.745928339,0.0,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Oxandra asbeckii,Oxandra,ANNONACEAE,1,2,3,0,2,1,1,1,1,5,2,5,0.895833333,0.0,0.0625,0.041666667,TropicalHumid,TropicalHumid,Tropical humid forest
+Oxandra lanceolata,Oxandra,ANNONACEAE,1,2,3,0,2,1,1,2,0,2,1,3,0.3,0.566666667,0.0,0.033333333,TropicalHumid,,Tropical dry forest
+Oxandra riedeliana,Oxandra,ANNONACEAE,1,2,3,0,2,0,1,2,0,3,2,3,0.990291262,0.0,0.009708738,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Pachyloma huberioides,Pachyloma,MELASTOMATACEAE,0,2,3,0,2,1,1,1,1,5,2,2,0.989247312,0.0,0.010752688,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Pagamea capitata,Pagamea,RUBIACEAE,1,2,1,0,2,2,0,1,1,5,1,5,0.870813397,0.0,0.129186603,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Pagamea guianensis,Pagamea,RUBIACEAE,0,2,3,0,2,1,1,1,1,1,1,4,0.822328932,0.052821128,0.069627851,0.037214886,TropicalHumid,TropicalHumid,Tropical humid forest
+Palicourea crocea,Palicourea,RUBIACEAE,1,2,3,0,2,2,1,2,1,5,1,3,0.593333333,0.013333333,0.326666667,0.0,TropicalHumid,,Tropical humid forest
+Palicourea guianensis,Palicourea,RUBIACEAE,1,2,3,0,2,1,0,1,0,5,1,3,0.895331695,0.015233415,0.047665848,0.008845209,TropicalHumid,TropicalHumid,Tropical humid forest
+Panopsis sessilifolia,Panopsis,PROTEACEAE,1,2,3,0,2,0,0,2,0,5,2,4,0.872727273,0.0,0.1,0.027272727,TropicalHumid,TropicalHumid,Tropical humid forest
+Parahancornia fasciculata,Parahancornia,APOCYNACEAE,1,2,3,0,2,2,1,2,1,0,1,2,0.9609375,0.0,0.015625,0.0234375,TropicalHumid,TropicalHumid,Tropical humid forest
+Parahancornia peruviana,Parahancornia,APOCYNACEAE,1,2,3,0,2,2,1,1,0,1,1,0,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Parinari campestris,Parinari,CHRYSOBALANACEAE,1,1,1,0,2,1,1,1,1,4,1,0,0.82629108,0.0,0.112676056,0.061032864,TropicalHumid,TropicalHumid,Tropical humid forest
+Passiflora mollissima,Passiflora,PASSIFLORACEAE,1,2,1,0,2,1,1,2,0,1,1,4,0.851351351,0.040540541,0.0,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Paypayrola guianensis,Paypayrola,VIOLACEAE,1,2,3,0,2,0,1,2,0,1,1,4,0.986666667,0.0,0.0,0.013333333,TropicalHumid,TropicalHumid,Tropical humid forest
+Pelliciera rhizophorae,Pelliciera,TETRAMERISTACEAE,1,2,3,0,2,1,0,1,1,5,0,3,0.378151261,0.268907563,0.033613445,0.243697479,TropicalHumid,TropicalHumid,Tropical humid forest
+Peltanthera floribunda,Peltanthera,LOGANIACEAE,1,2,3,0,2,1,0,1,1,5,0,5,0.90625,0.09375,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Pentagonia macrophylla,Pentagonia,RUBIACEAE,1,2,3,0,2,1,1,1,1,5,1,1,0.948275862,0.051724138,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Pera arborea,Pera,PERACEAE,1,2,3,0,2,2,0,2,1,5,2,5,0.757425743,0.158415842,0.01980198,0.024752475,TropicalHumid,TropicalHumid,Tropical humid forest
+Pera bicolor,Pera,PERACEAE,1,2,3,0,2,2,1,2,0,1,0,3,0.884210526,0.0,0.115789474,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Pera glabrata,Pera,PERACEAE,1,2,3,0,2,2,1,1,0,1,0,5,0.709677419,0.026647966,0.147265077,0.043478261,TropicalHumid,TropicalHumid,
+Perianthomega vellozoi,Perianthomega,BIGNONIACEAE,1,2,3,0,1,2,1,1,1,5,2,2,0.159090909,0.431818182,0.409090909,0.0,TropicalDry,,Tropical dry forest
+Perrottetia longistylis,Perrottetia,CELASTRACEAE,1,2,3,0,2,1,0,1,1,5,0,5,0.631578947,0.052631579,0.0,0.005847953,TropicalHumid,TropicalHumid,
+Persea americana,Persea,LAURACEAE,1,2,3,1,1,1,0,1,0,5,2,4,0.569807037,0.129398411,0.0,0.013620885,TropicalHumid,TropicalHumid,
+Persea caerulea,Persea,LAURACEAE,1,2,1,0,2,1,1,1,1,5,2,3,0.780373832,0.063084112,0.065420561,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Persea venosa,Persea,LAURACEAE,1,2,3,0,2,2,1,1,1,5,1,2,0.57037037,0.0,0.414814815,0.0,TropicalHumid,,Tropical humid forest
+Petrea volubilis,Petrea,VERBENACEAE,1,2,3,0,2,2,0,2,1,5,1,3,0.567835366,0.256859756,0.042682927,0.025152439,TropicalHumid,TropicalHumid,
+Phyllanthus acuminatus,Phyllanthus,PHYLLANTHACEAE,1,2,3,0,2,2,1,1,1,5,1,2,0.629787234,0.169148936,0.076595745,0.009574468,TropicalHumid,TropicalHumid,
+Phyllanthus brasiliensis,Phyllanthus,PHYLLANTHACEAE,1,2,3,0,2,1,0,2,0,5,1,4,0.848484848,0.03030303,0.121212121,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Phyllanthus grandifolius,Phyllanthus,PHYLLANTHACEAE,0,2,3,0,2,1,1,1,0,5,1,3,0.408602151,0.23655914,0.0,0.021505376,TropicalHumid,TropicalHumid,
+Phyllanthus salviifolius,Phyllanthus,PHYLLANTHACEAE,1,2,3,0,2,1,0,1,1,5,2,4,0.884146341,0.0,0.06097561,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Phyllanthus sellowianus,Phyllanthus,PHYLLANTHACEAE,1,2,3,0,2,1,1,1,0,5,2,1,0.657894737,0.0,0.223684211,0.0,TropicalHumid,TropicalHumid,
+Phyllostylon rhamnoides,Phyllostylon,ULMACEAE,1,2,3,0,2,0,0,1,0,5,1,1,0.263157895,0.434210526,0.190789474,0.0,TropicalDry,TropicalHumid,Tropical dry forest
+Physocalymma scaberrimum,Physocalymma,LYTHRACEAE,1,2,3,0,2,0,1,2,1,4,1,2,0.35,0.438888889,0.203703704,0.0,TropicalHumid,,
+Picramnia pentandra,Picramnia,PICRAMNIACEAE,1,2,3,0,2,1,1,0,1,5,2,3,0.534482759,0.293103448,0.017241379,0.0,TropicalHumid,TropicalHumid,
+Picrasma crenata,Picrasma,SIMAROUBACEAE,1,2,1,0,2,1,0,1,0,5,2,4,0.711111111,0.0,0.177777778,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Pimenta dioica,Pimenta,MYRTACEAE,1,2,3,0,2,1,1,2,0,5,1,4,0.736842105,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Piper hispidum,Piper,PIPERACEAE,1,2,3,0,2,1,1,1,1,5,3,1,0.781558029,0.053418124,0.063593005,0.009856916,TropicalHumid,TropicalHumid,Tropical humid forest
+Piptocarpha rotundifolia,Piptocarpha,ASTERACEAE,1,2,3,0,2,2,1,1,1,5,3,1,0.12371134,0.045360825,0.830927835,0.0,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Pisonia aculeata,Pisonia,NYCTAGINACEAE,1,2,3,0,2,1,1,2,0,0,0,4,0.497363796,0.366432337,0.051845343,0.024604569,TropicalHumid,,Tropical dry forest
+Pisonia zapallo,Pisonia,NYCTAGINACEAE,1,2,1,0,2,1,1,1,1,5,0,2,0.347826087,0.2,0.304347826,0.0,TropicalHumid,,Tropical dry forest
+Platonia insignis,Platonia,CLUSIACEAE,1,2,3,0,1,1,1,1,0,5,3,2,0.819354839,0.0,0.083870968,0.083870968,TropicalHumid,TropicalHumid,Tropical humid forest
+Plenckia populnea,Plenckia,CELASTRACEAE,1,2,3,0,2,2,1,2,1,5,0,2,0.20713073,0.037351443,0.65704584,0.0,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Pleonotoma melioides,Pleonotoma,BIGNONIACEAE,1,2,1,1,1,1,1,1,0,5,0,2,0.768041237,0.056701031,0.159793814,0.005154639,TropicalHumid,TropicalHumid,Tropical humid forest
+Pleurisanthes flava,Pleurisanthes,ICACINACEAE,1,2,3,1,2,1,0,1,0,5,2,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Pogonophora schomburgkiana,Pogonophora,PERACEAE,1,2,3,0,2,2,1,1,0,1,1,3,0.786850477,0.034994698,0.026511135,0.048780488,TropicalHumid,TropicalHumid,
+Polygonanthus amazonicus,Polygonanthus,RHIZOPHORACEAE,1,2,3,0,2,2,1,1,0,5,1,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Polylepis australis,Polylepis,ROSACEAE,1,2,3,0,2,2,1,1,0,1,3,2,0.148148148,0.0,0.444444444,0.0,TropicalGrasslands,TropicalGrasslands,Tropical montane
+Poraqueiba guianensis,Poraqueiba,ICACINACEAE,0,2,3,0,2,1,1,1,0,5,1,2,0.990740741,0.0,0.0,0.009259259,TropicalHumid,TropicalHumid,Tropical humid forest
+Poraqueiba sericea,Poraqueiba,ICACINACEAE,1,2,3,1,1,1,1,2,0,1,3,4,0.986206897,0.0,0.013793103,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Posoqueria latifolia,Posoqueria,RUBIACEAE,0,2,1,0,2,2,1,1,1,5,0,2,0.857383966,0.025316456,0.042616034,0.026160338,TropicalHumid,TropicalHumid,Tropical humid forest
+Poulsenia armata,Poulsenia,MORACEAE,1,2,3,0,2,0,1,2,0,1,0,1,0.927536232,0.031400966,0.024154589,0.009661836,TropicalHumid,TropicalHumid,Tropical humid forest
+Pourouma bicolor,Pourouma,URTICACEAE,1,2,1,0,2,2,1,0,1,5,2,2,0.953457447,0.013297872,0.029255319,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Pourouma minor,Pourouma,URTICACEAE,1,2,3,0,2,2,1,1,1,1,2,2,0.846318036,0.004268943,0.14941302,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Pradosia ptychandra,Pradosia,SAPOTACEAE,1,2,1,0,2,2,1,2,0,1,0,2,0.947368421,0.0,0.052631579,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Pradosia schomburgkiana,Pradosia,SAPOTACEAE,1,2,1,0,2,1,1,2,0,2,1,4,0.944444444,0.0,0.034722222,0.020833333,TropicalHumid,TropicalHumid,Tropical humid forest
+Prockia crucis,Prockia,SALICACEAE,1,2,1,0,2,1,1,2,0,1,1,2,0.477621483,0.175831202,0.157928389,0.001278772,TropicalHumid,TropicalHumid,Tropical dry forest
+Pseudoxandra lucida,Pseudoxandra,ANNONACEAE,1,2,3,0,2,1,1,1,1,5,1,2,0.964705882,0.0,0.035294118,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Psidium galapageium,Psidium,MYRTACEAE,1,2,3,0,2,1,1,1,0,1,2,0,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Psidium guajava,Psidium,MYRTACEAE,1,2,1,0,2,0,1,1,0,1,1,3,0.474103586,0.227091633,0.099601594,0.025042686,TropicalHumid,TropicalHumid,
+Psidium sartorianum,Psidium,MYRTACEAE,1,2,3,0,2,1,1,1,0,1,1,4,0.364779874,0.327044025,0.135220126,0.0,TropicalHumid,,Tropical dry forest
+Psychotria hazenii,Psychotria,RUBIACEAE,0,2,3,0,2,0,0,1,0,5,1,1,0.829268293,0.170731707,0.0,0.0,TropicalHumid,TropicalHumid,
+Psychotria hoffmannseggiana,Psychotria,RUBIACEAE,1,2,3,0,2,1,0,1,0,5,2,5,0.619698059,0.034507549,0.167505392,0.049604601,TropicalHumid,TropicalHumid,
+Psychotria leiocarpa,Psychotria,RUBIACEAE,1,2,3,0,2,0,0,1,0,5,1,1,0.833808845,0.003566334,0.082025678,0.040656205,TropicalHumid,TropicalHumid,Tropical humid forest
+Psychotria nuda,Psychotria,RUBIACEAE,1,2,3,0,2,0,0,1,0,5,2,1,0.868456376,0.0,0.006711409,0.111409396,TropicalHumid,TropicalHumid,Tropical humid forest
+Psychotria pubigera,Psychotria,RUBIACEAE,1,2,3,0,2,0,0,2,0,5,2,4,0.941489362,0.0,0.015957447,0.042553191,TropicalHumid,TropicalHumid,Tropical humid forest
+Psychotria ruelliifolia,Psychotria,RUBIACEAE,1,2,3,0,2,0,0,1,0,5,1,1,0.933774834,0.0,0.052980132,0.013245033,TropicalHumid,TropicalHumid,Tropical humid forest
+Psychotria suterella,Psychotria,RUBIACEAE,1,2,3,2,2,1,0,1,0,5,1,4,0.943135662,0.0,0.04224208,0.014622258,TropicalHumid,TropicalHumid,Tropical humid forest
+Psychotria vellosiana,Psychotria,RUBIACEAE,1,2,3,0,2,0,0,1,0,5,1,2,0.780848329,0.004498715,0.152956298,0.001285347,TropicalHumid,TropicalHumid,
+Ptilochaeta nudipes,Ptilochaeta,MALPIGHIACEAE,0,0,0,0,2,2,1,2,1,4,2,0,0.071428571,0.571428571,0.214285714,0.0,TropicalDry,TropicalDry,Tropical dry forest
+Ptychopetalum olacoides,Ptychopetalum,OLACACEAE,0,1,1,0,2,0,0,2,1,5,1,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Pyrostegia venusta,Pyrostegia,BIGNONIACEAE,1,2,3,0,2,2,1,2,0,5,1,2,0.602393617,0.037898936,0.213430851,0.001329787,TropicalHumid,TropicalHumid,
+Qualea coerulea,Qualea,VOCHYSIACEAE,1,2,3,0,2,2,1,1,1,5,1,0,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Qualea dichotoma,Qualea,VOCHYSIACEAE,1,2,3,0,2,2,1,1,1,5,1,0,0.139455782,0.095238095,0.428571429,0.0,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Qualea dinizii,Qualea,VOCHYSIACEAE,1,2,3,0,2,2,0,1,1,0,1,0,0.883116883,0.0,0.116883117,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Qualea grandiflora,Qualea,VOCHYSIACEAE,1,2,3,0,2,2,1,1,1,4,2,0,0.243122677,0.104832714,0.595539033,0.0,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Qualea multiflora,Qualea,VOCHYSIACEAE,0,2,3,1,2,1,0,2,1,0,1,0,0.227186312,0.040874525,0.730988593,0.0,TropicalGrasslands,TropicalGrasslands,
+Qualea rosea,Qualea,VOCHYSIACEAE,1,2,3,0,2,1,0,2,1,0,1,0,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Quassia amara,Quassia,SIMAROUBACEAE,1,2,3,0,2,3,1,1,1,5,1,0,0.722955145,0.168865435,0.021108179,0.026385224,TropicalHumid,TropicalHumid,Tropical humid forest
+Quiina amazonica,Quiina,OCHNACEAE,1,2,3,0,2,1,1,1,1,4,0,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Quiina cruegeriana,Quiina,OCHNACEAE,1,1,1,0,2,3,1,2,1,1,3,0,0.933333333,0.0,0.059259259,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Randia aculeata,Randia,RUBIACEAE,0,2,3,0,2,1,1,1,1,5,1,2,0.533525595,0.281903389,0.008651766,0.049747657,TropicalHumid,TropicalHumid,
+Randia armata,Randia,RUBIACEAE,0,2,3,0,2,2,1,2,1,5,0,1,0.555555556,0.156890796,0.121602289,0.011921793,TropicalHumid,TropicalHumid,
+Rauvolfia praecox,Rauvolfia,APOCYNACEAE,0,2,1,0,2,1,1,1,1,5,1,4,0.86,0.1,0.04,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Remijia amazonica,Remijia,RUBIACEAE,1,2,1,0,2,1,1,1,1,5,1,2,0.954545455,0.007575758,0.037878788,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Rhabdodendron amazonicum,Rhabdodendron,RHABDODENDRACEAE,1,2,3,0,2,0,1,1,1,5,1,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Rhabdodendron macrophyllum,Rhabdodendron,RHABDODENDRACEAE,1,2,2,0,2,1,1,1,1,5,2,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Rhamnidium elaeocarpum,Rhamnidium,RHAMNACEAE,1,2,3,0,2,1,1,2,1,5,1,3,0.296969697,0.18030303,0.486363636,0.0,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Rhamnidium glabrum,Rhamnidium,RHAMNACEAE,1,2,3,0,2,1,1,2,0,4,1,4,0.923076923,0.0,0.076923077,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Rhizophora harrisonii,Rhizophora,RHIZOPHORACEAE,1,2,3,0,2,2,1,1,1,5,2,3,0.565217391,0.0,0.0,0.347826087,TropicalHumid,,Tropical humid forest
+Rhizophora mangle,Rhizophora,RHIZOPHORACEAE,1,2,1,0,2,1,1,2,1,4,1,3,0.230552952,0.101686973,0.0,0.395032802,Mangrove,TropicalHumid,Mangrove
+Rhizophora racemosa,Rhizophora,RHIZOPHORACEAE,1,2,3,1,0,1,0,2,1,5,2,2,0.458333333,0.091666667,0.0,0.316666667,TropicalHumid,,Tropical humid forest
+Rhodostemonodaphne grandis,Rhodostemonodaphne,LAURACEAE,1,2,3,1,0,1,1,2,1,5,2,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Richeria grandis,Richeria,PHYLLANTHACEAE,1,2,0,0,2,1,1,1,1,5,1,1,0.64277839,0.031973539,0.216097023,0.019845645,TropicalHumid,TropicalHumid,Tropical humid forest
+Rollinia mucosa,Rollinia,ANNONACEAE,1,2,3,0,2,2,1,1,0,1,1,3,0.983870968,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Roucheria calophylla,Roucheria,LINACEAE,1,2,3,0,2,0,1,2,0,5,2,4,0.907563025,0.0,0.084033613,0.008403361,TropicalHumid,TropicalHumid,Tropical humid forest
+Roucheria punctata,Roucheria,LINACEAE,0,2,3,0,2,2,1,1,1,5,2,0,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Roupala montana,Roupala,PROTEACEAE,1,2,3,0,2,2,1,2,1,5,1,4,0.536444444,0.092444444,0.298222222,0.004888889,TropicalHumid,TropicalHumid,
+Rourea pubescens,Rourea,CONNARACEAE,1,2,3,0,2,2,1,2,1,5,1,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ruagea insignis,Ruagea,MELIACEAE,0,2,3,0,2,3,1,1,0,5,1,5,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ryania angustifolia,Ryania,SALICACEAE,1,2,3,0,2,3,1,1,1,5,1,0,0.940298507,0.0,0.059701493,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ryania speciosa,Ryania,SALICACEAE,0,2,3,0,2,2,1,1,1,1,0,2,0.919134396,0.007972665,0.053530752,0.009111617,TropicalHumid,TropicalHumid,Tropical humid forest
+Sacoglottis amazonica,Sacoglottis,HUMIRIACEAE,1,2,3,0,2,1,0,1,0,5,3,4,0.955555556,0.0,0.022222222,0.022222222,TropicalHumid,TropicalHumid,Tropical humid forest
+Sacoglottis cydonioides,Sacoglottis,HUMIRIACEAE,1,2,3,0,2,0,0,0,0,5,3,4,0.787878788,0.0,0.121212121,0.090909091,TropicalHumid,TropicalHumid,Tropical humid forest
+Sagotia racemosa,Sagotia,EUPHORBIACEAE,1,2,3,1,2,2,1,2,1,1,1,4,0.981395349,0.0,0.01627907,0.002325581,TropicalHumid,TropicalHumid,Tropical humid forest
+Sandemania hoehnei,Sandemania,MELASTOMATACEAE,0,1,1,0,2,1,1,1,1,5,2,4,0.93877551,0.0,0.06122449,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Sapium laurifolium,Sapium,EUPHORBIACEAE,1,2,3,0,2,2,0,2,1,4,1,0,0.916666667,0.04,0.01,0.006666667,TropicalHumid,TropicalHumid,Tropical humid forest
+Sapium laurocerasus,Sapium,EUPHORBIACEAE,1,2,3,0,2,3,1,1,0,2,0,5,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Sapium stylare,Sapium,EUPHORBIACEAE,1,2,3,0,2,2,1,1,0,5,1,0,0.9342723,0.009389671,0.042253521,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Sapranthus microcarpus,Sapranthus,ANNONACEAE,1,2,3,0,2,1,0,1,0,2,1,5,0.164251208,0.584541063,0.0,0.106280193,TropicalDry,TropicalDry,
+Sarcaulus brasiliensis,Sarcaulus,SAPOTACEAE,1,2,3,0,2,1,1,1,0,3,2,4,0.931330472,0.053648069,0.004291845,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Saurauia yasicae,Saurauia,ACTINIDIACEAE,1,2,3,0,2,1,1,1,0,3,2,2,0.916666667,0.021276596,0.028368794,0.00177305,TropicalHumid,TropicalHumid,Tropical humid forest
+Schaefferia frutescens,Schaefferia,CELASTRACEAE,1,2,3,0,2,1,1,1,1,5,1,1,0.306451613,0.314516129,0.032258065,0.161290323,TropicalHumid,,Tropical dry forest
+Schefflera decaphylla,Schefflera,ARALIACEAE,1,2,3,0,2,1,1,1,1,5,2,3,0.977272727,0.0,0.022727273,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Schefflera vinosa,Schefflera,ARALIACEAE,1,2,3,0,2,2,0,0,1,5,2,2,0.196213425,0.04475043,0.559380379,0.0,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Schinopsis balansae,Schinopsis,ANACARDIACEAE,1,2,3,1,2,1,0,1,1,5,1,3,0.097222222,0.0,0.791666667,0.0,TropicalGrasslands,TropicalGrasslands,Tropical dry forest
+Schinopsis lorentzii,Schinopsis,ANACARDIACEAE,1,2,3,0,2,2,0,1,1,4,2,2,0.036363636,0.036363636,0.836363636,0.0,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Schinus molle,Schinus,ANACARDIACEAE,1,2,3,0,2,2,0,2,1,1,1,2,0.512195122,0.0,0.104529617,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Schinus terebinthifolius,Schinus,ANACARDIACEAE,1,2,1,0,2,1,0,1,1,5,1,2,0.815789474,0.0,0.131578947,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Schlegelia nicaraguensis,Schlegelia,SCROPHULARIACEAE,0,1,1,0,2,1,0,1,1,5,2,3,0.937984496,0.007751938,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Schlegelia parviflora,Schlegelia,SCROPHULARIACEAE,0,2,2,0,2,0,1,1,1,5,1,3,0.907692308,0.0,0.076923077,0.007692308,TropicalHumid,TropicalHumid,Tropical humid forest
+Scutia spicata,Scutia,RHAMNACEAE,1,2,3,0,2,1,1,1,1,0,1,0,0.117647059,0.705882353,0.0,0.0,TropicalDry,TropicalHumid,Tropical dry forest
+Sebastiania commersoniana,Sebastiania,EUPHORBIACEAE,1,2,3,0,2,2,1,1,1,5,2,2,0.542763158,0.0,0.3125,0.0,TropicalHumid,,Tropical humid forest
+Securidaca diversifolia,Securidaca,POLYGALACEAE,1,2,3,0,2,0,1,2,1,5,1,1,0.540664376,0.1534937,0.04696449,0.034364261,TropicalHumid,TropicalHumid,
+Serjania atrolineata,Serjania,SAPINDACEAE,1,2,3,0,2,2,1,1,1,5,0,1,0.561403509,0.245614035,0.035087719,0.0,TropicalHumid,TropicalHumid,
+Serjania corrugata,Serjania,SAPINDACEAE,1,2,1,0,2,2,1,1,0,1,0,5,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical dry forest
+Serjania lethalis,Serjania,SAPINDACEAE,1,2,3,0,2,2,1,1,1,1,2,4,0.333333333,0.087926509,0.400262467,0.0,TropicalHumid,,Tropical dry forest
+Sextonia rubra,Sextonia,LAURACEAE,1,2,3,0,2,2,0,1,1,5,1,5,0.981481481,0.0,0.012345679,0.00617284,TropicalHumid,TropicalHumid,Tropical humid forest
+Sideroxylon foetidissimum,Sideroxylon,SAPOTACEAE,1,2,3,0,2,3,0,1,1,5,1,2,0.720496894,0.149068323,0.0,0.043478261,TropicalHumid,TropicalHumid,Tropical dry forest
+Sideroxylon salicifolium,Sideroxylon,SAPOTACEAE,0,0,1,0,2,1,1,2,0,1,2,2,0.637393768,0.220963173,0.0,0.014164306,TropicalHumid,TropicalHumid,Tropical dry forest
+Sideroxylon stevensonii,Sideroxylon,SAPOTACEAE,1,2,2,0,2,1,1,2,0,1,1,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Simaba cedron,Simaba,SIMAROUBACEAE,1,2,1,0,2,1,1,2,0,1,1,4,0.890410959,0.0,0.095890411,0.006849315,TropicalHumid,TropicalHumid,Tropical humid forest
+Simaba orinocensis,Simaba,SIMAROUBACEAE,1,2,1,0,2,2,1,2,0,1,1,4,0.862433862,0.0,0.137566138,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Simarouba amara,Simarouba,SIMAROUBACEAE,0,2,3,0,2,2,1,1,1,4,2,0,0.675958188,0.095238095,0.092334495,0.021486643,TropicalHumid,TropicalHumid,
+Simarouba glauca,Simarouba,SIMAROUBACEAE,1,2,3,0,2,2,1,1,1,0,2,0,0.369047619,0.369047619,0.0,0.005952381,TropicalHumid,,
+Simarouba versicolor,Simarouba,SIMAROUBACEAE,1,2,3,0,2,3,1,0,1,1,1,0,0.167101828,0.041775457,0.621409922,0.0,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Simira maxonii,Simira,RUBIACEAE,1,2,3,0,2,3,1,1,1,1,2,0,0.938461538,0.007692308,0.0,0.015384615,TropicalHumid,TropicalHumid,Tropical humid forest
+Simira rubescens,Simira,RUBIACEAE,1,2,3,0,2,2,1,1,1,0,2,0,0.732193732,0.082621083,0.170940171,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Simira tinctoria,Simira,RUBIACEAE,1,2,3,0,2,1,0,1,0,5,2,4,0.933333333,0.066666667,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Siparuna bifida,Siparuna,SIPARUNACEAE,1,2,3,0,2,0,0,1,0,5,2,3,0.883561644,0.010273973,0.102739726,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Siparuna brasiliensis,Siparuna,SIPARUNACEAE,1,2,3,0,2,1,0,2,0,5,1,4,0.84148728,0.0,0.15851272,0.0,TropicalHumid,TropicalHumid,
+Siparuna decipiens,Siparuna,SIPARUNACEAE,1,2,3,0,2,1,1,2,1,5,1,4,0.991515837,0.001131222,0.00678733,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Siparuna poeppigii,Siparuna,SIPARUNACEAE,1,2,3,1,2,2,1,2,0,5,2,4,0.867924528,0.0,0.122641509,0.009433962,TropicalHumid,TropicalHumid,Tropical humid forest
+Siparuna reginae,Siparuna,SIPARUNACEAE,1,2,3,2,2,1,1,2,0,5,2,4,0.955555556,0.0,0.044444444,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Sloanea grandiflora,Sloanea,ELAEOCARPACEAE,1,2,3,0,2,1,1,2,0,5,1,4,0.930232558,0.0,0.052325581,0.011627907,TropicalHumid,TropicalHumid,Tropical humid forest
+Sloanea guianensis,Sloanea,ELAEOCARPACEAE,1,2,3,0,2,1,1,2,1,5,2,3,0.860344828,0.013793103,0.088793103,0.014655172,TropicalHumid,TropicalHumid,Tropical humid forest
+Sloanea hirsuta,Sloanea,ELAEOCARPACEAE,1,2,3,0,2,2,1,2,0,4,2,4,0.927631579,0.0,0.059210526,0.006578947,TropicalHumid,TropicalHumid,
+Sloanea laurifolia,Sloanea,ELAEOCARPACEAE,0,2,3,2,2,2,1,1,1,4,2,3,0.933333333,0.0,0.044444444,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Sloanea medusula,Sloanea,ELAEOCARPACEAE,0,2,3,0,2,1,0,1,1,5,2,2,0.87962963,0.0,0.0,0.027777778,TropicalHumid,TropicalHumid,Tropical humid forest
+Solanum acropterum,Solanum,SOLANACEAE,1,2,3,0,2,2,1,1,0,4,2,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Solanum paludosum,Solanum,SOLANACEAE,0,2,1,0,2,1,1,1,1,4,1,2,0.720812183,0.001692047,0.021996616,0.089678511,TropicalHumid,TropicalHumid,Tropical dry forest
+Solanum vanheurckii,Solanum,SOLANACEAE,1,2,1,0,2,0,1,1,0,5,0,1,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Solenophora calycosa,Solenophora,GESNERIACEAE,1,2,3,0,2,2,1,1,1,5,0,0,0.983766234,0.0,0.0,0.0,TropicalHumid,TropicalHumid,
+Sorocea muriculata,Sorocea,MORACEAE,1,2,3,0,2,0,1,1,0,5,1,4,0.962962963,0.005291005,0.031746032,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Souroubea guianensis,Souroubea,MARCGRAVIACEAE,1,2,3,0,2,1,1,2,1,0,1,4,0.915742794,0.00443459,0.064301552,0.00886918,TropicalHumid,TropicalHumid,
+Spachea elegans,Spachea,MALPIGHIACEAE,1,2,3,0,2,2,1,1,1,1,2,2,0.848484848,0.0,0.151515152,0.0,TropicalHumid,TropicalHumid,
+Sparattosperma leucanthum,Sparattosperma,BIGNONIACEAE,1,2,3,0,2,2,0,1,1,5,2,3,0.789873418,0.098734177,0.058227848,0.010126582,TropicalHumid,TropicalHumid,
+Spigelia anthelmia,Spigelia,LOGANIACEAE,0,2,1,0,2,1,1,1,1,3,1,2,0.578358209,0.175373134,0.031094527,0.064676617,TropicalHumid,TropicalHumid,
+Spondias mombin,Spondias,ANACARDIACEAE,1,2,3,2,2,0,1,0,0,5,0,1,0.584401709,0.200320513,0.078525641,0.030448718,TropicalHumid,TropicalHumid,Tropical humid forest
+Spondias purpurea,Spondias,ANACARDIACEAE,1,2,3,0,2,2,0,1,1,5,2,3,0.258928571,0.544642857,0.00127551,0.015306122,TropicalDry,TropicalHumid,Tropical dry forest
+Stenostomum acreanum,Stenostomum,RUBIACEAE,1,2,3,0,2,1,0,1,0,5,2,4,0.940860215,0.02688172,0.010752688,0.016129032,TropicalHumid,TropicalHumid,Tropical humid forest
+Sterigmapetalum obovatum,Sterigmapetalum,RHIZOPHORACEAE,1,2,3,0,2,3,1,2,0,0,3,3,0.950310559,0.031055901,0.01863354,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Stizophyllum riparium,Stizophyllum,BIGNONIACEAE,1,2,3,1,1,2,1,2,1,5,1,3,0.866972477,0.087155963,0.013761468,0.009174312,TropicalHumid,TropicalHumid,Tropical humid forest
+Streptosolen jamesonii,Streptosolen,SOLANACEAE,1,2,3,0,2,3,1,2,0,0,1,3,0.93877551,0.010204082,0.0,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Strychnos glabra,Strychnos,LOGANIACEAE,0,2,3,0,2,2,0,1,1,4,1,5,0.97826087,0.0,0.02173913,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Styloceras laurifolium,Styloceras,BUXACEAE,1,2,3,0,2,3,1,2,1,5,2,3,0.853333333,0.013333333,0.093333333,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Styrax argenteus,Styrax,STYRACACEAE,1,2,2,0,2,1,1,2,1,5,2,5,0.371134021,0.137457045,0.0,0.0,TropicalHumid,TropicalHumid,
+Styrax camporum,Styrax,STYRACACEAE,1,2,3,1,1,1,1,1,0,5,1,3,0.246503497,0.062937063,0.582167832,0.0,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Styrax ferrugineus,Styrax,STYRACACEAE,0,2,3,2,2,1,1,1,1,5,1,4,0.165919283,0.056053812,0.775784753,0.0,TropicalGrasslands,TropicalGrasslands,Tropical dry forest
+Styrax guyanensis,Styrax,STYRACACEAE,1,2,3,2,2,1,1,1,1,1,1,4,0.955555556,0.022222222,0.022222222,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Styrax martii,Styrax,STYRACACEAE,1,2,3,2,2,1,1,1,1,1,1,4,0.658536585,0.0,0.341463415,0.0,TropicalHumid,,Tropical humid forest
+Symmeria paniculata,Symmeria,POLYGONACEAE,1,2,3,0,2,2,1,1,1,4,2,2,0.863013699,0.034246575,0.092465753,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Symphonia globulifera,Symphonia,CLUSIACEAE,0,2,3,0,2,2,1,1,1,4,2,2,0.9150061,0.008133388,0.025620171,0.021146808,TropicalHumid,TropicalHumid,Tropical humid forest
+Symplocos celastrinea,Symplocos,SYMPLOCACEAE,1,2,3,0,2,1,0,1,1,5,2,0,0.762790698,0.018604651,0.204651163,0.004651163,TropicalHumid,TropicalHumid,Tropical humid forest
+Symplocos glandulosomarginata,Symplocos,SYMPLOCACEAE,1,2,3,0,2,3,1,2,1,1,1,0,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,
+Symplocos guianensis,Symplocos,SYMPLOCACEAE,1,2,3,1,2,0,1,1,1,5,2,3,0.797101449,0.007246377,0.123188406,0.072463768,TropicalHumid,TropicalHumid,Tropical humid forest
+Symplocos martinicensis,Symplocos,SYMPLOCACEAE,0,2,3,1,0,1,1,1,1,5,2,2,0.5,0.0,0.0,0.0,TropicalHumid,TropicalHumid,
+Symplocos nitidiflora,Symplocos,SYMPLOCACEAE,1,2,3,1,0,1,1,1,0,5,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Tabebuia cassinoides,Tabebuia,BIGNONIACEAE,1,2,3,0,2,2,1,1,1,5,1,4,0.870689655,0.0,0.017241379,0.094827586,TropicalHumid,TropicalHumid,
+Tabebuia insignis,Tabebuia,BIGNONIACEAE,1,2,3,0,2,1,1,2,1,4,1,0,0.663865546,0.028011204,0.266106443,0.016806723,TropicalHumid,TropicalHumid,Tropical humid forest
+Tabebuia orinocensis,Tabebuia,BIGNONIACEAE,1,2,3,0,2,1,1,1,1,3,1,0,0.025,0.0,0.975,0.0,TropicalGrasslands,TropicalHumid,Tropical humid forest
+Tabebuia rosea,Tabebuia,BIGNONIACEAE,1,2,3,0,2,2,1,2,1,4,1,0,0.50737798,0.349602724,0.007945516,0.040862656,TropicalHumid,,
+Tabebuia stenocalyx,Tabebuia,BIGNONIACEAE,1,2,3,0,2,1,1,1,1,4,0,0,0.721518987,0.0,0.037974684,0.088607595,TropicalHumid,TropicalHumid,Tropical dry forest
+Tabernaemontana attenuata,Tabernaemontana,APOCYNACEAE,1,2,3,0,2,2,1,1,1,4,1,0,0.846153846,0.0,0.153846154,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Tabernaemontana catharinensis,Tabernaemontana,APOCYNACEAE,1,2,3,0,2,1,1,1,1,1,0,0,0.630480167,0.009394572,0.262004175,0.010438413,TropicalHumid,TropicalHumid,
+Tabernaemontana citrifolia,Tabernaemontana,APOCYNACEAE,1,2,3,0,2,1,0,1,0,5,1,4,0.8125,0.020833333,0.0,0.041666667,TropicalHumid,TropicalHumid,Tropical humid forest
+Tabernaemontana cymosa,Tabernaemontana,APOCYNACEAE,1,2,1,0,2,0,0,1,0,5,1,3,0.676579926,0.081784387,0.137546468,0.007434944,TropicalHumid,TropicalHumid,Tropical humid forest
+Tabernaemontana laeta,Tabernaemontana,APOCYNACEAE,1,2,3,0,2,1,0,0,0,5,1,4,0.866666667,0.0,0.05,0.033333333,TropicalHumid,TropicalHumid,Tropical dry forest
+Talisia esculenta,Talisia,SAPINDACEAE,1,2,1,0,2,1,0,1,0,5,1,4,0.3,0.223076923,0.202564103,0.015384615,TropicalHumid,TropicalHumid,Tropical dry forest
+Talisia macrophylla,Talisia,SAPINDACEAE,1,2,1,0,2,0,0,1,0,5,2,4,0.993650794,0.003174603,0.0,0.003174603,TropicalHumid,TropicalHumid,Tropical humid forest
+Talisia microphylla,Talisia,SAPINDACEAE,1,2,3,0,2,1,1,2,1,1,1,0,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Tanaecium pyramidatum,Tanaecium,BIGNONIACEAE,1,2,3,0,2,2,1,1,1,0,0,0,0.820097245,0.009724473,0.115072934,0.012965964,TropicalHumid,TropicalHumid,Tropical humid forest
+Tapirira guianensis,Tapirira,ANACARDIACEAE,0,2,3,0,2,3,0,1,1,5,2,3,0.675372373,0.061824118,0.185676393,0.029177719,TropicalHumid,TropicalHumid,
+Tapirira obtusa,Tapirira,ANACARDIACEAE,1,2,3,0,2,2,0,1,1,5,1,3,0.587108014,0.036585366,0.158536585,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Tapura capitulifera,Tapura,DICHAPETALACEAE,1,2,3,0,2,1,1,2,1,5,2,4,0.885714286,0.0,0.114285714,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Tapura guianensis,Tapura,DICHAPETALACEAE,1,2,3,0,2,1,1,2,1,5,1,4,0.980487805,0.0,0.014634146,0.004878049,TropicalHumid,TropicalHumid,Tropical humid forest
+Tecoma stans,Tecoma,BIGNONIACEAE,0,2,3,0,2,1,0,1,1,5,1,1,0.234985893,0.311567916,0.028617493,0.020959291,TropicalDry,TropicalHumid,Tropical dry forest
+Telitoxicum krukovii,Telitoxicum,MENISPERMACEAE,1,2,3,0,2,1,0,1,1,4,1,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Terminalia argentea,Terminalia,COMBRETACEAE,1,2,1,0,2,2,1,1,1,1,0,2,0.188870152,0.040472175,0.703204047,0.001686341,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Terminalia buceras,Terminalia,COMBRETACEAE,1,2,3,0,2,1,1,2,1,4,0,0,0.266666667,0.733333333,0.0,0.0,TropicalDry,TropicalHumid,Tropical dry forest
+Terminalia dichotoma,Terminalia,COMBRETACEAE,0,2,3,0,2,1,1,2,1,5,1,0,0.979166667,0.0,0.0,0.010416667,TropicalHumid,TropicalHumid,Tropical humid forest
+Terminalia glabrescens,Terminalia,COMBRETACEAE,1,2,3,0,2,2,1,1,1,5,0,0,0.270386266,0.0472103,0.463519313,0.004291845,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Terminalia guyanensis,Terminalia,COMBRETACEAE,1,2,3,0,2,1,0,1,1,5,0,1,0.888888889,0.0,0.111111111,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Terminalia oblonga,Terminalia,COMBRETACEAE,1,2,3,0,2,2,0,2,1,3,0,0,0.758122744,0.158844765,0.041516245,0.003610108,TropicalHumid,TropicalHumid,Tropical humid forest
+Terminalia virens,Terminalia,COMBRETACEAE,1,2,3,0,2,2,1,2,1,4,0,0,0.85483871,0.0,0.14516129,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Ternstroemia brasiliensis,Ternstroemia,PENTAPHYLACACEAE,1,2,3,0,2,1,1,2,1,0,1,5,0.744186047,0.011627907,0.054263566,0.089147287,TropicalHumid,TropicalHumid,Tropical humid forest
+Ternstroemia browniana,Ternstroemia,PENTAPHYLACACEAE,0,2,3,1,1,1,1,1,1,5,2,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Tetracera oblongata,Tetracera,DILLENIACEAE,1,2,3,0,2,2,1,1,1,0,1,3,0.907407407,0.0,0.092592593,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Tetragastris altissima,Tetragastris,BURSERACEAE,1,2,3,0,0,2,1,1,0,5,3,4,0.850917431,0.0,0.137614679,0.01146789,TropicalHumid,TropicalHumid,Tropical humid forest
+Tetragastris balsamifera,Tetragastris,BURSERACEAE,1,2,3,0,2,2,0,1,1,5,1,3,0.666666667,0.0,0.0,0.0,TropicalHumid,TropicalHumid,
+Tetragastris panamensis,Tetragastris,BURSERACEAE,1,2,3,0,2,2,0,2,1,5,1,3,0.994832041,0.000645995,0.004521964,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Tetrastylidium grandifolium,Tetrastylidium,OLACACEAE,1,2,3,0,2,1,0,2,1,5,1,2,0.938461538,0.0,0.023076923,0.023076923,TropicalHumid,TropicalHumid,
+Tetrathylacium macrophyllum,Tetrathylacium,SALICACEAE,1,2,3,1,0,1,1,2,1,1,1,4,0.997101449,0.0,0.0,0.002898551,TropicalHumid,TropicalHumid,Tropical humid forest
+Tetrorchidium rubrivenium,Tetrorchidium,EUPHORBIACEAE,1,2,3,0,2,1,1,1,1,5,0,5,0.866090713,0.034557235,0.075593952,0.010799136,TropicalHumid,TropicalHumid,Tropical humid forest
+Theophrasta americana,Theophrasta,PRIMULACEAE,0,0,3,0,2,0,1,1,0,5,0,2,0.0,0.0,0.0,1.0,Mangrove,Mangrove,Tropical humid forest
+Tibouchina aspera,Tibouchina,MELASTOMATACEAE,1,2,3,1,2,2,1,1,1,5,1,2,0.646511628,0.011627907,0.158139535,0.060465116,TropicalHumid,TropicalHumid,Tropical humid forest
+Tibouchina estrellensis,Tibouchina,MELASTOMATACEAE,1,2,3,0,2,1,1,1,1,5,1,1,0.912087912,0.0,0.087912088,0.0,TropicalHumid,TropicalHumid,
+Tibouchina francavillana,Tibouchina,MELASTOMATACEAE,0,2,3,0,2,2,1,1,1,5,2,5,0.831325301,0.024096386,0.012048193,0.0,TropicalHumid,TropicalHumid,Tropical dry forest
+Tibouchina stenocarpa,Tibouchina,MELASTOMATACEAE,0,2,3,0,2,2,0,1,1,5,1,5,0.644444444,0.311111111,0.044444444,0.0,TropicalHumid,,Tropical dry forest
+Ticodendron incognitum,Ticodendron,TICODENDRACEAE,1,2,3,0,2,1,0,1,0,5,1,1,0.975,0.0,0.0,0.0025,TropicalHumid,TropicalHumid,Tropical humid forest
+Tocoyena formosa,Tocoyena,RUBIACEAE,1,2,3,0,2,1,0,1,1,0,0,1,0.197142857,0.053142857,0.430857143,0.016,TropicalGrasslands,TropicalHumid,Tropical dry forest
+Tocoyena williamsii,Tocoyena,RUBIACEAE,1,2,3,0,2,0,1,1,0,5,1,4,0.968085106,0.031914894,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Tournefortia fuliginosa,Tournefortia,BORAGINACEAE,0,2,3,0,2,0,1,1,1,0,1,2,0.893617021,0.008510638,0.021276596,0.0,TropicalHumid,TropicalHumid,Tropical montane
+Touroulia guianensis,Touroulia,OCHNACEAE,1,2,3,0,2,1,1,1,1,5,2,1,0.991735537,0.0,0.008264463,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Tovomita longifolia,Tovomita,CLUSIACEAE,1,2,1,0,2,2,1,2,1,5,2,4,0.945736434,0.0,0.007751938,0.007751938,TropicalHumid,TropicalHumid,Tropical humid forest
+Tovomita umbellata,Tovomita,CLUSIACEAE,1,2,1,0,0,2,1,2,1,5,2,3,0.920903955,0.02259887,0.050847458,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Toxicodendron striatum,Toxicodendron,ANACARDIACEAE,0,0,3,0,2,2,1,1,1,4,2,2,0.865030675,0.036809816,0.052147239,0.003067485,TropicalHumid,TropicalHumid,
+Trattinnickia burserifolia,Trattinnickia,BURSERACEAE,1,2,3,0,2,2,0,1,1,5,1,2,0.873134328,0.002487562,0.116915423,0.002487562,TropicalHumid,TropicalHumid,Tropical humid forest
+Trattinnickia demerarae,Trattinnickia,BURSERACEAE,1,2,3,0,2,2,0,1,0,5,1,3,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Trema lamarckiana,Trema,CANNABACEAE,1,2,3,0,2,2,0,1,1,5,1,3,0.666666667,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Trema micrantha,Trema,CANNABACEAE,1,2,3,0,2,2,1,1,1,5,2,2,0.659424226,0.100760456,0.102933188,0.014665942,TropicalHumid,TropicalHumid,
+Trembleya parviflora,Trembleya,MELASTOMATACEAE,1,2,3,0,2,2,1,1,1,5,1,4,0.461200586,0.03806735,0.420204978,0.0,TropicalHumid,,
+Trichilia elegans,Trichilia,MELIACEAE,1,2,3,0,2,2,0,1,1,5,1,4,0.707258548,0.097180564,0.152969406,0.0,TropicalHumid,TropicalHumid,
+Trichilia martiana,Trichilia,MELIACEAE,1,2,3,0,2,2,0,1,1,1,0,0,0.577962578,0.242203742,0.013513514,0.007276507,TropicalHumid,TropicalHumid,Tropical humid forest
+Trichilia maynasiana,Trichilia,MELIACEAE,1,2,3,0,2,2,1,1,1,2,0,0,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Trichilia pallida,Trichilia,MELIACEAE,1,2,3,0,2,1,1,2,1,4,0,3,0.791082344,0.038475369,0.150665228,0.006472492,TropicalHumid,TropicalHumid,Tropical humid forest
+Trichilia quadrijuga,Trichilia,MELIACEAE,1,2,3,0,2,1,1,1,1,1,0,0,0.978453739,0.006337136,0.00887199,0.001267427,TropicalHumid,TropicalHumid,Tropical humid forest
+Trichilia schomburgkii,Trichilia,MELIACEAE,1,2,3,0,2,2,1,2,1,1,0,3,0.918128655,0.029239766,0.046783626,0.005847953,TropicalHumid,TropicalHumid,Tropical humid forest
+Triplaris americana,Triplaris,POLYGONACEAE,1,2,1,0,2,2,1,2,0,1,2,2,0.656587473,0.120950324,0.164146868,0.002159827,TropicalHumid,TropicalHumid,Tropical humid forest
+Triplaris weigeltiana,Triplaris,POLYGONACEAE,1,2,3,0,2,2,0,1,1,5,1,0,0.92,0.016,0.024,0.04,TropicalHumid,TropicalHumid,Tropical humid forest
+Trophis mexicana,Trophis,MORACEAE,1,2,3,0,2,2,1,1,1,3,1,2,0.812693498,0.068111455,0.0,0.001547988,TropicalHumid,TropicalHumid,Tropical humid forest
+Trophis racemosa,Trophis,MORACEAE,1,2,3,0,2,2,1,1,1,0,2,4,0.676978417,0.153956835,0.027338129,0.023741007,TropicalHumid,TropicalHumid,Tropical humid forest
+Trymatococcus amazonicus,Trymatococcus,MORACEAE,1,2,3,0,2,2,1,1,1,4,2,3,0.985074627,0.0,0.013059701,0.001865672,TropicalHumid,TropicalHumid,Tropical humid forest
+Turpinia occidentalis,Turpinia,STAPHYLEACEAE,1,2,3,0,2,0,1,2,0,5,1,1,0.876310273,0.024633124,0.023584906,0.001048218,TropicalHumid,TropicalHumid,Tropical humid forest
+Tyleria floribunda,Tyleria,OCHNACEAE,1,2,3,1,0,1,1,1,1,5,2,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Tynanthus cognatus,Tynanthus,BIGNONIACEAE,1,2,3,0,2,1,1,2,1,5,2,4,0.967391304,0.0,0.032608696,0.0,TropicalHumid,TropicalHumid,
+Uncaria guianensis,Uncaria,RUBIACEAE,0,2,3,0,2,2,1,1,1,4,2,0,0.758017493,0.158892128,0.072886297,0.001457726,TropicalHumid,TropicalHumid,Tropical humid forest
+Unonopsis glaucopetala,Unonopsis,ANNONACEAE,1,2,3,0,2,2,1,1,1,5,2,4,0.946666667,0.0,0.026666667,0.026666667,TropicalHumid,TropicalHumid,Tropical humid forest
+Unonopsis rufescens,Unonopsis,ANNONACEAE,0,2,3,0,2,2,1,1,1,1,2,0,0.986666667,0.0,0.0,0.013333333,TropicalHumid,TropicalHumid,Tropical humid forest
+Vantanea parviflora,Vantanea,HUMIRIACEAE,1,2,3,1,2,2,1,2,1,5,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Viburnum stellatotomentosum,Viburnum,VIBURNACEAE,1,2,3,0,2,2,1,1,1,5,3,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Virola flexuosa,Virola,MYRISTICACEAE,1,2,3,0,2,1,0,1,1,5,1,3,0.978070175,0.00877193,0.00877193,0.004385965,TropicalHumid,TropicalHumid,Tropical humid forest
+Virola koschnyi,Virola,MYRISTICACEAE,1,2,3,0,2,2,1,1,1,4,1,3,0.953168044,0.002754821,0.0,0.027548209,TropicalHumid,TropicalHumid,Tropical humid forest
+Virola michelii,Virola,MYRISTICACEAE,1,2,3,0,2,2,1,1,1,4,1,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Vismia baccifera,Vismia,HYPERICACEAE,1,2,3,0,2,2,1,1,1,4,1,4,0.881455399,0.016431925,0.056338028,0.002347418,TropicalHumid,TropicalHumid,Tropical humid forest
+Vismia cayennensis,Vismia,HYPERICACEAE,1,2,3,0,2,2,1,1,1,1,2,3,0.833587786,0.003053435,0.12519084,0.032061069,TropicalHumid,TropicalHumid,Tropical humid forest
+Vismia latifolia,Vismia,HYPERICACEAE,1,2,1,0,2,2,1,1,0,2,1,4,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Vitex cymosa,Vitex,LAMIACEAE,1,2,1,0,2,2,1,1,0,1,1,3,0.608832808,0.151419558,0.116719243,0.0,TropicalHumid,TropicalHumid,Tropical dry forest
+Vitex krukovii,Vitex,LAMIACEAE,0,2,3,0,2,2,0,1,1,5,1,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Vitex orinocensis,Vitex,LAMIACEAE,1,2,3,0,2,2,0,1,1,5,2,0,0.61878453,0.077348066,0.182320442,0.104972376,TropicalHumid,TropicalHumid,Tropical humid forest
+Vitex stahelii,Vitex,LAMIACEAE,0,2,3,0,2,2,0,1,1,4,1,2,0.833333333,0.083333333,0.083333333,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Vochysia ferruginea,Vochysia,VOCHYSIACEAE,1,2,3,0,2,1,1,1,1,0,2,3,0.891768293,0.021341463,0.0625,0.015243902,TropicalHumid,TropicalHumid,Tropical humid forest
+Vochysia guatemalensis,Vochysia,VOCHYSIACEAE,1,2,3,0,2,2,1,1,1,0,2,3,0.895752896,0.023166023,0.0,0.038610039,TropicalHumid,TropicalHumid,Tropical humid forest
+Vochysia lanceolata,Vochysia,VOCHYSIACEAE,1,2,3,0,2,3,1,1,1,0,2,2,0.2,0.8,0.0,0.0,TropicalDry,TropicalHumid,Tropical dry forest
+Vochysia rufa,Vochysia,VOCHYSIACEAE,1,2,3,0,2,2,1,2,1,5,2,4,0.14159292,0.044247788,0.81120944,0.0,TropicalGrasslands,TropicalHumid,
+Vochysia tucanorum,Vochysia,VOCHYSIACEAE,1,2,3,0,2,3,1,1,1,1,2,3,0.38487208,0.020022247,0.493882091,0.0,TropicalHumid,,Tropical dry forest
+Vochysia venezuelana,Vochysia,VOCHYSIACEAE,1,2,3,0,2,2,1,0,1,0,2,3,0.147058824,0.014705882,0.838235294,0.0,TropicalGrasslands,TropicalHumid,Tropical humid forest
+Vouarana guianensis,Vouarana,SAPINDACEAE,0,2,3,0,2,2,1,1,1,5,0,2,0.986013986,0.0,0.013986014,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Warszewiczia coccinea,Warszewiczia,RUBIACEAE,1,2,3,0,2,1,0,1,0,5,2,4,0.92574601,0.022206801,0.047189452,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Wimmeria concolor,Wimmeria,CELASTRACEAE,0,2,3,0,2,1,0,1,1,1,1,3,0.534482759,0.081896552,0.0,0.012931034,TropicalHumid,TropicalHumid,Tropical dry forest
+Wurdastom subglabra,Wurdastom,MELASTOMATACEAE,1,2,3,0,1,1,1,1,1,5,1,1,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Xylophragma pratense,Xylophragma,BIGNONIACEAE,0,2,3,0,2,3,0,1,1,4,2,5,0.622516556,0.185430464,0.178807947,0.0,TropicalHumid,TropicalHumid,
+Xylopia aromatica,Xylopia,ANNONACEAE,1,2,3,0,2,2,1,1,1,1,2,0,0.428132992,0.05370844,0.50230179,0.001534527,TropicalHumid,,
+Xylopia brasiliensis,Xylopia,ANNONACEAE,0,2,3,0,2,2,1,1,0,1,2,0,0.813333333,0.0,0.166666667,0.013333333,TropicalHumid,TropicalHumid,Tropical humid forest
+Xylopia discreta,Xylopia,ANNONACEAE,1,2,3,0,2,2,1,1,1,1,2,0,0.844155844,0.038961039,0.077922078,0.025974026,TropicalHumid,TropicalHumid,Tropical humid forest
+Xylopia frutescens,Xylopia,ANNONACEAE,1,2,3,0,2,1,1,1,1,1,1,0,0.853512706,0.025411061,0.058295964,0.034379671,TropicalHumid,TropicalHumid,Tropical humid forest
+Xylopia laevigata,Xylopia,ANNONACEAE,1,2,3,0,2,1,1,1,1,1,2,0,0.553191489,0.035460993,0.042553191,0.085106383,TropicalHumid,TropicalHumid,Tropical dry forest
+Xylopia parviflora,Xylopia,ANNONACEAE,1,2,3,0,2,2,1,2,0,1,2,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Xylopia sericea,Xylopia,ANNONACEAE,0,2,3,0,2,2,1,1,0,1,2,2,0.650294695,0.133595285,0.168958743,0.009823183,TropicalHumid,TropicalHumid,
+Xylosma flexuosa,Xylosma,SALICACEAE,0,2,3,0,2,1,0,1,1,5,1,4,0.402567095,0.240373396,0.0,0.015169195,TropicalHumid,TropicalHumid,
+Zanthoxylum arborescens,Zanthoxylum,RUTACEAE,0,1,3,0,2,0,1,1,1,4,1,2,0.0,0.715231788,0.0,0.013245033,TropicalDry,TropicalDry,Tropical dry forest
+Zanthoxylum caribaeum,Zanthoxylum,RUTACEAE,0,2,3,0,2,2,1,1,1,4,1,2,0.553415061,0.180385289,0.154115587,0.038528897,TropicalHumid,TropicalHumid,
+Zanthoxylum fagara,Zanthoxylum,RUTACEAE,0,2,3,0,2,1,1,1,1,4,2,3,0.391057935,0.234256927,0.156171285,0.006926952,TropicalHumid,TropicalHumid,Tropical dry forest
+Zanthoxylum flavum,Zanthoxylum,RUTACEAE,0,2,3,0,2,1,1,1,1,4,1,2,0.2,0.35,0.0,0.0,TropicalDry,TropicalHumid,Tropical dry forest
+Zanthoxylum kellermanii,Zanthoxylum,RUTACEAE,0,2,3,0,2,2,1,0,1,4,1,2,1.0,0.0,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Zanthoxylum limoncello,Zanthoxylum,RUTACEAE,0,2,3,0,2,0,1,1,1,4,1,0,0.526315789,0.178947368,0.0,0.0,TropicalHumid,TropicalHumid,Tropical humid forest
+Zanthoxylum martinicense,Zanthoxylum,RUTACEAE,0,2,3,0,2,1,1,1,1,4,2,3,0.648148148,0.055555556,0.148148148,0.074074074,TropicalHumid,TropicalHumid,Tropical humid forest
+Zanthoxylum melanostictum,Zanthoxylum,RUTACEAE,0,2,3,0,2,2,1,1,1,4,1,2,0.918803419,0.027777778,0.010683761,0.0,TropicalHumid,TropicalHumid,
+Zanthoxylum mollissimum,Zanthoxylum,RUTACEAE,0,2,3,1,2,1,1,1,1,4,1,0,0.395604396,0.10989011,0.043956044,0.0,TropicalHumid,TropicalHumid,
+Zanthoxylum quinduense,Zanthoxylum,RUTACEAE,1,2,3,0,2,1,1,1,1,5,1,2,0.71875,0.0,0.25,0.0,TropicalHumid,TropicalHumid,
+Zanthoxylum rhoifolium,Zanthoxylum,RUTACEAE,1,2,3,0,2,2,1,1,1,4,1,2,0.527431421,0.066500416,0.248960931,0.00166251,TropicalHumid,TropicalHumid,
+Zeyheria montana,Zeyheria,BIGNONIACEAE,0,2,3,0,2,1,1,1,1,4,1,0,0.182222222,0.067777778,0.665555556,0.0,TropicalGrasslands,TropicalHumid,
+Zinowiewia concinna,Zinowiewia,CELASTRACEAE,0,2,1,0,2,2,1,1,1,0,2,3,0.6,0.06,0.0,0.0,TropicalHumid,TropicalHumid,
+Ziziphus amole,Ziziphus,RHAMNACEAE,1,2,3,0,2,1,1,2,1,4,1,2,0.058679707,0.753056235,0.004889976,0.04400978,TropicalDry,TropicalHumid,
+Zuelania guidonia,Zuelania,SALICACEAE,1,2,3,0,2,1,0,1,0,5,1,4,0.788888889,0.155555556,0.0,0.022222222,TropicalHumid,TropicalHumid,
+Achanigr,,,0,2,1,0,1,0,0,1,0,5,0,3,,,,,TropicalDry,,Tropical dry forest
+Achanigr,,,1,2,1,0,1,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Achanigr,,,0,2,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Achanigr,,,0,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Achanigr,,,1,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Achanigr,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Achanigr,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Achanigr,,,1,2,3,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Adenaspe,,,1,0,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Aegisp,,,1,1,1,0,2,1,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Aegisp1,,,1,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Aegisp1,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Albisp2,,,0,1,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Albisp2,,,0,1,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Albisp2,,,1,0,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Albisp2,,,0,2,3,0,2,0,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Alibsp,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Allosp,,,0,2,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ampesp1,,,1,2,1,0,1,1,1,1,0,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Ampesp1,,,1,2,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ampesp1,,,1,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ampesp1,,,1,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ampesp1,,,1,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ampesp1,,,0,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ampesp1,,,0,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ampesp1,,,0,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ampesp1,,,1,0,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ampesp1,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ampesp1,,,1,2,3,0,2,0,0,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Ampesp1,,,0,2,3,0,2,0,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Amyrpinn,,,0,2,1,0,1,0,1,1,0,5,0,3,,,,,TropicalDry,,Tropical dry forest
+Amyrpinn,,,1,2,1,0,1,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Amyrpinn,,,1,2,1,0,1,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Amyrpinn,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Amyrpinn,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Amyrpinn,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Amyrpinn,,,1,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Amyrpinn,,,1,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Amyrpinn,,,1,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Amyrpinn,,,1,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Amyrpinn,,,1,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Amyrpinn,,,0,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Amyrpinn,,,1,0,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Amyrpinn,,,1,0,1,0,2,0,0,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Amyrpinn,,,1,2,3,0,2,0,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Amyrpinn,,,0,2,3,0,2,0,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Amyrpinn,,,0,2,3,0,2,0,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Anacexce,,,0,2,1,0,1,1,1,1,0,0,1,3,,,,,TropicalDry,,Tropical dry forest
+Annomuri,,,1,1,1,0,2,1,0,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Annomuri,,,1,1,1,0,2,1,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Arissp,,,1,1,1,0,2,1,0,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Aspipoly,,,0,2,1,0,1,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Aspipoly,,,1,2,1,0,1,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Aspipoly,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Aspipoly,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Aspipoly,,,1,2,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Aspipoly,,,1,2,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Aspipoly,,,1,2,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Aspipoly,,,0,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Aspipoly,,,0,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Aspipoly,,,1,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Aspipoly,,,1,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Aspipoly,,,0,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Aspipoly,,,0,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Aspipoly,,,0,2,3,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Aspisp,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Astrgrav,,,1,2,1,0,1,1,1,1,0,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Astrgrav,,,1,2,1,0,1,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Astrgrav,,,1,2,1,0,1,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Astrgrav,,,1,2,1,0,1,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Astrgrav,,,0,2,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Astrgrav,,,0,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Astrgrav,,,1,2,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Astrgrav,,,1,1,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Astrgrav,,,1,1,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Astrgrav,,,0,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Astrgrav,,,1,0,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Astrgrav,,,1,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Astrgrav,,,1,2,3,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Astrgrav,,,0,2,3,0,2,0,0,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Bauhglab,,,1,0,1,0,2,2,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Bauhhyme,,,0,2,1,0,2,2,1,1,0,1,2,0,,,,,TropicalDry,,Tropical dry forest
+Bauhhyme,,,0,2,1,0,2,1,0,1,0,1,0,0,,,,,TropicalDry,,Tropical dry forest
+Bauhhyme,,,0,2,1,0,2,1,0,1,0,1,0,0,,,,,TropicalDry,,Tropical dry forest
+Bauhhyme,,,0,2,1,0,2,1,1,1,0,1,0,0,,,,,TropicalDry,,Tropical dry forest
+Bauhpeti,,,0,2,1,0,1,0,0,1,0,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Bauhpeti,,,0,2,1,0,2,0,0,1,0,1,1,3,,,,,TropicalDry,,Tropical dry forest
+Bauhpeti,,,0,2,1,0,2,0,0,1,0,1,1,3,,,,,TropicalDry,,Tropical dry forest
+Bauhpeti,,,0,2,1,0,2,0,1,1,0,1,1,3,,,,,TropicalDry,,Tropical dry forest
+Bauhpeti,,,0,2,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Bauhpeti,,,0,1,1,0,2,0,0,1,0,5,1,0,,,,,TropicalDry,,Tropical dry forest
+Bauhpeti,,,0,2,3,0,2,0,0,1,0,5,1,0,,,,,TropicalDry,,Tropical dry forest
+Bauhpeti,,,0,2,3,0,2,0,1,1,0,5,1,0,,,,,TropicalDry,,Tropical dry forest
+Bauhpeti,,,1,2,3,0,2,0,0,1,0,5,0,0,,,,,TropicalDry,,Tropical dry forest
+Bignaequ,,,1,1,1,0,2,1,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Broncorn,,,1,0,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Brosalic,,,1,2,1,0,1,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Brossp,,,1,2,1,0,1,1,1,1,0,0,1,3,,,,,TropicalDry,,Tropical dry forest
+Brossp,,,1,2,1,0,1,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Brossp,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Brossp,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Brossp,,,1,0,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Bulnarbo,,,1,1,1,0,2,0,0,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Bulnarbo,,,1,1,1,0,2,0,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Bulnarbo,,,1,1,1,0,2,0,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Buncarme,,,1,2,1,0,1,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Buncarme,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Buncarme,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Buncarme,,,1,0,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Buncpseu,,,1,2,1,0,1,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Buncpseu,,,1,2,1,0,1,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Buncpseu,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Buncpseu,,,1,0,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Buncsp,,,1,1,1,0,2,0,0,1,0,0,1,3,,,,,TropicalDry,,Tropical dry forest
+Burssima,,,1,1,0,0,1,1,1,1,0,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Burssima,,,1,2,1,0,1,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Burssima,,,1,2,1,0,1,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Burssima,,,1,2,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Burssima,,,0,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Burssima,,,1,1,1,0,2,0,1,0,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Burssima,,,1,0,1,0,2,0,0,0,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Callmagd,,,0,2,1,0,1,1,0,2,0,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Callmagd,,,0,2,1,0,2,1,0,2,0,0,1,3,,,,,TropicalDry,,Tropical dry forest
+Callmagd,,,0,2,1,0,2,1,1,2,0,0,1,3,,,,,TropicalDry,,Tropical dry forest
+Callmagd,,,0,2,1,0,2,0,1,2,0,0,1,3,,,,,TropicalDry,,Tropical dry forest
+Callmagd,,,1,2,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Callmagd,,,1,2,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Callmagd,,,0,2,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Caseacul,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Caseacul,,,1,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Caseacul,,,1,0,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Caseacul,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Caseacul,,,1,2,3,0,2,0,1,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Casecory,,,1,2,1,0,1,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Casecory,,,1,1,1,0,1,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Caseprae,,,1,0,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Caseprae,,,1,0,1,0,2,0,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Caseprae,,,1,2,3,0,2,0,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Casesylv,,,1,2,1,0,1,1,0,1,0,0,0,1,,,,,TropicalDry,,Tropical dry forest
+Casesylv,,,0,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Casesylv,,,1,2,1,0,2,0,1,1,0,5,1,1,,,,,TropicalDry,,Tropical dry forest
+Casesylv,,,1,2,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Casesylv,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Casesylv,,,1,2,1,0,2,0,0,1,0,5,1,1,,,,,TropicalDry,,Tropical dry forest
+Casesylv,,,1,2,1,0,2,0,0,1,0,5,1,1,,,,,TropicalDry,,Tropical dry forest
+Casesylv,,,1,1,1,0,2,0,0,1,0,5,1,1,,,,,TropicalDry,,Tropical dry forest
+Casesylv,,,1,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Casesylv,,,1,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Castelas,,,1,2,1,0,2,0,1,1,0,0,1,3,,,,,TropicalDry,,Tropical dry forest
+Cavaplat,,,0,2,3,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Cavaplat,,,0,2,3,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ceibpent,,,0,2,1,0,2,2,1,1,0,5,0,3,,,,,TropicalDry,,Tropical dry forest
+Ceibpent,,,1,1,1,0,2,1,0,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Ceibpent,,,1,1,1,0,2,1,0,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Ceibpent,,,1,1,1,0,2,1,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Celtigua,,,0,2,1,0,1,1,1,1,0,1,1,3,,,,,TropicalDry,,Tropical dry forest
+Celtigua,,,1,2,1,0,1,1,0,1,0,0,1,3,,,,,TropicalDry,,Tropical dry forest
+Celtigua,,,1,2,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Celtigua,,,1,2,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Celtigua,,,1,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Celtigua,,,1,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Chioalba,,,1,2,1,0,1,1,1,1,0,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Chioalba,,,1,2,1,0,2,0,1,1,0,0,1,3,,,,,TropicalDry,,Tropical dry forest
+Chioalba,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Chioalba,,,1,1,1,0,2,0,0,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Chiosp,,,0,2,3,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Chomspin,,,0,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Chroperg,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Chroperg,,,0,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Cithkunt,,,1,1,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Cithkunt,,,0,1,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Cithkunt,,,0,1,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Cithkunt,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Cithkunt,,,0,2,3,0,2,0,0,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Coccacum,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Coccpadi,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Coccsp1,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Coccsp1,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Coccsp1,,,0,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Coccsp1,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Coccsp1,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Coccsp1,,,1,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Coccsp1,,,1,1,1,0,2,0,1,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Coccsp1,,,1,1,1,0,2,0,0,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Coccsp1,,,0,1,1,0,2,0,1,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Coccsp1,,,0,1,1,0,2,0,1,1,0,5,1,0,,,,,TropicalDry,,Tropical dry forest
+Coccsp1,,,1,0,1,0,2,0,1,1,0,5,1,0,,,,,TropicalDry,,Tropical dry forest
+Coccsp1,,,1,0,1,0,2,0,1,1,0,5,1,0,,,,,TropicalDry,,Tropical dry forest
+Coccsp1,,,1,2,3,0,2,0,1,1,0,5,0,0,,,,,TropicalDry,,Tropical dry forest
+Coccsp1,,,1,2,3,0,2,0,1,1,0,5,0,0,,,,,TropicalDry,,Tropical dry forest
+Coffarab,,,0,2,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Combacul,,,1,2,1,0,1,2,1,1,0,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Combacul,,,1,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Combfrut,,,1,2,1,0,1,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Cordgera,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Courferr,,,1,2,1,0,1,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Courferr,,,1,2,3,0,2,0,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Crotgoss,,,1,2,1,0,1,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Crotgoss,,,1,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Crotgoss,,,1,0,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Crotgoss,,,1,2,3,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Crotschi,,,1,2,1,0,1,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Crotschi,,,0,2,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Crotsp,,,1,2,3,0,1,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Cupasp1,,,1,2,1,0,1,1,1,1,0,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Cupasp1,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Cupasp1,,,1,1,1,0,2,0,1,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Cupasp1,,,1,1,1,0,2,0,0,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Cynoampl,,,0,2,1,0,2,1,0,1,0,1,1,3,,,,,TropicalDry,,Tropical dry forest
+Cynoampl,,,0,1,1,0,2,1,0,1,0,1,1,3,,,,,TropicalDry,,Tropical dry forest
+Cynoampl,,,0,1,1,0,2,1,0,1,0,1,1,3,,,,,TropicalDry,,Tropical dry forest
+Cynoampl,,,0,2,3,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Cynoampl,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Cynopoly,,,1,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Cynopoly,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Cynopoly,,,1,0,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Cynoverr,,,0,2,3,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Cynoverr,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Cynoverr,,,1,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Cynoverr,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Cynoverr,,,0,2,3,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Daphsp,,,1,0,1,0,1,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Daphsp,,,1,2,3,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Diocsp1,,,0,2,1,0,2,2,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Diossp2,,,1,2,3,0,1,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Discsp,,,1,2,1,0,1,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Discsp,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Discsp,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Entecycl,,,0,1,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Erythond,,,1,1,1,0,2,1,0,1,0,5,0,3,,,,,TropicalDry,,Tropical dry forest
+Erythond,,,0,2,3,0,2,0,0,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Erytulei,,,1,2,1,0,1,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Erytulei,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Erytulei,,,1,2,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eschsp,,,1,1,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eschsp,,,1,1,1,0,2,1,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Esenpent,,,0,2,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugemont,,,0,2,1,0,1,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugemont,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugemont,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugemont,,,1,0,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugemont,,,1,2,3,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,1,2,1,0,1,1,1,1,0,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,1,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,1,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,1,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,0,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,0,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,1,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,1,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,1,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,0,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,0,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,1,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,1,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,1,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,0,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,0,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,1,0,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,1,0,1,0,2,0,1,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,1,0,1,0,2,0,0,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,0,2,3,0,2,0,1,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,0,2,3,0,2,0,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,1,2,3,0,2,0,0,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Eugeproc,,,1,2,3,0,2,0,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Eugesp5,,,0,2,1,0,1,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugesp5,,,1,0,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Eugesp5,,,1,2,3,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Forssp1,,,0,2,3,0,2,2,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Fridsp,,,1,2,1,0,2,1,1,1,0,0,1,3,,,,,TropicalDry,,Tropical dry forest
+Galisp,,,1,1,1,0,2,0,0,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Galisp,,,1,1,1,0,2,0,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Geniamer,,,1,2,1,0,1,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Geniamer,,,1,2,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Glirsepi,,,0,2,1,0,1,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Glirsepi,,,1,0,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Glirsepi,,,1,2,3,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Guapsp1,,,0,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Guapsp1,,,0,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Guapsp1,,,1,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Guapsp1,,,1,1,1,0,2,0,1,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Guapsp1,,,0,2,3,0,2,0,0,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Guapuber,,,0,2,1,0,1,2,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Guapuber,,,1,2,1,0,2,2,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Guazulmi,,,1,2,1,0,1,2,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Guazulmi,,,1,2,1,0,1,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Guazulmi,,,1,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Guazulmi,,,1,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Guazulmi,,,1,2,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Guazulmi,,,1,2,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Guazulmi,,,1,1,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Guazulmi,,,0,1,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Guazulmi,,,0,1,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Guazulmi,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Guetcoma,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Gustsp,,,0,2,1,0,1,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Gustsp,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Gustsp,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Gustsp,,,1,0,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Gustsp,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Gustsp,,,1,2,3,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Gustsupe,,,0,2,1,0,1,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Gustsupe,,,1,0,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Gustsupe,,,1,2,3,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Hippvolu,,,1,2,1,0,1,1,1,1,0,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Hippvolu,,,1,2,1,0,1,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Hippvolu,,,1,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Hippvolu,,,1,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Hippvolu,,,1,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Hippvolu,,,1,0,1,0,2,0,1,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Huracrep,,,1,2,1,0,1,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Huracrep,,,1,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Huracrep,,,1,0,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Huracrep,,,1,2,3,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ingavera,,,1,2,1,0,1,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Iressp,,,0,2,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Leucleuc,,,0,2,1,0,1,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Leucleuc,,,0,2,3,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Leucleuc,,,1,2,3,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Lycomexi,,,0,2,1,0,1,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Lycomexi,,,0,2,3,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Lycomexi,,,1,2,3,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machcapo,,,0,2,1,0,1,1,1,1,0,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Machcapo,,,1,2,1,0,1,1,1,1,0,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Machcapo,,,1,2,1,0,1,1,1,1,0,0,1,3,,,,,TropicalDry,,Tropical dry forest
+Machcapo,,,1,2,1,0,1,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machcapo,,,0,2,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machcapo,,,1,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machcapo,,,1,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machcapo,,,1,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machcapo,,,1,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machcapo,,,1,2,1,0,2,1,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machcapo,,,1,2,1,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machcapo,,,1,0,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machcapo,,,1,0,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machcapo,,,0,2,3,0,2,0,1,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Machcapo,,,1,2,3,0,2,0,1,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Machmicr,,,0,2,1,0,1,2,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machmicr,,,0,2,3,0,2,2,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machmicr,,,1,2,3,0,2,1,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machsp1,,,1,2,1,0,1,1,1,1,0,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Machsp1,,,1,2,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machsp1,,,0,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machsp1,,,1,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machsp1,,,1,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machsp1,,,1,1,1,0,2,0,0,1,0,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Machsp1,,,0,1,1,0,2,0,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Machsp3,,,1,2,3,0,1,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Machsp6,,,1,1,1,0,2,1,0,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Machsp6,,,1,1,1,0,2,1,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Machsp6,,,1,1,1,0,2,1,1,1,0,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Malpglab,,,1,2,1,0,1,1,1,1,0,0,1,3,,,,,TropicalDry,,Tropical dry forest
+Malpglab,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Malpglab,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Malpglab,,,1,2,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Malpglab,,,0,1,1,0,2,0,1,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Malpglab,,,0,1,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Malpglab,,,1,0,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Malpglab,,,1,0,1,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Malpglab,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Malpglab,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Malpglab,,,0,2,3,0,2,0,0,1,0,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Manicart,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Manicart,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Manisp,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Manisp,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Marssp,,,0,2,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Mayngran,,,1,2,1,0,2,0,1,1,1,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Mayngran,,,1,1,1,0,2,0,0,1,1,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Mayngran,,,1,1,1,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Mayngran,,,1,1,1,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Maynodor,,,0,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Maynodor,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Maynodor,,,1,0,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Maynodor,,,1,0,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Maynodor,,,1,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Maynodor,,,1,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Maynodor,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Maynodor,,,1,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Maynodor,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Melibiju,,,0,2,1,0,1,1,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Melibiju,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Melibiju,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Melibiju,,,0,1,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Melibiju,,,0,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Melibiju,,,0,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Melibiju,,,1,0,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Melibiju,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Melibiju,,,0,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Melibiju,,,1,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Melioliv,,,1,2,1,0,1,1,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Melioliv,,,1,2,1,0,2,1,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Melioliv,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Melioliv,,,1,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Morfsp16,,,0,2,3,0,2,1,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Morfsp17,,,0,2,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Morfsp6,,,1,0,1,0,1,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Morfsp6,,,1,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Neeasp1,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Neeasp1,,,1,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Neeasp1,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ocotvera,,,0,2,1,0,1,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ocotvera,,,1,2,1,0,1,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ocotvera,,,1,2,1,0,1,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ocotvera,,,1,2,1,0,2,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ocotvera,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ocotvera,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ocotvera,,,1,0,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ocotvera,,,1,0,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ocotvera,,,1,0,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ocotvera,,,1,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Oxanespi,,,1,2,1,0,1,1,1,1,1,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Oxanespi,,,1,1,1,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Oxanespi,,,0,1,1,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Oxansp,,,1,2,1,0,1,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Oxansp,,,1,2,1,0,1,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Oxansp,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Oxansp,,,1,0,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Paulcuru,,,0,2,1,0,1,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Paulcuru,,,1,2,1,0,2,1,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Paulcuru,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Paulcuru,,,1,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Paulglob,,,1,2,1,0,2,1,0,1,1,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Paulglob,,,1,1,1,0,2,1,1,1,1,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Paulglob,,,1,1,1,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Peltpurp,,,1,0,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Peltsp,,,1,2,1,0,1,0,1,1,1,0,1,3,,,,,TropicalDry,,Tropical dry forest
+Peltsp,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Peltsp,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Phylbotr,,,1,2,1,0,1,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Phylbotr,,,1,2,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Phylbotr,,,0,2,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pipeamal,,,0,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pisoacul,,,1,2,1,0,1,1,1,1,1,5,0,3,,,,,TropicalDry,,Tropical dry forest
+Pisoacul,,,1,2,1,0,1,1,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pisoacul,,,1,2,1,0,1,1,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pisoacul,,,0,2,1,0,2,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pisoacul,,,0,1,1,0,2,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pisoacul,,,0,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pisoacul,,,1,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pisoacul,,,1,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pisosp,,,1,1,1,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Pithdulc,,,0,2,3,0,2,1,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pithlanc,,,0,2,1,0,1,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pithlanc,,,1,2,1,0,1,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pithlanc,,,1,2,1,0,2,1,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pithlanc,,,1,2,1,0,2,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pithlanc,,,1,0,1,0,2,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pittsp,,,1,1,1,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Pitttric,,,0,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pitttric,,,0,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pitttric,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pitttric,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Platpinn,,,0,2,1,0,1,1,1,1,1,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Platpinn,,,1,2,1,0,1,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Platpinn,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Platpinn,,,1,2,3,0,2,0,1,1,1,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Poutsp1,,,1,2,1,0,1,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp1,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp1,,,1,2,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp1,,,0,2,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp3,,,1,0,1,0,1,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp3,,,1,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp7,,,1,2,1,0,1,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp7,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp7,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp7,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp7,,,1,2,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp7,,,1,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp7,,,0,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp7,,,0,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp7,,,1,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp7,,,1,0,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp7,,,1,0,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp7,,,0,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp7,,,0,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Poutsp7,,,0,2,3,0,2,0,1,1,1,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Poutsp8,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pradcolo,,,1,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pradcolo,,,0,1,1,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Pseuguac,,,1,1,1,0,2,1,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pseuguac,,,0,2,3,0,2,1,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Pseusept,,,0,2,1,0,1,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pseusept,,,1,1,1,0,2,1,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pseusept,,,1,0,1,0,2,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Psidguin,,,0,2,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pterrohr,,,1,2,1,0,1,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pterrohr,,,1,2,1,0,1,1,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pterrohr,,,1,2,1,0,2,1,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pterrohr,,,0,2,1,0,2,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pterrohr,,,0,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pterrohr,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Pterrohr,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Quadindi,,,1,2,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Quadodor,,,1,0,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Quadodor,,,1,2,3,0,2,0,1,1,1,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Quadodor,,,1,2,3,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Quadodor,,,0,2,3,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Randarma,,,0,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Randarma,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Randarma,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Randarma,,,0,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Randarma,,,1,0,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Randarma,,,1,0,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Randarma,,,1,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Rinosp1,,,1,1,1,0,2,0,1,1,1,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Ruprsp1,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Ruprsp1,,,1,1,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Sapisapo,,,0,2,1,0,1,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Sapisapo,,,1,2,1,0,1,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Sapisapo,,,1,2,1,0,2,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Sapisapo,,,0,1,1,0,2,1,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Sapisapo,,,1,0,1,0,2,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Seguamer,,,1,1,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Seguamer,,,1,1,1,0,2,0,1,1,1,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Seguamer,,,1,1,1,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Seguamer,,,1,1,1,0,2,0,0,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Seguamer,,,1,0,1,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Senesp,,,1,2,1,0,2,1,1,1,1,0,1,3,,,,,TropicalDry,,Tropical dry forest
+Senesp1,,,0,1,1,0,2,1,0,1,1,5,0,3,,,,,TropicalDry,,Tropical dry forest
+Senesp1,,,1,1,1,0,2,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Senesp1,,,1,1,1,0,2,1,1,1,1,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Senesp1,,,0,2,3,0,2,0,0,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Serjsp1,,,1,2,1,0,2,0,1,1,1,0,1,3,,,,,TropicalDry,,Tropical dry forest
+Simicord,,,1,0,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Simicord,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Simicord,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Simicord,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Smilsp,,,1,1,1,0,2,1,0,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Sorospru,,,1,2,1,0,1,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Sorospru,,,0,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Sorospru,,,1,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Sorotrop,,,1,1,1,0,2,1,1,1,1,5,0,3,,,,,TropicalDry,,Tropical dry forest
+Sorotrop,,,1,1,1,0,2,0,0,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Sorotrop,,,0,1,1,0,2,0,0,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Sponmomb,,,1,2,1,0,1,1,1,1,1,5,0,3,,,,,TropicalDry,,Tropical dry forest
+Swarsimp,,,0,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Swartria,,,0,2,1,0,1,1,1,1,1,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Swartria,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Swartria,,,0,1,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Swartria,,,1,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Swartria,,,1,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Swartria,,,1,0,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Swartria,,,0,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Swartria,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tabecymo,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tabecymo,,,1,0,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tabegran,,,0,2,3,0,2,0,0,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Taberose,,,1,2,1,0,1,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Taberose,,,1,2,1,0,2,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Taberose,,,1,0,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Taberose,,,1,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tanatetr,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricacum,,,1,2,1,0,1,0,1,1,1,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Tricacum,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricacum,,,1,1,1,0,2,0,0,1,1,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Tricacum,,,1,1,1,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Triccari,,,1,2,1,0,1,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Triccari,,,1,2,1,0,1,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Triccari,,,1,1,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Triccari,,,0,1,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Triccari,,,0,1,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Triccari,,,1,0,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Triccari,,,1,0,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Triccari,,,0,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Triccari,,,1,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Triceleg,,,1,2,1,0,1,0,1,1,1,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Triceleg,,,1,2,1,0,2,0,0,1,1,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Triceleg,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Triceleg,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Triceleg,,,1,1,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Triceleg,,,1,1,1,0,2,0,0,1,1,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Triceleg,,,1,1,1,0,2,0,1,1,1,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Tricocta,,,0,1,1,0,2,1,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricolig,,,1,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricolig,,,1,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricolig,,,0,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricolig,,,1,0,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricolig,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricolig,,,0,2,3,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Tricolig,,,0,2,3,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Tricolig,,,1,2,3,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Tricpall,,,1,2,1,0,1,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricpall,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricpall,,,0,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricpall,,,0,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricpall,,,0,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricpall,,,1,0,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricpall,,,1,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricpall,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricpall,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricpall,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricpall,,,1,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tricpall,,,0,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tripmela,,,1,2,1,0,1,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Tripmela,,,1,2,1,0,1,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Vachfarn,,,1,1,1,0,2,0,1,1,1,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Vitesp,,,0,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Xylointe,,,1,2,1,0,1,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Xylointe,,,0,2,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Xylointe,,,1,0,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Xylointe,,,0,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Xyloseem,,,0,2,3,0,2,1,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantfaga,,,0,1,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantfaga,,,0,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantfaga,,,0,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantfaga,,,1,2,3,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantfaga,,,0,2,3,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantfaga,,,0,2,3,0,2,0,0,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Zantlent,,,1,2,1,0,1,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantlent,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantlent,,,1,2,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantlent,,,0,2,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantrhoi,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantrhoi,,,1,2,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantrhoi,,,1,2,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantrhoi,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantrigi,,,1,2,3,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Zantschr,,,0,1,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantschr,,,1,1,1,0,2,0,0,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantschr,,,1,1,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantschr,,,0,1,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantsp2,,,1,2,1,0,1,0,1,1,1,0,0,3,,,,,TropicalDry,,Tropical dry forest
+Zantsp2,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantsp2,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zantverr,,,1,1,1,0,2,0,0,1,1,5,0,3,,,,,TropicalDry,,Tropical dry forest
+Zantverr,,,1,1,1,0,2,0,0,1,1,5,1,2,,,,,TropicalDry,,Tropical dry forest
+Zantverr,,,1,1,1,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Zantverr,,,0,1,1,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Zizistry,,,1,2,1,0,1,1,1,1,1,0,1,3,,,,,TropicalDry,,Tropical dry forest
+Zizistry,,,1,2,1,0,2,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zizistry,,,1,2,1,0,2,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zizistry,,,1,2,1,0,2,1,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zizistry,,,1,1,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest
+Zizistry,,,0,1,1,0,2,0,1,1,1,5,0,2,,,,,TropicalDry,,Tropical dry forest
+Zygisp,,,1,2,1,0,2,0,1,1,1,5,1,3,,,,,TropicalDry,,Tropical dry forest

@@ -1,0 +1,46 @@
+{
+  "tipo": "characteristics",
+  "umbral": 60,
+  "modelo": "SVM",
+  "metodo": "sigmoid (Platt), CV agrupada por especie",
+  "metricas_anidadas_sin_calibrar": {
+    "acc_3clases": 0.8608638311902407,
+    "acc_T11_T12": 0.8832882273342354,
+    "bal_acc_T11_T12": 0.8928262595622571,
+    "f1_macro_T11_T12": 0.8547149715586742,
+    "recall_T11": 0.9167604049493814,
+    "recall_T12": 0.868892114175133,
+    "recall_T13": 0.0
+  },
+  "metricas_anidadas_calibrado": {
+    "acc_3clases": 0.8602044180679196,
+    "acc_T11_T12": 0.8826116373477673,
+    "bal_acc_T11_T12": 0.8917014001696812,
+    "f1_macro_T11_T12": 0.8541251942841944,
+    "recall_T11": 0.9145106861642295,
+    "recall_T12": 0.868892114175133,
+    "recall_T13": 0.0
+  },
+  "confianza_vs_exactitud": [
+    {
+      "confianza": "0%-50%",
+      "n": 5,
+      "exactitud": 0.2
+    },
+    {
+      "confianza": "50%-70%",
+      "n": 368,
+      "exactitud": 0.5815217391304348
+    },
+    {
+      "confianza": "70%-90%",
+      "n": 818,
+      "exactitud": 0.7799511002444988
+    },
+    {
+      "confianza": "90%-100%",
+      "n": 1842,
+      "exactitud": 0.9533116178067318
+    }
+  ]
+}

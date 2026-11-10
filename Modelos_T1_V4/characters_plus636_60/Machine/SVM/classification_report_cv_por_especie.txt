@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+        T1.1      0.614     0.881     0.724       538
+        T1.2      0.901     0.724     0.803       923
+        T1.3      0.000     0.000     0.000        52
+
+    accuracy                          0.755      1513
+   macro avg      0.505     0.535     0.509      1513
+weighted avg      0.768     0.755     0.747      1513
+
+Predicciones fuera de pliegue (anidadas, agrupadas por especie).

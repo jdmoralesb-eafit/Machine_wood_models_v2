@@ -1,0 +1,46 @@
+{
+  "modelo_final": {
+    "peso": "dos_clases",
+    "n_estimators": 200,
+    "min_samples_leaf": 1,
+    "max_features": "log2",
+    "max_depth": 30
+  },
+  "por_pliegue_externo": [
+    {
+      "peso": "dos_clases",
+      "n_estimators": 200,
+      "min_samples_leaf": 1,
+      "max_features": "log2",
+      "max_depth": 30
+    },
+    {
+      "peso": "dos_clases",
+      "n_estimators": 200,
+      "min_samples_leaf": 1,
+      "max_features": "log2",
+      "max_depth": 30
+    },
+    {
+      "peso": "dos_clases",
+      "n_estimators": 200,
+      "min_samples_leaf": 1,
+      "max_features": "log2",
+      "max_depth": 30
+    },
+    {
+      "peso": "dos_clases",
+      "n_estimators": 200,
+      "min_samples_leaf": 1,
+      "max_features": "log2",
+      "max_depth": 30
+    },
+    {
+      "peso": "dos_clases",
+      "n_estimators": 200,
+      "min_samples_leaf": 1,
+      "max_features": "log2",
+      "max_depth": 30
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+tipo: characteristics
+umbral: 60
+filas_totales: 3033
+especies_distintas: 1680
+validacion: StratifiedGroupKFold 5 pliegues externos, 3 internos, grupo=especie, semilla 42
+busqueda: RandomizedSearchCV n_iter=12, scoring=exactitud balanceada T1.1/T1.2
+clases_total: {'T1.1': 889, 'T1.2': 2067, 'T1.3': 77}
+filas_en_procesado: 3656
+filas_adicionales: 248
+filas_procesado_total: 3656
+celdas_comparadas: 559368
+n_predictoras: 153
+NOTA: metrica principal = media del recall de T1.1 y T1.2 (exactitud balanceada). T1.3 permanece en el entrenamiento pero no se usa para decidir el modelo.

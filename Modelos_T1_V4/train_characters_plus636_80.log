@@ -1,0 +1,41 @@
+Predictoras usadas: 12 | columnas nuevas descartadas (no estaban en el original): 1
+  Descartadas: ['Ground_tissue_fibres']
+[characters_plus636 80] filas=1228 especies=760 clases={'T1.1': 403, 'T1.2': 796, 'T1.3': 29}
+
+== KNN
+  pliegue 1/5: base=0.795 afinado=0.869  {'weights': 'uniform', 'p': 1, 'n_neighbors': 11}
+  pliegue 2/5: base=0.813 afinado=0.826  {'weights': 'uniform', 'p': 1, 'n_neighbors': 7}
+  pliegue 3/5: base=0.831 afinado=0.793  {'weights': 'uniform', 'p': 1, 'n_neighbors': 11}
+  pliegue 4/5: base=0.767 afinado=0.844  {'weights': 'uniform', 'p': 1, 'n_neighbors': 7}
+  pliegue 5/5: base=0.847 afinado=0.850  {'weights': 'uniform', 'p': 1, 'n_neighbors': 11}
+  RESUMEN base:    {'acc_3clases': 0.7980456026058632, 'acc_T11_T12': 0.817347789824854, 'bal_acc_T11_T12': 0.8103700886566829, 'f1_macro_T11_T12': 0.7904023717513791, 'recall_T11': 0.7890818858560794, 'recall_T12': 0.8316582914572864, 'recall_T13': 0.0}
+  RESUMEN afinado: {'acc_3clases': 0.8151465798045603, 'acc_T11_T12': 0.8348623853211009, 'bal_acc_T11_T12': 0.8364246792274025, 'f1_macro_T11_T12': 0.8113152013555163, 'recall_T11': 0.8411910669975186, 'recall_T12': 0.8316582914572864, 'recall_T13': 0.0}
+
+== Random_Forest
+  pliegue 1/5: base=0.770 afinado=0.872  {'peso': None, 'n_estimators': 400, 'min_samples_leaf': 4, 'max_features': 0.3, 'max_depth': 30}
+  pliegue 2/5: base=0.795 afinado=0.869  {'peso': None, 'n_estimators': 200, 'min_samples_leaf': 4, 'max_features': 'log2', 'max_depth': 20}
+  pliegue 3/5: base=0.737 afinado=0.803  {'peso': None, 'n_estimators': 200, 'min_samples_leaf': 4, 'max_features': 'log2', 'max_depth': 20}
+  pliegue 4/5: base=0.754 afinado=0.850  {'peso': None, 'n_estimators': 400, 'min_samples_leaf': 4, 'max_features': 0.3, 'max_depth': 30}
+  pliegue 5/5: base=0.844 afinado=0.863  {'peso': None, 'n_estimators': 400, 'min_samples_leaf': 4, 'max_features': 0.3, 'max_depth': 30}
+  RESUMEN base:    {'acc_3clases': 0.7744299674267101, 'acc_T11_T12': 0.7931609674728941, 'bal_acc_T11_T12': 0.7799029265433869, 'f1_macro_T11_T12': 0.7642974002022727, 'recall_T11': 0.739454094292804, 'recall_T12': 0.8203517587939698, 'recall_T13': 0.0}
+  RESUMEN afinado: {'acc_3clases': 0.8232899022801303, 'acc_T11_T12': 0.8432026688907422, 'bal_acc_T11_T12': 0.8512818434604785, 'f1_macro_T11_T12': 0.8208443755978718, 'recall_T11': 0.8759305210918115, 'recall_T12': 0.8266331658291457, 'recall_T13': 0.0}
+
+== SVM
+  pliegue 1/5: base=0.856 afinado=0.878  {'peso': 'dos_clases', 'gamma': 0.01, 'C': 10}
+  pliegue 2/5: base=0.860 afinado=0.887  {'peso': 'dos_clases', 'gamma': 0.01, 'C': 10}
+  pliegue 3/5: base=0.840 afinado=0.840  {'peso': 'dos_clases', 'gamma': 0.01, 'C': 1}
+  pliegue 4/5: base=0.853 afinado=0.865  {'peso': 'dos_clases', 'gamma': 0.01, 'C': 10}
+  pliegue 5/5: base=0.872 afinado=0.847  {'peso': 'dos_clases', 'gamma': 0.01, 'C': 100}
+  RESUMEN base:    {'acc_3clases': 0.8257328990228013, 'acc_T11_T12': 0.8457047539616347, 'bal_acc_T11_T12': 0.8562290359988528, 'f1_macro_T11_T12': 0.8239062999542042, 'recall_T11': 0.8883374689826302, 'recall_T12': 0.8241206030150754, 'recall_T13': 0.0}
+  RESUMEN afinado: {'acc_3clases': 0.8257328990228013, 'acc_T11_T12': 0.8457047539616347, 'bal_acc_T11_T12': 0.8635796850256243, 'f1_macro_T11_T12': 0.8258426324952196, 'recall_T11': 0.9181141439205955, 'recall_T12': 0.8090452261306532, 'recall_T13': 0.0}
+
+== Gradient_Boosting
+  pliegue 1/5: base=0.782 afinado=0.869  {'subsample': 0.7, 'peso': 'dos_clases', 'n_estimators': 200, 'max_depth': 2, 'learning_rate': 0.05}
+  pliegue 2/5: base=0.819 afinado=0.875  {'subsample': 0.7, 'peso': 'dos_clases', 'n_estimators': 200, 'max_depth': 2, 'learning_rate': 0.05}
+  pliegue 3/5: base=0.809 afinado=0.834  {'subsample': 0.7, 'peso': 'dos_clases', 'n_estimators': 100, 'max_depth': 2, 'learning_rate': 0.05}
+  pliegue 4/5: base=0.826 afinado=0.862  {'subsample': 1.0, 'peso': 'dos_clases', 'n_estimators': 200, 'max_depth': 2, 'learning_rate': 0.05}
+  pliegue 5/5: base=0.841 afinado=0.869  {'subsample': 1.0, 'peso': 'dos_clases', 'n_estimators': 200, 'max_depth': 2, 'learning_rate': 0.05}
+  RESUMEN base:    {'acc_3clases': 0.8021172638436482, 'acc_T11_T12': 0.8215179316096747, 'bal_acc_T11_T12': 0.8153484544309637, 'f1_macro_T11_T12': 0.7966381629771704, 'recall_T11': 0.7965260545905707, 'recall_T12': 0.8341708542713567, 'recall_T13': 0.0}
+  RESUMEN afinado: {'acc_3clases': 0.8281758957654723, 'acc_T11_T12': 0.8482068390325271, 'bal_acc_T11_T12': 0.8617887826227913, 'f1_macro_T11_T12': 0.8280591035822488, 'recall_T11': 0.9032258064516129, 'recall_T12': 0.8203517587939698, 'recall_T13': 0.0}
+
+Terminado: /mnt/c/Users/drago/OneDrive/Documents/Proyecto_maderas/Modelos_T1_V4/characters_plus636_80/Machine

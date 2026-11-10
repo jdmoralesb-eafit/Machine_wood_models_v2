@@ -1,0 +1,153 @@
+1 - Growth ring boundaries distinct
+2 - Growth ring boundaries indistinct or absent
+3 - Wood ring-porous
+4 - Wood semi-ring-porous
+5 - Wood diffuse-porous
+6 - Vessels in tangential bands
+7 - Vessels in diagonal and / or radial pattern
+8 - Vessels in dendritic pattern
+9 - Vessels exclusively solitary (90% or more)
+10 - Vessels in radial multiples of 4 or more common
+11 - Vessel clusters common
+12MH - Solitary vessel outline angular
+13 - Simple perforation plates
+14 - Scalariform perforation plates
+15 - Scalariform perforation plates with <= 10 bars
+16 - Scalariform perforation plates with 10 - 20 bars
+17 - Scalariform perforation plates with 20 - 40 bars
+18 - Scalariform perforation plates with >= 40 bars
+19MH - Reticulate, foraminate, and / or other types of multiple perforation plates
+20 - Intervessel pits scalariform
+21 - Intervessel pits opposite
+22 - Intervessel pits alternate
+23MH - Shape of alternate pits polygonal
+24 - Minute - <= 4 ¬µm
+25MH - Small - 4 - 7 ¬µm
+26MH - Medium - 7 - 10 ¬µm
+27 - Large - >= 10 ¬µm
+29MH - Vestured pits
+37MH - Helical thickenings throughout body of vessel element
+38MH - Helical thickenings only in vessel element tails
+39MH - Helical thickenings only in narrower vessel elements
+40 - <= 50 ¬µm
+41 - 50 - 100 ¬µm
+42 - 100 - 200 ¬µm
+43 - >= 200 ¬µm
+45MH - Vessels of two distinct diameter classes, wood not ring-porous
+46 - <= 5 vessels per square millimetre
+47 - 5 - 20 vessels per square millimetre
+48 - 20 - 40 vessels per square millimetre
+49 - 40 - 100 vessels per square millimetre
+50 - >= 100 vessels per square millimetre
+56 - Tyloses common
+57MH - Tyloses sclerotic
+58MH - Gums and other deposits in heartwood vessels
+59MH - Wood vesselless
+60 - Vascular / vasicentric tracheids present
+61 - Fibres with simple to minutely bordered pits
+62 - Fibres with distinctly bordered pits
+63MH - Fibre pits common in both radial and tangential walls
+64MH - Helical thickenings in ground tissue fibres
+65 - Septate fibres present
+66MH - Non-septate fibres present
+67MH - Parenchyma-like fibre bands alternating with ordinary fibres
+68MH - Fibres very thin-walled
+69MH - Fibres thin- to thick-walled
+70MH - Fibres very thick-walled
+71MH - <= 900 ¬µm
+72MH - 900-1600 ¬µm
+73MH - >= 1600 ¬µm
+75 - Axial parenchyma absent or extremely rare
+76 - Axial parenchyma diffuse
+77 - Axial parenchyma diffuse-in-aggregates
+78 - Axial parenchyma scanty paratracheal
+79 - Axial parenchyma vasicentric
+80 - Axial parenchyma aliform
+81MH - Axial parenchyma lozenge-aliform
+82MH - Axial parenchyma winged-aliform
+83 - Axial parenchyma confluent
+84 - Axial parenchyma unilateral paratracheal
+85 - Axial parenchyma bands more than three cells wide
+86 - Axial parenchyma in narrow bands or lines up to three cells wide
+87MH - Axial parenchyma reticulate
+88MH - Axial parenchyma scalariform
+89 - Axial parenchyma in marginal or in seemingly marginal bands
+90MH - Fusiform parenchyma cells
+91MH - Two cells per parenchyma strand
+92MH - Four (3-4) cells per parenchyma strand
+93MH - Eight (5-8) cells per parenchyma strand
+94MH - Over eight cells per parenchyma strand
+95MH - Unlignified parenchyma
+96 - Rays exclusively uniseriate
+97 - Ray width 1 to 3 cells
+98 - Larger rays commonly 4 - to 10 seriate
+99 - Larger rays commonly > 10-seriate
+100 - Rays with multiseriate portion(s) as wide as uniseriate portions
+101 - Aggregate rays
+103 - Rays of two distinct sizes
+104 - All ray cells procumbent
+105 - All ray cells upright and / or square
+106 - Body ray cells procumbent with one row of upright and / or square marginal cells
+107 - Body ray cells procumbent with mostly 2-4 rows of upright and / or square marginal cells
+108 - Body ray cells procumbent with over 4 rows of upright and / or square marginal cells
+109MH - Rays with procumbent, square and upright cells mixed throughout the ray
+110 - Sheath cells
+111 - Tile cells
+112MH - Perforated ray cells
+113MH - Disjunctive ray parenchyma cell walls
+117MH - Wood rayless
+118MH - All rays storied
+119MH - Low rays storied, high rays non-storied.
+120 - Axial parenchyma and / or vessel elements storied
+121MH - Fibres storied
+122MH - Rays and / or axial elements irregularly storied
+124 - Oil and / or mucilage cells associated with ray parenchyma
+125 - Oil and / or mucilage cells associated with axial parenchyma
+126 - Oil and / or mucilage cells present among fibres
+127MH - Axial canals in long tangential lines
+128MH - Axial canals in short tangential lines
+129MH - Axial canals diffuse
+130 - Radial canals
+131 - Intercellular canals of traumatic origin
+132MH - Laticifers or tanniniferous tubes
+133MH - Included phloem, concentric
+134MH - Included phloem, diffuse
+135MH - Other cambial variants
+136 - Prismatic crystals present
+137 - Prismatic crystals in upright and / or square ray cells
+138 - Prismatic crystals in procumbent ray cells
+139MH - Prismatic crystals in radial alignment in procumbent ray cells
+140MH - Prismatic crystals in chambered upright and / or square ray cells
+141 - Prismatic crystals in non-chambered axial parenchyma cells
+142 - Prismatic crystals in chambered axial parenchyma cells
+143MH - Prismatic crystals in fibres
+144MH - Druses present
+145MH - Druses in ray parenchyma cells
+146MH - Druses in axial parenchyma cells
+147MH - Druses in fibres
+148MH - Druses in chambered cells
+149MH - Raphides
+150MH - Acicular crystals
+151MH - Styloids and / or elongate crystals
+152MH - Crystals of other shapes (mostly small)
+153MH - Crystal sand
+154MH - More than one crystal of about the same size per cell or chamber
+155MH - Two distinct sizes of crystals per cell or chamber
+156 - Crystals in enlarged cells
+157MH - Crystals in tyloses
+158MH - Cystoliths
+159MH - Silica bodies present
+160MH - Silica bodies in ray cells
+161MH - Silica bodies in axial parenchyma cells
+162MH - Silica bodies in fibres
+163MH - Vitreous silica
+213MH - Ethanol extract basically yellow or shades of yellow
+300FH - Vessel-ray pits with much reduced borders to apparently simple
+301FH - Banded
+302FH - Rays heterocellular
+303FH - Rays storied
+304FH - Oil / mucilage cells present
+305FH - Axial canals, normal
+306FH - Included phloem
+307FH - In ray cells
+308FH - In axial parenchyma cells

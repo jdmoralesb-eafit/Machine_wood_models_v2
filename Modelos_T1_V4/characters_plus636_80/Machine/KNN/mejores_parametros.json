@@ -1,0 +1,34 @@
+{
+  "modelo_final": {
+    "weights": "uniform",
+    "p": 1,
+    "n_neighbors": 11
+  },
+  "por_pliegue_externo": [
+    {
+      "weights": "uniform",
+      "p": 1,
+      "n_neighbors": 11
+    },
+    {
+      "weights": "uniform",
+      "p": 1,
+      "n_neighbors": 7
+    },
+    {
+      "weights": "uniform",
+      "p": 1,
+      "n_neighbors": 11
+    },
+    {
+      "weights": "uniform",
+      "p": 1,
+      "n_neighbors": 7
+    },
+    {
+      "weights": "uniform",
+      "p": 1,
+      "n_neighbors": 11
+    }
+  ]
+}

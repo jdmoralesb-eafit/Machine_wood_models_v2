@@ -1,0 +1,46 @@
+{
+  "tipo": "characteristics",
+  "umbral": 80,
+  "modelo": "Gradient_Boosting",
+  "metodo": "sigmoid (Platt), CV agrupada por especie",
+  "metricas_anidadas_sin_calibrar": {
+    "acc_3clases": 0.8910355486862442,
+    "acc_T11_T12": 0.9045186640471513,
+    "bal_acc_T11_T12": 0.925607960199005,
+    "f1_macro_T11_T12": 0.8780520604101328,
+    "recall_T11": 0.9701492537313433,
+    "recall_T12": 0.8810666666666667,
+    "recall_T13": 0.09302325581395349
+  },
+  "metricas_anidadas_calibrado": {
+    "acc_3clases": 0.8941267387944358,
+    "acc_T11_T12": 0.9092337917485265,
+    "bal_acc_T11_T12": 0.9014706467661692,
+    "f1_macro_T11_T12": 0.8765298640518511,
+    "recall_T11": 0.8850746268656716,
+    "recall_T12": 0.9178666666666667,
+    "recall_T13": 0.0
+  },
+  "confianza_vs_exactitud": [
+    {
+      "confianza": "0%-50%",
+      "n": 31,
+      "exactitud": 0.4838709677419355
+    },
+    {
+      "confianza": "50%-70%",
+      "n": 322,
+      "exactitud": 0.5807453416149069
+    },
+    {
+      "confianza": "70%-90%",
+      "n": 547,
+      "exactitud": 0.8007312614259597
+    },
+    {
+      "confianza": "90%-100%",
+      "n": 1688,
+      "exactitud": 0.9917061611374408
+    }
+  ]
+}

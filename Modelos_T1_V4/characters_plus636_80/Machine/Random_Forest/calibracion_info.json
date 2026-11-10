@@ -1,0 +1,46 @@
+{
+  "tipo": "characters_plus636",
+  "umbral": 80,
+  "modelo": "Random_Forest",
+  "metodo": "sigmoid (Platt), CV agrupada por especie",
+  "metricas_anidadas_sin_calibrar": {
+    "acc_3clases": 0.8241042345276873,
+    "acc_T11_T12": 0.8440366972477065,
+    "bal_acc_T11_T12": 0.8525225382495605,
+    "f1_macro_T11_T12": 0.8218030288805276,
+    "recall_T11": 0.8784119106699751,
+    "recall_T12": 0.8266331658291457,
+    "recall_T13": 0.0
+  },
+  "metricas_anidadas_calibrado": {
+    "acc_3clases": 0.8192182410423453,
+    "acc_T11_T12": 0.8390325271059216,
+    "bal_acc_T11_T12": 0.8414030450016834,
+    "f1_macro_T11_T12": 0.8152578311146086,
+    "recall_T11": 0.8486352357320099,
+    "recall_T12": 0.8341708542713567,
+    "recall_T13": 0.0
+  },
+  "confianza_vs_exactitud": [
+    {
+      "confianza": "0%-50%",
+      "n": 12,
+      "exactitud": 0.5
+    },
+    {
+      "confianza": "50%-70%",
+      "n": 229,
+      "exactitud": 0.5938864628820961
+    },
+    {
+      "confianza": "70%-90%",
+      "n": 382,
+      "exactitud": 0.6963350785340314
+    },
+    {
+      "confianza": "90%-100%",
+      "n": 605,
+      "exactitud": 0.9884297520661157
+    }
+  ]
+}

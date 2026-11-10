@@ -1,0 +1,12 @@
+Growth_Rings
+Vessel_porosity
+Vessel_arangement
+Perforation_plates
+Intervessel_pits_arregement
+Mean_tangential_diameter_of_vessel_lumina
+Septa_in_fibers
+Fibre_wall_thickness
+Parenchyma_Paratracheal
+Type_of_parenchyma_banding
+Ray_width
+Rays_cellular_composition
